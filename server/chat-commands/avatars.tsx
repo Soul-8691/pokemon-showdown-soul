@@ -129,7 +129,6 @@ export const Avatars = new class {
 		return avatar;
 	}
 	img(avatar: AvatarID, noAlt?: boolean) {
-		// if (avatar.startsWith('@')) {
 		const src = Avatars.src(avatar);
 		if (!src) return <strong><code>{avatar}</code></strong>;
 		return <img
