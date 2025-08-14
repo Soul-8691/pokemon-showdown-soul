@@ -79,6 +79,7 @@ export const Avatars = new class {
 	canUse(userid: ID, avatar: string): AvatarID | null {
 		avatar = avatar.toLowerCase().replace(/[^a-z0-9-.#]+/g, '');
 		if (OFFICIAL_AVATARS.has(avatar)) return avatar;
+		if (CUSTOM_AVATARS.has(avatar)) return '@' + avatar;
 
 		const customs = customAvatars[userid]?.allowed;
 		if (!customs) return null;
@@ -93,7 +94,9 @@ export const Avatars = new class {
 	}
 	src(avatar: AvatarID) {
 		if (avatar.includes('.')) return '';
-		const avatarUrl = avatar.startsWith('#') ? `trainers-custom/${avatar.slice(1)}.png` : `trainers/${avatar}.png`;
+		var avatarUrl = avatar.startsWith('#') ? `trainers-custom/${avatar.slice(1)}.png` : `trainers/${avatar}.png`;
+		if (avatar.startsWith('@'))
+			return `'https://raw.githubusercontent.com/Soul-8691/pokemon-showdown/refs/heads/typ/config/avatars/${avatar.slice(1)}.png`;
 		return `https://${Config.routes.client}/sprites/${avatarUrl}`;
 	}
 	exists(avatar: string) {
@@ -222,6 +225,10 @@ export const Avatars = new class {
 function listUsers(users: string[]) {
 	return users.flatMap((userid, i) => [i ? ', ' : null, <username class="username">{userid}</username>]);
 }
+
+const CUSTOM_AVATARS = new Set([
+	'ash-kalarie',
+]);
 
 const OFFICIAL_AVATARS = new Set([
 	'aaron',
