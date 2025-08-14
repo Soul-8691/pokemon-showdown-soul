@@ -100,6 +100,9 @@ export const Avatars = new class {
 		return `https://${Config.routes.client}/sprites/${avatarUrl}`;
 	}
 	exists(avatar: string) {
+		if (avatar.startsWith('@')) {
+			return CUSTOM_AVATARS.has(avatar);
+		}
 		if (avatar.includes('.')) {
 			return FS(`config/avatars/${avatar}`).isFile();
 		}
@@ -109,7 +112,7 @@ export const Avatars = new class {
 		return Net(Avatars.src(avatar)).get().then(() => true).catch(() => false);
 	}
 	convert(avatar: string) {
-		if (avatar.startsWith('#') && avatar.includes('.')) return avatar.slice(1);
+		if ((avatar.startsWith('#') && avatar.includes('.')) || avatar.startsWith('#')) return avatar.slice(1);
 		return avatar;
 	}
 	async validate(avatar: string, options?: { rejectOfficial?: boolean }) {
