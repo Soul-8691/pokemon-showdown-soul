@@ -96,7 +96,7 @@ export const Avatars = new class {
 		if (avatar.includes('.')) return '';
 		var avatarUrl = avatar.startsWith('#') ? `trainers-custom/${avatar.slice(1)}.png` : `trainers/${avatar}.png`;
 		if (avatar.startsWith('@'))
-			return `'https://raw.githubusercontent.com/Soul-8691/pokemon-showdown/refs/heads/typ/config/avatars/${avatar.slice(1)}.png`;
+			return `https://raw.githubusercontent.com/Soul-8691/pokemon-showdown/refs/heads/typ/config/avatars/${avatar.slice(1)}.png`;
 		return `https://${Config.routes.client}/sprites/${avatarUrl}`;
 	}
 	exists(avatar: string) {
@@ -129,6 +129,7 @@ export const Avatars = new class {
 		return avatar;
 	}
 	img(avatar: AvatarID, noAlt?: boolean) {
+		// if (avatar.startsWith('@')) {
 		const src = Avatars.src(avatar);
 		if (!src) return <strong><code>{avatar}</code></strong>;
 		return <img
