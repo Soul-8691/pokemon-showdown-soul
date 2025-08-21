@@ -825,7 +825,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "OU"
 	},
 	wobbuffet: {
-		tier: "OU"
+		tier: "Uber"
 	},
 	girafarig: {
 		tier: "4"
@@ -1380,7 +1380,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Uber"
 	},
 	wynaut: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	snorunt: {
 		tier: "LC"
@@ -1479,7 +1479,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Uber"
 	},
 	jirachi: {
-		tier: "OU"
+		tier: "20"
 	},
 	deoxys: {
 		tier: "Uber"
