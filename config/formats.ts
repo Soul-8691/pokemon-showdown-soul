@@ -41,24 +41,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass', 'Smeargle + Ingrain', 'Drizzle', 'Drought', 'Starf Berry', 'Speed Boost + Blaziken'],
 	},
 	{
-		name: "[Gen 3] Hoennification Ubers",
-		mod: 'gen3hoennification',
-		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod', 'Baton Pass Mod'],
-		banlist: ['Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
-	},
-	{
-		name: "[Gen 3] Hoennification Ubers - BP",
-		mod: 'gen3hoennification',
-		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
-		banlist: ['Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
-	},
-	{
-		name: "[Gen 3] Hoennification Ubers - No BP",
-		mod: 'gen3hoennification',
-		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
-		banlist: ['Baton Pass', 'Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
-	},
-	{
 		name: "[Gen 3] Hoennification OU",
 		mod: 'gen3hoennification',
 		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod', 'Baton Pass Mod'],
@@ -75,6 +57,24 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		mod: 'gen3hoennification',
 		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
 		banlist: ['Uber', 'Soundproof', 'Assist', 'Baton Pass', 'Smeargle + Ingrain', 'Starf Berry', 'Speed Boost + Blaziken', 'Drizzle', 'Drought'],
+	},
+	{
+		name: "[Gen 3] Hoennification Ubers",
+		mod: 'gen3hoennification',
+		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod', 'Baton Pass Mod'],
+		banlist: ['Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
+	},
+	{
+		name: "[Gen 3] Hoennification Ubers - BP",
+		mod: 'gen3hoennification',
+		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
+	},
+	{
+		name: "[Gen 3] Hoennification Ubers - No BP",
+		mod: 'gen3hoennification',
+		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Baton Pass', 'Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
 	},
 	{
 		name: "[Gen 3] OU Frantic Fusions (Modded)",
@@ -96,5 +96,23 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 				this.hint(side.team[0].sampleTeamName, true, pokemon.side);
 			}
 		},
+	},
+	{
+		name: "[Gen 3] Tradebacks",
+		mod: 'gen3tradebacks',
+		ruleset: ['Standard', /*'Baton Pass Mod',*/ 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Smeargle + Ingrain'],
+	},
+	{
+		name: "[Gen 3] Tradebacks - BP Mod",
+		mod: 'gen3tradebacks',
+		ruleset: ['Standard', 'Baton Pass Mod', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Smeargle + Ingrain'],
+	},
+	{
+		name: "[Gen 3] Tradebacks - No BP",
+		mod: 'gen3tradebacks',
+		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass', 'Smeargle + Ingrain'],
 	},
 ];
