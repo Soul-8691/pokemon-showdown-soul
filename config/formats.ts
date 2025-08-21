@@ -77,7 +77,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Baton Pass', 'Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
 	},
 	{
-		name: "[Gen 3] OU Frantic Fusions (Modded)",
+		name: "[Gen 3] OU Frantic Fusions (Old Version)",
 		mod: 'gen3',
 		ruleset: ['Standard OMs', '!Nickname Clause', '!Obtainable Abilities', 'Ability Clause = 2', 'Sleep Moves Clause', 'Frantic Fusions Mod', 'Terastal Clause', 'Baton Pass Mod', 'One Boost Passer Clause', 'Data Mod'],
 		banlist: [
