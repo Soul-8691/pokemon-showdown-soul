@@ -1479,7 +1479,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Uber"
 	},
 	jirachi: {
-		tier: "20"
+		tier: "DL Ban"
 	},
 	deoxys: {
 		tier: "Uber"
