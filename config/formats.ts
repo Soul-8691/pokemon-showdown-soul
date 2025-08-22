@@ -79,10 +79,9 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 3] OU Frantic Fusions (Old Version)",
 		mod: 'gen3',
-		ruleset: ['Standard OMs', '!Nickname Clause', '!Obtainable Abilities', 'Ability Clause = 2', 'Sleep Moves Clause', 'Frantic Fusions Mod', 'Terastal Clause', 'Baton Pass Mod', 'One Boost Passer Clause', 'Data Mod'],
+		ruleset: ['Standard', '!Nickname Clause', '!Obtainable Abilities', 'Ability Clause = 2', 'Sleep Moves Clause', 'Frantic Fusions Mod', 'Terastal Clause', 'Baton Pass Mod', 'One Boost Passer Clause', 'Data Mod', 'Freeze Clause Mod'],
 		banlist: [
 			'Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Smeargle + Ingrain', 'Drizzle', 'Drought', 'Starf Berry', 'Speed Boost', 'Huge Power', 'Pure Power', 'Shadow Tag', 'Arena Trap',
-			'Revival Blessing', 'Shed Tail',
 		],
 		onValidateTeam(team) {
 			const nameTable: {[k: string]: boolean} = {};
