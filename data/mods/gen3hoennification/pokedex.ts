@@ -233,7 +233,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Venusaur",
-		// "changesFrom": "Venusaur"
+		"changesFrom": "Venusaur"
 	},
 	charmander: {
 		"exists": true,
@@ -466,7 +466,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Charizard",
-		// "changesFrom": "Charizard"
+		"changesFrom": "Charizard"
 	},
 	charizardmegay: {
 		"exists": true,
@@ -526,7 +526,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Charizard",
-		// "changesFrom": "Charizard"
+		"changesFrom": "Charizard"
 	},
 	squirtle: {
 		"exists": true,
@@ -758,7 +758,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Blastoise",
-		// "changesFrom": "Blastoise"
+		"changesFrom": "Blastoise"
 	},
 	caterpie: {
 		"exists": true,
@@ -1149,7 +1149,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Beedrill",
-		// "changesFrom": "Beedrill"
+		"changesFrom": "Beedrill"
 	},
 	pidgey: {
 		"exists": true,
@@ -1377,7 +1377,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Pidgeot",
-		// "changesFrom": "Pidgeot"
+		"changesFrom": "Pidgeot"
 	},
 	rattata: {
 		"exists": true,
@@ -2053,7 +2053,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Pikachu-Cosplay",
+		"changesFrom": "Pikachu-Cosplay",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -2106,7 +2106,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Pikachu-Cosplay",
+		"changesFrom": "Pikachu-Cosplay",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -2159,7 +2159,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Pikachu-Cosplay",
+		"changesFrom": "Pikachu-Cosplay",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -2212,7 +2212,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Pikachu-Cosplay",
+		"changesFrom": "Pikachu-Cosplay",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -2265,7 +2265,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Pikachu-Cosplay",
+		"changesFrom": "Pikachu-Cosplay",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -5743,7 +5743,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Alakazam",
-		// "changesFrom": "Alakazam"
+		"changesFrom": "Alakazam"
 	},
 	machop: {
 		"exists": true,
@@ -7003,7 +7003,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Slowbro",
-		// "changesFrom": "Slowbro"
+		"changesFrom": "Slowbro"
 	},
 	slowbrogalar: {
 		"exists": true,
@@ -8067,7 +8067,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Gengar",
-		// "changesFrom": "Gengar"
+		"changesFrom": "Gengar"
 	},
 	onix: {
 		"exists": true,
@@ -9646,7 +9646,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Kangaskhan",
-		// "changesFrom": "Kangaskhan"
+		"changesFrom": "Kangaskhan"
 	},
 	horsea: {
 		"exists": true,
@@ -10431,7 +10431,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Pinsir",
-		// "changesFrom": "Pinsir"
+		"changesFrom": "Pinsir"
 	},
 	tauros: {
 		"exists": true,
@@ -10827,7 +10827,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Gyarados",
-		// "changesFrom": "Gyarados"
+		"changesFrom": "Gyarados"
 	},
 	lapras: {
 		"exists": true,
@@ -11608,7 +11608,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Aerodactyl",
-		// "changesFrom": "Aerodactyl"
+		"changesFrom": "Aerodactyl"
 	},
 	snorlax: {
 		"exists": true,
@@ -12305,7 +12305,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Mewtwo",
-		// "changesFrom": "Mewtwo"
+		"changesFrom": "Mewtwo"
 	},
 	mewtwomegay: {
 		"exists": true,
@@ -12366,7 +12366,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Mewtwo",
-		// "changesFrom": "Mewtwo"
+		"changesFrom": "Mewtwo"
 	},
 	mew: {
 		"exists": true,
@@ -14236,7 +14236,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Ampharos",
-		// "changesFrom": "Ampharos"
+		"changesFrom": "Ampharos"
 	},
 	bellossom: {
 		"exists": true,
@@ -15954,7 +15954,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Steelix",
-		// "changesFrom": "Steelix"
+		"changesFrom": "Steelix"
 	},
 	snubbull: {
 		"exists": true,
@@ -16299,7 +16299,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Scizor",
-		// "changesFrom": "Scizor"
+		"changesFrom": "Scizor"
 	},
 	shuckle: {
 		"exists": true,
@@ -16470,7 +16470,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Heracross",
-		// "changesFrom": "Heracross"
+		"changesFrom": "Heracross"
 	},
 	sneasel: {
 		"exists": true,
@@ -17474,7 +17474,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Houndoom",
-		// "changesFrom": "Houndoom"
+		"changesFrom": "Houndoom"
 	},
 	kingdra: {
 		"exists": true,
@@ -18571,7 +18571,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Tyranitar",
-		// "changesFrom": "Tyranitar"
+		"changesFrom": "Tyranitar"
 	},
 	lugia: {
 		"exists": true,
@@ -18965,7 +18965,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Sceptile",
-		// "changesFrom": "Sceptile"
+		"changesFrom": "Sceptile"
 	},
 	torchic: {
 		"exists": true,
@@ -19195,7 +19195,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Blaziken",
-		// "changesFrom": "Blaziken"
+		"changesFrom": "Blaziken"
 	},
 	mudkip: {
 		"exists": true,
@@ -19429,7 +19429,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Swampert",
-		// "changesFrom": "Swampert"
+		"changesFrom": "Swampert"
 	},
 	poochyena: {
 		"exists": true,
@@ -20825,7 +20825,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Gardevoir",
-		// "changesFrom": "Gardevoir"
+		"changesFrom": "Gardevoir"
 	},
 	surskit: {
 		"exists": true,
@@ -21970,7 +21970,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Sableye",
-		// "changesFrom": "Sableye"
+		"changesFrom": "Sableye"
 	},
 	mawile: {
 		"exists": true,
@@ -22091,7 +22091,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Mawile",
-		// "changesFrom": "Mawile"
+		"changesFrom": "Mawile"
 	},
 	aron: {
 		"exists": true,
@@ -22321,7 +22321,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Aggron",
-		// "changesFrom": "Aggron"
+		"changesFrom": "Aggron"
 	},
 	meditite: {
 		"exists": true,
@@ -22494,7 +22494,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Medicham",
-		// "changesFrom": "Medicham"
+		"changesFrom": "Medicham"
 	},
 	electrike: {
 		"exists": true,
@@ -22668,7 +22668,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Manectric",
-		// "changesFrom": "Manectric"
+		"changesFrom": "Manectric"
 	},
 	plusle: {
 		"exists": true,
@@ -23220,7 +23220,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Sharpedo",
-		// "changesFrom": "Sharpedo"
+		"changesFrom": "Sharpedo"
 	},
 	wailmer: {
 		"exists": true,
@@ -23505,7 +23505,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Camerupt",
-		// "changesFrom": "Camerupt"
+		"changesFrom": "Camerupt"
 	},
 	torkoal: {
 		"exists": true,
@@ -24170,7 +24170,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Altaria",
-		// "changesFrom": "Altaria"
+		"changesFrom": "Altaria"
 	},
 	zangoose: {
 		"exists": true,
@@ -25149,7 +25149,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Castform"
+		"changesFrom": "Castform"
 	},
 	castformrainy: {
 		"exists": true,
@@ -25204,7 +25204,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Castform"
+		"changesFrom": "Castform"
 	},
 	castformsnowy: {
 		"exists": true,
@@ -25259,7 +25259,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Castform"
+		"changesFrom": "Castform"
 	},
 	kecleon: {
 		"exists": true,
@@ -25480,7 +25480,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Banette",
-		// "changesFrom": "Banette"
+		"changesFrom": "Banette"
 	},
 	duskull: {
 		"exists": true,
@@ -25809,7 +25809,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Absol",
-		// "changesFrom": "Absol"
+		"changesFrom": "Absol"
 	},
 	wynaut: {
 		"exists": true,
@@ -26036,7 +26036,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Glalie",
-		// "changesFrom": "Glalie"
+		"changesFrom": "Glalie"
 	},
 	spheal: {
 		"exists": true,
@@ -26697,7 +26697,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Salamence",
-		// "changesFrom": "Salamence"
+		"changesFrom": "Salamence"
 	},
 	beldum: {
 		"exists": true,
@@ -26929,7 +26929,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Metagross",
-		// "changesFrom": "Metagross"
+		"changesFrom": "Metagross"
 	},
 	regirock: {
 		"exists": true,
@@ -27216,7 +27216,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Latias",
-		// "changesFrom": "Latias"
+		"changesFrom": "Latias"
 	},
 	latios: {
 		"exists": true,
@@ -27340,7 +27340,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Latios",
-		// "changesFrom": "Latios"
+		"changesFrom": "Latios"
 	},
 	kyogre: {
 		"exists": true,
@@ -27704,7 +27704,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Rayquaza",
-		// "changesFrom": "Rayquaza"
+		"changesFrom": "Rayquaza"
 	},
 	jirachi: {
 		"exists": true,
@@ -27854,7 +27854,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Deoxys",
+		"changesFrom": "Deoxys",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "deoxysattack",
@@ -27909,7 +27909,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Deoxys",
+		"changesFrom": "Deoxys",
 		"tier": "NUBL",
 		"doublesTier": "(DUU)",
 		"id": "deoxysdefense",
@@ -27964,7 +27964,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Deoxys",
+		"changesFrom": "Deoxys",
 		"tier": "OU",
 		"doublesTier": "(DUU)",
 		"id": "deoxysspeed",
@@ -30075,7 +30075,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Cherrim"
+		"changesFrom": "Cherrim"
 	},
 	shellos: {
 		"exists": true,
@@ -30533,7 +30533,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Lopunny",
-		// "changesFrom": "Lopunny"
+		"changesFrom": "Lopunny"
 	},
 	mismagius: {
 		"exists": true,
@@ -31522,7 +31522,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Garchomp",
-		// "changesFrom": "Garchomp"
+		"changesFrom": "Garchomp"
 	},
 	munchlax: {
 		"exists": true,
@@ -31751,7 +31751,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Lucario",
-		// "changesFrom": "Lucario"
+		"changesFrom": "Lucario"
 	},
 	hippopotas: {
 		"exists": true,
@@ -32464,7 +32464,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Abomasnow",
-		// "changesFrom": "Abomasnow"
+		"changesFrom": "Abomasnow"
 	},
 	weavile: {
 		"exists": true,
@@ -33349,7 +33349,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Gallade",
-		// "changesFrom": "Gallade"
+		"changesFrom": "Gallade"
 	},
 	probopass: {
 		"exists": true,
@@ -33610,7 +33610,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Amorphous"
 		],
-		// "changesFrom": "Rotom",
+		"changesFrom": "Rotom",
 		"tier": "PU",
 		"doublesTier": "(DUU)",
 		"id": "rotomheat",
@@ -33664,7 +33664,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Amorphous"
 		],
-		// "changesFrom": "Rotom",
+		"changesFrom": "Rotom",
 		"tier": "UU",
 		"doublesTier": "(DUU)",
 		"id": "rotomwash",
@@ -33718,7 +33718,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Amorphous"
 		],
-		// "changesFrom": "Rotom",
+		"changesFrom": "Rotom",
 		"tier": "ZU",
 		"doublesTier": "(DUU)",
 		"id": "rotomfrost",
@@ -33772,7 +33772,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Amorphous"
 		],
-		// "changesFrom": "Rotom",
+		"changesFrom": "Rotom",
 		"tier": "ZU",
 		"doublesTier": "(DUU)",
 		"id": "rotomfan",
@@ -33826,7 +33826,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Amorphous"
 		],
-		// "changesFrom": "Rotom",
+		"changesFrom": "Rotom",
 		"tier": "PU",
 		"doublesTier": "(DUU)",
 		"id": "rotommow",
@@ -34107,7 +34107,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Adamant Crystal",
-		// "changesFrom": "Dialga",
+		"changesFrom": "Dialga",
 		"gen": 3,
 		"tier": "Uber",
 		"doublesTier": "DUber",
@@ -34229,7 +34229,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Lustrous Globe",
-		// "changesFrom": "Palkia",
+		"changesFrom": "Palkia",
 		"gen": 3,
 		"tier": "Uber",
 		"doublesTier": "DUber",
@@ -34460,7 +34460,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Griseous Core",
-		// "changesFrom": "Giratina",
+		"changesFrom": "Giratina",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "giratinaorigin",
@@ -34798,7 +34798,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Shaymin",
+		"changesFrom": "Shaymin",
 		"tier": "Uber",
 		"doublesTier": "(DUU)",
 		"id": "shayminsky",
@@ -34950,7 +34950,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Insect Plate",
 		//		"Buginium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusbug",
 		"fullname": "pokemon: Arceus-Bug",
 		"effectType": "Pokemon",
@@ -35009,7 +35009,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Dread Plate",
 		//		"Darkinium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusdark",
 		"fullname": "pokemon: Arceus-Dark",
 		"effectType": "Pokemon",
@@ -35068,7 +35068,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Draco Plate",
 		//		"Dragonium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusdragon",
 		"fullname": "pokemon: Arceus-Dragon",
 		"effectType": "Pokemon",
@@ -35127,7 +35127,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Zap Plate",
 		//		"Electrium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceuselectric",
 		"fullname": "pokemon: Arceus-Electric",
 		"effectType": "Pokemon",
@@ -35186,7 +35186,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Pixie Plate",
 		//		"Fairium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"gen": 3,
 		"id": "arceusfairy",
 		"fullname": "pokemon: Arceus-Fairy",
@@ -35245,7 +35245,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Fist Plate",
 		//		"Fightinium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusfighting",
 		"fullname": "pokemon: Arceus-Fighting",
 		"effectType": "Pokemon",
@@ -35304,7 +35304,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Flame Plate",
 		//		"Firium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusfire",
 		"fullname": "pokemon: Arceus-Fire",
 		"effectType": "Pokemon",
@@ -35363,7 +35363,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Sky Plate",
 		//		"Flyinium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusflying",
 		"fullname": "pokemon: Arceus-Flying",
 		"effectType": "Pokemon",
@@ -35422,7 +35422,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Spooky Plate",
 		//		"Ghostium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusghost",
 		"fullname": "pokemon: Arceus-Ghost",
 		"effectType": "Pokemon",
@@ -35481,7 +35481,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Meadow Plate",
 		//		"Grassium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusgrass",
 		"fullname": "pokemon: Arceus-Grass",
 		"effectType": "Pokemon",
@@ -35540,7 +35540,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Earth Plate",
 		//		"Groundium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusground",
 		"fullname": "pokemon: Arceus-Ground",
 		"effectType": "Pokemon",
@@ -35599,7 +35599,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Icicle Plate",
 		//		"Icium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusice",
 		"fullname": "pokemon: Arceus-Ice",
 		"effectType": "Pokemon",
@@ -35658,7 +35658,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Toxic Plate",
 		//		"Poisonium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceuspoison",
 		"fullname": "pokemon: Arceus-Poison",
 		"effectType": "Pokemon",
@@ -35717,7 +35717,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Mind Plate",
 		//		"Psychium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceuspsychic",
 		"fullname": "pokemon: Arceus-Psychic",
 		"effectType": "Pokemon",
@@ -35776,7 +35776,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Stone Plate",
 		//		"Rockium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceusrock",
 		"fullname": "pokemon: Arceus-Rock",
 		"effectType": "Pokemon",
@@ -35835,7 +35835,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Iron Plate",
 		//		"Steelium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceussteel",
 		"fullname": "pokemon: Arceus-Steel",
 		"effectType": "Pokemon",
@@ -35894,7 +35894,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		// 		"Splash Plate",
 		//		"Waterium Z"
 		// ],
-		// "changesFrom": "Arceus",
+		"changesFrom": "Arceus",
 		"id": "arceuswater",
 		"fullname": "pokemon: Arceus-Water",
 		"effectType": "Pokemon",
@@ -38078,7 +38078,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Audino",
-		// "changesFrom": "Audino"
+		"changesFrom": "Audino"
 	},
 	timburr: {
 		"exists": true,
@@ -39683,7 +39683,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Darmanitan"
+		"changesFrom": "Darmanitan"
 	},
 	darmanitangalar: {
 		"exists": true,
@@ -39791,7 +39791,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Darmanitan-Galar"
+		"changesFrom": "Darmanitan-Galar"
 	},
 	maractus: {
 		"exists": true,
@@ -44792,7 +44792,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Tornadus",
+		"changesFrom": "Tornadus",
 		"tier": "UU",
 		"doublesTier": "(DUU)",
 		"id": "tornadustherian",
@@ -44910,7 +44910,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Thundurus",
+		"changesFrom": "Thundurus",
 		"tier": "RUBL",
 		"doublesTier": "(DUU)",
 		"id": "thundurustherian",
@@ -45138,7 +45138,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Landorus",
+		"changesFrom": "Landorus",
 		"tier": "OU",
 		"doublesTier": "DOU",
 		"id": "landorustherian",
@@ -45258,7 +45258,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Kyurem",
+		"changesFrom": "Kyurem",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "kyuremblack",
@@ -45314,7 +45314,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Kyurem",
+		"changesFrom": "Kyurem",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "kyuremwhite",
@@ -45433,7 +45433,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		"requiredMove": "Secret Sword",
-		// "changesFrom": "Keldeo",
+		"changesFrom": "Keldeo",
 		"id": "keldeoresolute",
 		"fullname": "pokemon: Keldeo-Resolute",
 		"effectType": "Pokemon",
@@ -45578,7 +45578,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Meloetta"
+		"changesFrom": "Meloetta"
 	},
 	genesect: {
 		"exists": true,
@@ -45678,7 +45678,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Douse Drive",
-		// "changesFrom": "Genesect",
+		"changesFrom": "Genesect",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "genesectdouse",
@@ -45738,7 +45738,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Shock Drive",
-		// "changesFrom": "Genesect",
+		"changesFrom": "Genesect",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "genesectshock",
@@ -45798,7 +45798,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Burn Drive",
-		// "changesFrom": "Genesect",
+		"changesFrom": "Genesect",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "genesectburn",
@@ -45858,7 +45858,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Chill Drive",
-		// "changesFrom": "Genesect",
+		"changesFrom": "Genesect",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "genesectchill",
@@ -46484,7 +46484,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Greninja-Bond"
+		"changesFrom": "Greninja-Bond"
 	},
 	bunnelby: {
 		"exists": true,
@@ -48115,7 +48115,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Aegislash"
+		"changesFrom": "Aegislash"
 	},
 	spritzee: {
 		"exists": true,
@@ -50753,7 +50753,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Zygarde",
+		"changesFrom": "Zygarde",
 		"gen": 3,
 		"isNonstandard": null,
 		"tier": "Illegal",
@@ -50839,7 +50839,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Zygarde"
+		"changesFrom": "Zygarde"
 	},
 	diancie: {
 		"exists": true,
@@ -50963,7 +50963,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
 		// "battleOnly": "Diancie",
-		// "changesFrom": "Diancie"
+		"changesFrom": "Diancie"
 	},
 	hoopa: {
 		"exists": true,
@@ -51056,7 +51056,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Hoopa",
+		"changesFrom": "Hoopa",
 		"tier": "RUBL",
 		"doublesTier": "(DUU)",
 		"id": "hoopaunbound",
@@ -52436,7 +52436,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Flying"
 		],
-		// "changesFrom": "Oricorio",
+		"changesFrom": "Oricorio",
 		"tier": "PUBL",
 		"doublesTier": "(DUU)",
 		"id": "oricoriopompom",
@@ -52489,7 +52489,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Flying"
 		],
-		// "changesFrom": "Oricorio",
+		"changesFrom": "Oricorio",
 		"tier": "ZU",
 		"doublesTier": "(DUU)",
 		"id": "oricoriopau",
@@ -52542,7 +52542,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Flying"
 		],
-		// "changesFrom": "Oricorio",
+		"changesFrom": "Oricorio",
 		"tier": "ZU",
 		"doublesTier": "(DUU)",
 		"id": "oricoriosensu",
@@ -53073,7 +53073,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Wishiwashi"
+		"changesFrom": "Wishiwashi"
 	},
 	mareanie: {
 		"exists": true,
@@ -54774,7 +54774,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Bug Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallybug",
@@ -54833,7 +54833,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Dark Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallydark",
@@ -54892,7 +54892,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Dragon Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallydragon",
@@ -54951,7 +54951,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Electric Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyelectric",
@@ -55010,7 +55010,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Fairy Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyfairy",
@@ -55069,7 +55069,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Fighting Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyfighting",
@@ -55128,7 +55128,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Fire Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyfire",
@@ -55187,7 +55187,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Flying Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyflying",
@@ -55246,7 +55246,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Ghost Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyghost",
@@ -55305,7 +55305,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Grass Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallygrass",
@@ -55364,7 +55364,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Ground Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyground",
@@ -55423,7 +55423,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Ice Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyice",
@@ -55482,7 +55482,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Poison Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallypoison",
@@ -55541,7 +55541,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Psychic Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallypsychic",
@@ -55600,7 +55600,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Rock Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallyrock",
@@ -55659,7 +55659,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Steel Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallysteel",
@@ -55718,7 +55718,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Water Memory",
-		// "changesFrom": "Silvally",
+		"changesFrom": "Silvally",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "silvallywater",
@@ -55882,7 +55882,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Minior"
+		"changesFrom": "Minior"
 	},
 	komala: {
 		"exists": true,
@@ -56218,7 +56218,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Mimikyu"
+		"changesFrom": "Mimikyu"
 	},
 	mimikyutotem: {
 		"exists": true,
@@ -56325,7 +56325,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Mimikyu-Totem"
+		"changesFrom": "Mimikyu-Totem"
 	},
 	bruxish: {
 		"exists": true,
@@ -57629,7 +57629,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Necrozma",
+		"changesFrom": "Necrozma",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "necrozmaduskmane",
@@ -57685,7 +57685,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Necrozma",
+		"changesFrom": "Necrozma",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "necrozmadawnwings",
@@ -57774,7 +57774,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Necrozma-Dawn-Wings"
+		"changesFrom": "Necrozma-Dawn-Wings"
 	},
 	magearna: {
 		"exists": true,
@@ -60343,7 +60343,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Cramorant"
+		"changesFrom": "Cramorant"
 	},
 	cramorantgorging: {
 		"exists": true,
@@ -60399,7 +60399,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Cramorant"
+		"changesFrom": "Cramorant"
 	},
 	arrokuda: {
 		"exists": true,
@@ -60703,7 +60703,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Human-Like"
 		],
 		// "battleOnly": "Toxtricity-Low-Key",
-		// "changesFrom": "Toxtricity-Low-Key",
+		"changesFrom": "Toxtricity-Low-Key",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "toxtricitylowkeygmax",
@@ -62344,7 +62344,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Eiscue"
+		"changesFrom": "Eiscue"
 	},
 	indeedee: {
 		"exists": true,
@@ -62576,7 +62576,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Morpeko"
+		"changesFrom": "Morpeko"
 	},
 	cufant: {
 		"exists": true,
@@ -63241,7 +63241,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"unreleasedHidden": false,
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
-		// "changesFrom": "Zacian"
+		"changesFrom": "Zacian"
 	},
 	zamazenta: {
 		"exists": true,
@@ -63363,7 +63363,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"unreleasedHidden": false,
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
-		// "changesFrom": "Zamazenta"
+		"changesFrom": "Zamazenta"
 	},
 	eternatus: {
 		"exists": true,
@@ -63692,7 +63692,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "battleOnly": "Urshifu-Rapid-Strike",
-		// "changesFrom": "Urshifu-Rapid-Strike",
+		"changesFrom": "Urshifu-Rapid-Strike",
 		"isNonstandard": null,
 		"tier": "Illegal",
 		"id": "urshifurapidstrikegmax",
@@ -64141,7 +64141,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Calyrex",
+		"changesFrom": "Calyrex",
 		"tier": "Uber",
 		"doublesTier": "DUber",
 		"id": "calyrexice",
@@ -64197,7 +64197,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Calyrex",
+		"changesFrom": "Calyrex",
 		"tier": "AG",
 		"doublesTier": "DUber",
 		"id": "calyrexshadow",
@@ -64765,7 +64765,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"eggGroups": [
 				"Undiscovered"
 		],
-		// "changesFrom": "Enamorus",
+		"changesFrom": "Enamorus",
 		"tier": "RUBL",
 		"doublesTier": "(DUU)",
 		"id": "enamorustherian",
@@ -68321,7 +68321,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Palafin"
+		"changesFrom": "Palafin"
 	},
 	varoom: {
 		"exists": true,
@@ -71509,7 +71509,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Wellspring Mask",
-		// "changesFrom": "Ogerpon",
+		"changesFrom": "Ogerpon",
 		"forceTeraType": "Water",
 		"tier": "OU",
 		"doublesTier": "DOU",
@@ -71570,7 +71570,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Hearthflame Mask",
-		// "changesFrom": "Ogerpon",
+		"changesFrom": "Ogerpon",
 		"forceTeraType": "Fire",
 		"tier": "Uber",
 		"doublesTier": "DOU",
@@ -71631,7 +71631,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 				"Undiscovered"
 		],
 		// "requiredItem": "Cornerstone Mask",
-		// "changesFrom": "Ogerpon",
+		"changesFrom": "Ogerpon",
 		"forceTeraType": "Rock",
 		"tier": "UU",
 		"doublesTier": "DUU",
@@ -71717,7 +71717,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Ogerpon"
+		"changesFrom": "Ogerpon"
 	},
 	ogerponwellspringtera: {
 		"exists": true,
@@ -71779,7 +71779,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Ogerpon-Wellspring"
+		"changesFrom": "Ogerpon-Wellspring"
 	},
 	ogerponhearthflametera: {
 		"exists": true,
@@ -71841,7 +71841,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Ogerpon-Hearthflame"
+		"changesFrom": "Ogerpon-Hearthflame"
 	},
 	ogerponcornerstonetera: {
 		"exists": true,
@@ -71903,7 +71903,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Ogerpon-Cornerstone"
+		"changesFrom": "Ogerpon-Cornerstone"
 	},
 	archaludon: {
 		"exists": true,
@@ -72344,7 +72344,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Terapagos"
+		"changesFrom": "Terapagos"
 	},
 	terapagosstellar: {
 		"exists": true,
@@ -72400,7 +72400,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"maleOnlyHidden": false,
 		"gmaxUnreleased": false,
 		"cannotDynamax": false,
-		// "changesFrom": "Terapagos"
+		"changesFrom": "Terapagos"
 	},
 	pecharunt: {
 		"exists": true,
