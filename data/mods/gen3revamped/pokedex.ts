@@ -24541,4 +24541,36 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"gmaxUnreleased": false,
 		"cannotDynamax": false
 	},
+	flygonmega: {
+		name: "Flygon-Mega",
+		baseSpecies: "Flygon",
+		forme: "Mega",
+		types: ["Ground", "Flying"],
+		"baseStats": {
+			"hp": 80,
+			"atk": 120,
+			"def": 80,
+			"spa": 130,
+			"spd": 100,
+			"spe": 110
+		},
+		abilities: { 0: "Dragon's Maw" },
+		requiredItem: "Flygonite",
+	},
+	miloticmega: {
+		name: "Milotic-Mega",
+		baseSpecies: "Milotic",
+		forme: "Mega",
+		types: ["Water", "Dragon"],
+		"baseStats": {
+			"hp": 95,
+			"atk": 90,
+			"def": 89,
+			"spa": 120,
+			"spd": 155,
+			"spe": 91
+		},
+		abilities: { 0: "Shed Skin" },
+		requiredItem: "Miloticite",
+	},
 };
