@@ -417,7 +417,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"forme": "Mega",
 		"types": [
 			"Dragon",
-			"Normal"
+			"Fairy"
 		],
 		"baseStats": {
 			"hp": 75,
