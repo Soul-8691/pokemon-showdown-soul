@@ -852,4 +852,7 @@ module.exports = {
 	leafstorm: {
 		// inherit: true,
 	},
+	freezedry: {
+		
+	}
 };

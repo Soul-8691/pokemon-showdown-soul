@@ -76,4 +76,4 @@ for (const mon of MonList) {
 	LearnsetsPrint += '\t},\n},\n'
 	FormatsDataPrint += mon + ': ' + JSON.stringify(FormatsData[mon], null, '\t') + ',\n';
 }
-print(FormatsDataPrint);
+print(LearnsetsPrint);

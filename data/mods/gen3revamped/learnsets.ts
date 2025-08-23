@@ -3223,6 +3223,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			],
 			dualwingbeat: ["3L1"],
 			airslash: ["3L1"],
+			freezedry: ["3L1"],
 		},
 	},
 	azumarill: {
@@ -13367,6 +13368,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			],
 			dualwingbeat: ["3L1"],
 			airslash: ["3L1"],
+			freezedry: ["3L1"],
 		},
 	},
 	deoxys: {
@@ -22738,6 +22740,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			],
 			darkpulse: ["3L1"],
 			ironhead: ["3L1"],
+			freezedry: ["3L1"],
 		},
 	},
 	gligar: {
@@ -34482,6 +34485,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			ironhead: ["3L1"],
 			bodypress: ["3L1"],
 			dragonpulse: ["3L1"],
+			freezedry: ["3L1"],
 		},
 	},
 	larvitar: {
@@ -48376,6 +48380,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			playrough: ["3L1"],
 			darkpulse: ["3L1"],
 			psyshock: ["3L1"],
+			freezedry: ["3L1"],
 		},
 	},
 	ninjask: {
@@ -70832,6 +70837,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			"whirlwind": [
 				"3L1"
 			],
+			freezedry: ["3L1"],
 		},
 	},
 	taillow: {

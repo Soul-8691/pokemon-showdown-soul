@@ -885,4 +885,8 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		inherit: true,
 		gen: 3,
 	},
+	freezedry: {
+		inherit: true,
+		gen: 3,
+	},
 };
