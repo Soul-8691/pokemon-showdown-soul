@@ -24628,9 +24628,9 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		types: ["Ice", "Electric"],
 		"baseStats": {
 			"hp": 80,
-			"atk": 70,
+			"atk": 80,
 			"def": 120,
-			"spa": 140,
+			"spa": 130,
 			"spd": 200,
 			"spe": 70
 		},
