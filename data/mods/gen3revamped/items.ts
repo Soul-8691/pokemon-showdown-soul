@@ -527,7 +527,7 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 		inherit: true,
 		gen: 3,
 	},
-	houndoomite: {
+	houndoominite: {
 		inherit: true,
 		gen: 3,
 	},
