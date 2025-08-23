@@ -1100,7 +1100,6 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"num": 298,
 		"name": "Azurill",
 		"types": [
-			"Normal",
 			"Normal"
 		],
 		"genderRatio": {
@@ -8987,7 +8986,6 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"num": 174,
 		"name": "Igglybuff",
 		"types": [
-			"Normal",
 			"Normal"
 		],
 		"genderRatio": {
@@ -9261,7 +9259,6 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"num": 39,
 		"name": "Jigglypuff",
 		"types": [
-			"Normal",
 			"Normal"
 		],
 		"genderRatio": {
@@ -23771,7 +23768,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"name": "Wigglytuff",
 		"types": [
 			"Normal",
-			"Normal"
+			"Fairy"
 		],
 		"genderRatio": {
 			"M": 0.25,
