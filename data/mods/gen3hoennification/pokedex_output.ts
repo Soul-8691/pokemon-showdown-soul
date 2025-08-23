@@ -6541,7 +6541,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"name": "Gardevoir",
 		"types": [
 			"Psychic",
-			"Normal"
+			"Fairy"
 		],
 		"baseStats": {
 			"hp": 68,
@@ -14135,7 +14135,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"forme": "Alola",
 		"types": [
 			"Ice",
-			"Normal"
+			"Fairy"
 		],
 		"genderRatio": {
 			"M": 0.25,

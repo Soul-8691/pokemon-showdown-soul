@@ -3,6 +3,9 @@ const Generations = require('@pkmn/data').Generations;
 const gens = new Generations(Dex);
 const PokedexGen3 = require('./pokedex_gen3.js');
 const Pokedex = require('./pokedex.js');
+const Learnsets = require('./learnsets.js');
+const LearnsetsJSON = require('./learnsets.json');
+const Moves = require('./moves_revamp.js');
 var MonList = [
 	"altariamega",
 	"ampharosmega",
@@ -57,8 +60,17 @@ for (const mon in PokedexGen3) {
 	MonList.push(mon);
 }
 MonList.sort();
-var PokedexPrint = 'export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {\n'
+var PokedexPrint = 'export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {\n';
+var LearnsetsPrint = 'export const Learnsets: {[speciesid: string]: LearnsetData} = {\n';
 for (const mon of MonList) {
+	if (!LearnsetsJSON['9'][mon]) continue;
+	if (!LearnsetsJSON['9'][mon]['learnset']) continue;
 	PokedexPrint += mon + ': ' + JSON.stringify(Pokedex[mon], null, '\t') + ',\n';
+	LearnsetsPrint += mon + ': ' + JSON.stringify(Learnsets[mon], null, '\t').replace(']\n	}\n}', '],\n');
+	for (const move in Moves) {
+		if (Learnsets[mon]['learnset'][move]) continue;
+		if (LearnsetsJSON['9'][mon]['learnset'][move]) LearnsetsPrint += '\t\t' + move + ': ["3L1"],\n';
+	}
+	LearnsetsPrint += '\t},\n},\n'
 }
-print(PokedexPrint);
+print(LearnsetsPrint);
