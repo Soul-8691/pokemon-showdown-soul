@@ -406,7 +406,6 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	gigadrain: {
 		inherit: true,
-		pp: 5,
 	},
 	glare: {
 		inherit: true,
@@ -540,7 +539,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	outrage: {
 		inherit: true,
-		basePower: 90,
+		basePower: 120,
 	},
 	overheat: {
 		inherit: true,
@@ -653,7 +652,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		inherit: true,
 		flags: { protect: 1, bypasssub: 1, metronome: 1 },
 		condition: {
-			duration: 2,
+			duration: 3,
 			onStart(target) {
 				this.add('-start', target, 'move: Taunt');
 			},
@@ -760,5 +759,97 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	zapcannon: {
 		inherit: true,
 		basePower: 100,
+	},
+	knockoff: {
+		inherit: true,
+	},
+	rapidspin: {
+		inherit: true,
+	},
+	futuresight: {
+		inherit: true,
+		basePower: 100,
+		pp: 10,
+		onTry(source, target) {
+			if (!target.side.addSlotCondition(target, 'futuremove')) return false;
+			Object.assign(target.side.slotConditions[target.position]['futuremove'], {
+				move: 'futuresight',
+				source,
+				moveData: {
+					id: 'futuresight',
+					name: "Future Sight",
+					accuracy: 90,
+					basePower: 100,
+					category: "Special",
+					priority: 0,
+					flags: { allyanim: 1, metronome: 1, futuremove: 1 },
+					ignoreImmunity: false,
+					effectType: 'Move',
+					type: 'Psychic',
+				},
+			});
+			this.add('-start', source, 'move: Future Sight');
+			return this.NOT_FAIL;
+		},
+	},
+	rocktomb: {
+		inherit: true,
+	},
+	moonblast: {
+		inherit: true,
+	},
+	dazzlinggleam: {
+		inherit: true,
+	},
+	playrough: {
+		inherit: true,
+	},
+	darkpulse: {
+		inherit: true,
+	},
+	ironhead: {
+		inherit: true,
+	},
+	bodypress: {
+		inherit: true,
+	},
+	suckerpunch: {
+		inherit: true,
+	},
+	psyshock: {
+		inherit: true,
+	},
+	powerwhip: {
+		inherit: true,
+	},
+	rockpolish: {
+		inherit: true,
+	},
+	shadowsneak: {
+		inherit: true,
+	},
+	flashcannon: {
+		inherit: true,
+	},
+	bulletpunch: {
+		inherit: true,
+	},
+	dragonpulse: {
+		inherit: true,
+	},
+	scorchingsands: {
+		inherit: true,
+	},
+	powergem: {
+		inherit: true,
+	},
+	dualwingbeat: {
+		inherit: true,
+	},
+	airslash: {
+		inherit: true,
+	},
+	leafstorm: {
+		inherit: true,
 	},
 };
