@@ -406,6 +406,8 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	gigadrain: {
 		inherit: true,
+		basePower: 75,
+		pp: 10,
 	},
 	glare: {
 		inherit: true,
