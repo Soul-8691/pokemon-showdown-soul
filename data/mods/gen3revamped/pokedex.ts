@@ -24634,7 +24634,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 			"spd": 200,
 			"spe": 70
 		},
-		abilities: { 0: "Sheer Force" },
+		abilities: { 0: "Scrappy" },
 		requiredItem: "Regicinite",
 	},
 	registeelmega: {
@@ -24650,7 +24650,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 			"spd": 150,
 			"spe": 80
 		},
-		abilities: { 0: "Sheer Force" },
+		abilities: { 0: "Iron Fist" },
 		requiredItem: "Registeelinite",
 	},
 };

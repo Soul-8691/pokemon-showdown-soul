@@ -252,4 +252,14 @@ export const Abilities: import('../../../sim/dex-abilities').ModdedAbilityDataTa
 		gen: 3,
 		isNonstandard: null,
 	},
+	scrappy: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
+	ironfist: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
 };

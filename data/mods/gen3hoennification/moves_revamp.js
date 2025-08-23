@@ -854,5 +854,8 @@ module.exports = {
 	},
 	freezedry: {
 		
+	},
+	iceshard: {
+		
 	}
 };
