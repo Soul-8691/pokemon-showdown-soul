@@ -423,4 +423,88 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 			}
 		},
 	},
+	expertbelt: {
+		inherit: true,
+		gen: 3,
+	},
+	assaultvest: {
+		inherit: true,
+		gen: 3,
+	},
+	powerherb: {
+		inherit: true,
+		gen: 3,
+	},
+	babiriberry: {
+		inherit: true,
+		gen: 3,
+	},
+	chartiberry: {
+		inherit: true,
+		gen: 3,
+	},
+	chilanberry: {
+		inherit: true,
+		gen: 3,
+	},
+	chopleberry: {
+		inherit: true,
+		gen: 3,
+	},
+	cobaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	colburberry: {
+		inherit: true,
+		gen: 3,
+	},
+	habanberry: {
+		inherit: true,
+		gen: 3,
+	},
+	kasibberry: {
+		inherit: true,
+		gen: 3,
+	},
+	kebiaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	occaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	passhoberry: {
+		inherit: true,
+		gen: 3,
+	},
+	payapaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	rindoberry: {
+		inherit: true,
+		gen: 3,
+	},
+	roseliberry: {
+		inherit: true,
+		gen: 3,
+	},
+	shucaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	tangaberry: {
+		inherit: true,
+		gen: 3,
+	},
+	wacanberry: {
+		inherit: true,
+		gen: 3,
+	},
+	yacheberry: {
+		inherit: true,
+		gen: 3,
+	},
 };

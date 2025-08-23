@@ -232,4 +232,14 @@ export const Abilities: import('../../../sim/dex-abilities').ModdedAbilityDataTa
 			}
 		},
 	},
+	snowwarning: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
+	strongjaw: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
 };
