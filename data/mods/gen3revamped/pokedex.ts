@@ -21212,7 +21212,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"name": "Tapu Fini",
 		"types": [
 			"Water",
-			"Normal"
+			"Fairy"
 		],
 		"gender": "N",
 		"baseStats": {
@@ -23612,7 +23612,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		"forme": "Galar",
 		"types": [
 			"Poison",
-			"Normal"
+			"Fairy"
 		],
 		"baseStats": {
 			"hp": 65,
