@@ -424,66 +424,87 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 		},
 	},
 	expertbelt: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	assaultvest: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	powerherb: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	babiriberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	chartiberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	chilanberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	chopleberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	cobaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	colburberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	habanberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	kasibberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	kebiaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	occaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	passhoberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	payapaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	rindoberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	roseliberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	shucaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	tangaberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	wacanberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 	yacheberry: {
-		inherit: true
+		inherit: true,
+		gen: 3,
 	},
 };

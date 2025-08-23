@@ -797,59 +797,78 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	moonblast: {
 		inherit: true,
+		gen: 3,
 	},
 	dazzlinggleam: {
 		inherit: true,
+		gen: 3,
 	},
 	playrough: {
 		inherit: true,
+		gen: 3,
 	},
 	darkpulse: {
 		inherit: true,
+		gen: 3,
 	},
 	ironhead: {
 		inherit: true,
+		gen: 3,
 	},
 	bodypress: {
 		inherit: true,
+		gen: 3,
 	},
 	suckerpunch: {
 		inherit: true,
+		gen: 3,
 	},
 	psyshock: {
 		inherit: true,
+		gen: 3,
 	},
 	powerwhip: {
 		inherit: true,
+		gen: 3,
 	},
 	rockpolish: {
 		inherit: true,
+		gen: 3,
 	},
 	shadowsneak: {
 		inherit: true,
+		gen: 3,
 	},
 	flashcannon: {
 		inherit: true,
+		gen: 3,
 	},
 	bulletpunch: {
 		inherit: true,
+		gen: 3,
 	},
 	dragonpulse: {
 		inherit: true,
+		gen: 3,
 	},
 	scorchingsands: {
 		inherit: true,
+		gen: 3,
 	},
 	powergem: {
 		inherit: true,
+		gen: 3,
 	},
 	dualwingbeat: {
 		inherit: true,
+		gen: 3,
 	},
 	airslash: {
 		inherit: true,
+		gen: 3,
 	},
 	leafstorm: {
 		inherit: true,
+		gen: 3,
 	},
 };
