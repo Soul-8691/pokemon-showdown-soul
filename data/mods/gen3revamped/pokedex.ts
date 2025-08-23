@@ -24596,9 +24596,9 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		types: ["Fire", "Rock"],
 		"baseStats": {
 			"hp": 115,
-			"atk": 135,
+			"atk": 125,
 			"def": 125,
-			"spa": 130,
+			"spa": 120,
 			"spd": 85,
 			"spe": 110
 		},
