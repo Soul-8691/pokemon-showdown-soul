@@ -1262,4 +1262,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	zubat: {
 		"tier": "LC"
 	},
+	flygonmega: {
+		"tier": "OU"
+	},
+	miloticmega: {
+		"tier": "OU"
+	},
 };
