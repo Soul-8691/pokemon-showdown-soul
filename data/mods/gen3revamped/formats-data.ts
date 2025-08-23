@@ -1268,4 +1268,19 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	miloticmega: {
 		"tier": "OU"
 	},
+	raikoumega: {
+		"tier": "OU"
+	},
+	enteimega: {
+		"tier": "OU"
+	},
+	regirockmega: {
+		"tier": "OU"
+	},
+	regicemega: {
+		"tier": "OU"
+	},
+	registeelmega: {
+		"tier": "OU"
+	},
 };

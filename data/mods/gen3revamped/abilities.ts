@@ -247,4 +247,9 @@ export const Abilities: import('../../../sim/dex-abilities').ModdedAbilityDataTa
 		gen: 3,
 		isNonstandard: null,
 	},
+	sheerforce: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
 };

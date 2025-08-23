@@ -24573,4 +24573,84 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		abilities: { 0: "Shed Skin" },
 		requiredItem: "Miloticite",
 	},
+	raikoumega: {
+		name: "Raikou-Mega",
+		baseSpecies: "Raikou",
+		forme: "Mega",
+		types: ["Electric", "Flying"],
+		"baseStats": {
+			"hp": 90,
+			"atk": 95,
+			"def": 95,
+			"spa": 135,
+			"spd": 150,
+			"spe": 115
+		},
+		abilities: { 0: "Lightning Rod" },
+		requiredItem: "Raikounite",
+	},
+	enteimega: {
+		name: "Entei-Mega",
+		baseSpecies: "Entei",
+		forme: "Mega",
+		types: ["Fire", "Rock"],
+		"baseStats": {
+			"hp": 115,
+			"atk": 135,
+			"def": 125,
+			"spa": 130,
+			"spd": 85,
+			"spe": 110
+		},
+		abilities: { 0: "Levitate" },
+		requiredItem: "Enteinite",
+	},
+	regirockmega: {
+		name: "Regirock-Mega",
+		baseSpecies: "Regirock",
+		forme: "Mega",
+		types: ["Rock", "Ground"],
+		"baseStats": {
+			"hp": 80,
+			"atk": 120,
+			"def": 230,
+			"spa": 80,
+			"spd": 100,
+			"spe": 70
+		},
+		abilities: { 0: "Sheer Force" },
+		requiredItem: "Regirockinite",
+	},
+	regicemega: {
+		name: "Regice-Mega",
+		baseSpecies: "Regice",
+		forme: "Mega",
+		types: ["Ice", "Electric"],
+		"baseStats": {
+			"hp": 80,
+			"atk": 70,
+			"def": 120,
+			"spa": 140,
+			"spd": 200,
+			"spe": 70
+		},
+		abilities: { 0: "Sheer Force" },
+		requiredItem: "Regicinite",
+	},
+	registeelmega: {
+		name: "Registeel-Mega",
+		baseSpecies: "Registeel",
+		forme: "Mega",
+		types: ["Steel"],
+		"baseStats": {
+			"hp": 80,
+			"atk": 125,
+			"def": 150,
+			"spa": 95,
+			"spd": 150,
+			"spe": 80
+		},
+		abilities: { 0: "Sheer Force" },
+		requiredItem: "Registeelinite",
+	},
 };

@@ -565,4 +565,59 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 		},
 		gen: 3,
 	},
+	raikounite: {
+		name: "Raikounite",
+		megaStone: "Raikou-Mega",
+		megaEvolves: "Raikou",
+		itemUser: ["Raikou"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	enteinite: {
+		name: "Enteinite",
+		megaStone: "Entei-Mega",
+		megaEvolves: "Entei",
+		itemUser: ["Entei"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	regirockinite: {
+		name: "Regirockinite",
+		megaStone: "Regirock-Mega",
+		megaEvolves: "Regirock",
+		itemUser: ["Regirock"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	regicinite: {
+		name: "Regicinite",
+		megaStone: "Regice-Mega",
+		megaEvolves: "Regice",
+		itemUser: ["Regice"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	registeelinite: {
+		name: "Registeelinite",
+		megaStone: "Registeel-Mega",
+		megaEvolves: "Registeel",
+		itemUser: ["Registeel"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
 };
