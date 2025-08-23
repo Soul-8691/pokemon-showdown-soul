@@ -762,9 +762,19 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	knockoff: {
 		inherit: true,
+		basePower: 65,
 	},
 	rapidspin: {
 		inherit: true,
+		basePower: 50,
+		secondary: {
+			chance: 100,
+			self: {
+				boosts: {
+					spe: 1,
+				},
+			},
+		},
 	},
 	futuresight: {
 		inherit: true,
@@ -794,6 +804,8 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	rocktomb: {
 		inherit: true,
+		accuracy: 95,
+		basePower: 60,
 	},
 	moonblast: {
 		inherit: true,
