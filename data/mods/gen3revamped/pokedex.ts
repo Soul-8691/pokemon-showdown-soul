@@ -24586,7 +24586,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 			"spd": 150,
 			"spe": 115
 		},
-		abilities: { 0: "Lightning Rod" },
+		abilities: { 0: "Overcoat" },
 		requiredItem: "Raikounite",
 	},
 	enteimega: {
@@ -24652,5 +24652,101 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		},
 		abilities: { 0: "Iron Fist" },
 		requiredItem: "Registeelinite",
+	},
+	moltresmega: {
+		name: "Moltres-Mega",
+		baseSpecies: "Moltres",
+		forme: "Mega",
+		types: ["Fire", "Flying"],
+		"baseStats": {
+			"hp": 90,
+			"atk": 130,
+			"def": 120,
+			"spa": 165,
+			"spd": 85,
+			"spe": 90
+		},
+		abilities: { 0: "Overcoat" },
+		requiredItem: "Moltresite",
+	},
+	articunomega: {
+		name: "Articuno-Mega",
+		baseSpecies: "Articuno",
+		forme: "Mega",
+		types: ["Ice", "Water"],
+		"baseStats": {
+			"hp": 90,
+			"atk": 105,
+			"def": 140,
+			"spa": 135,
+			"spd": 125,
+			"spe": 85
+		},
+		abilities: { 0: "Magic Guard" },
+		requiredItem: "Articunonite",
+	},
+	armaldomega: {
+		name: "Armaldo-Mega",
+		baseSpecies: "Armaldo",
+		forme: "Mega",
+		types: ["Rock", "Bug"],
+		"baseStats": {
+			"hp": 75,
+			"atk": 155,
+			"def": 150,
+			"spa": 70,
+			"spd": 80,
+			"spe": 65
+		},
+		abilities: { 0: "Swift Swim" },
+		requiredItem: "Armaldonite",
+	},
+	donphanmega: {
+		name: "Donphan-Mega",
+		baseSpecies: "Donphan",
+		forme: "Mega",
+		types: ["Ground", "Flying"],
+		"baseStats": {
+			"hp": 90,
+			"atk": 150,
+			"def": 170,
+			"spa": 60,
+			"spd": 70,
+			"spe": 60
+		},
+		abilities: { 0: "Scrappy" },
+		requiredItem: "Donphanite",
+	},
+	ursaringmega: {
+		name: "Ursaring-Mega",
+		baseSpecies: "Ursaring",
+		forme: "Mega",
+		types: ["Normal", "Fighting"],
+		"baseStats": {
+			"hp": 90,
+			"atk": 140,
+			"def": 85,
+			"spa": 125,
+			"spd": 85,
+			"spe": 75
+		},
+		abilities: { 0: "Overcoat" },
+		requiredItem: "Ursaringite",
+	},
+	omastarmega: {
+		name: "Omastar-Mega",
+		baseSpecies: "Omastar",
+		forme: "Mega",
+		types: ["Water", "Steel"],
+		"baseStats": {
+			"hp": 70,
+			"atk": 80,
+			"def": 165,
+			"spa": 145,
+			"spd": 70,
+			"spe": 65
+		},
+		abilities: { 0: "Prankster" },
+		requiredItem: "Omastarite",
 	},
 };

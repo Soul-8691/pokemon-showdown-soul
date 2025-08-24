@@ -1283,4 +1283,49 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	registeelmega: {
 		"tier": "OU"
 	},
+	moltresmega: {
+		"tier": "OU"
+	},
+	articunomega: {
+		"tier": "OU"
+	},
+	armaldomega: {
+		"tier": "OU"
+	},
+	donphanmega: {
+		"tier": "OU"
+	},
+	ursaringmega: {
+		"tier": "OU"
+	},
+	omastarmega: {
+		"tier": "OU"
+	},
+	altariamega: {
+		"tier": "OU"
+	},
+	ampharosmega: {
+		"tier": "OU"
+	},
+	glaliemega: {
+		"tier": "OU"
+	},
+	gyaradosmega: {
+		"tier": "OU"
+	},
+	heracrossmega: {
+		"tier": "OU"
+	},
+	houndoommega: {
+		"tier": "OU"
+	},
+	pidgeotmega: {
+		"tier": "OU"
+	},
+	sharpedomega: {
+		"tier": "OU"
+	},
+	steelixmega: {
+		"tier": "OU"
+	},
 };

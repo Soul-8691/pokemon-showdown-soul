@@ -620,4 +620,70 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 		},
 		gen: 3,
 	},
+	moltresite: {
+		name: "Moltresite",
+		megaStone: "Moltres-Mega",
+		megaEvolves: "Moltres",
+		itemUser: ["Moltres"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	articunonite: {
+		name: "Articunonite",
+		megaStone: "Articuno-Mega",
+		megaEvolves: "Articuno",
+		itemUser: ["Articuno"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	armaldonite: {
+		name: "Armaldonite",
+		megaStone: "Armaldo-Mega",
+		megaEvolves: "Armaldo",
+		itemUser: ["Armaldo"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	donphanite: {
+		name: "Donphanite",
+		megaStone: "Donphan-Mega",
+		megaEvolves: "Donphan",
+		itemUser: ["Donphan"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	ursaringite: {
+		name: "Ursaringite",
+		megaStone: "Ursaring-Mega",
+		megaEvolves: "Ursaring",
+		itemUser: ["Ursaring"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
+	omastarite: {
+		name: "Omastarite",
+		megaStone: "Omastar-Mega",
+		megaEvolves: "Omastar",
+		itemUser: ["Omastar"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		gen: 3,
+	},
 };

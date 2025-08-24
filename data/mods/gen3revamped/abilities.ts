@@ -262,4 +262,19 @@ export const Abilities: import('../../../sim/dex-abilities').ModdedAbilityDataTa
 		gen: 3,
 		isNonstandard: null,
 	},
+	overcoat: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
+	magicguard: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
+	prankster: {
+		inherit: true,
+		gen: 3,
+		isNonstandard: null,
+	},
 };
