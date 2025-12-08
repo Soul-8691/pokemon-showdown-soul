@@ -77,18 +77,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Baton Pass', 'Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
 	},
 	{
-		name: "[Gen 3] OU Random Sample Teams",
-		team: 'random',
-		mod: 'gen3sampleteamrandbats',
-		ruleset: ['Standard', 'Freeze Clause Mod'],
-		onBegin() {
-			for (const pokemon of this.getAllPokemon()) {
-				var side = pokemon.side;
-				this.hint(side.team[0].sampleTeamName, true, pokemon.side);
-			}
-		},
-	},
-	{
 		name: "[Gen 3] Tradebacks",
 		mod: 'gen3tradebacks',
 		ruleset: ['Standard', /*'Baton Pass Mod',*/ 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
