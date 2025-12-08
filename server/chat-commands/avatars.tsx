@@ -230,7 +230,7 @@ function listUsers(users: string[]) {
 }
 
 const CUSTOM_AVATARS = new Set([
-	'ash-kalarie',
+	// 'ash-kalarie',
 ]);
 
 const OFFICIAL_AVATARS = new Set([
