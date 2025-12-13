@@ -927,7 +927,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "9"
 	},
 	houndoommega: {
-		tier: "18"
+		tier: "Sus"
 	},
 	kingdra: {
 		tier: "13"
@@ -1272,7 +1272,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NFE"
 	},
 	flygon: {
-		tier: "18"
+		tier: "Sus"
 	},
 	cacnea: {
 		tier: "LC"
