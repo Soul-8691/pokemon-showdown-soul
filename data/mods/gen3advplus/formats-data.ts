@@ -591,7 +591,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "17"
 	},
 	jolteon: {
-		tier: "Uber"
+		tier: "DL Ban"
 	},
 	flareon: {
 		tier: "9"
