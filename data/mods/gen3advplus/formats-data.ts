@@ -1449,13 +1449,13 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "14"
 	},
 	latias: {
-		tier: "Uber"
+		tier: "Sus"
 	},
 	latiasmega: {
 		tier: "Uber"
 	},
 	latios: {
-		tier: "Uber"
+		tier: "Sus"
 	},
 	latiosmega: {
 		tier: "Uber"
