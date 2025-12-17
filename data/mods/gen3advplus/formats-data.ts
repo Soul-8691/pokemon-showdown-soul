@@ -1170,7 +1170,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "9"
 	},
 	sableyemega: {
-		tier: "16"
+		tier: "Sus"
 	},
 	mawile: {
 		tier: "3"
