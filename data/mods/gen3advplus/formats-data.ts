@@ -321,7 +321,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NFE"
 	},
 	victreebel: {
-		tier: "3"
+		tier: "UU"
 	},
 	tentacool: {
 		tier: "LC"
@@ -768,7 +768,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "C+"
 	},
 	sudowoodo: {
-		tier: "3"
+		tier: "UU"
 	},
 	politoed: {
 		tier: "UU"
@@ -810,7 +810,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "C+"
 	},
 	murkrow: {
-		tier: "3"
+		tier: "UU"
 	},
 	slowking: {
 		tier: "D"
