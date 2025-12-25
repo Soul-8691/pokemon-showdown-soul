@@ -7,6 +7,10 @@
 export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen2',
 	gen: 1,
+	teambuilderConfig: {
+		excludeStandardTiers: true,
+		customTiers: ['OU', 'UU', 'NFE', 'LC'],
+	},
 	init() {
 		for (const i in this.data.Pokedex) {
 			(this.data.Pokedex[i] as any).gender = 'N';
