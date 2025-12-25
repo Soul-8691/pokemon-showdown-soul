@@ -76,6 +76,12 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
 		banlist: ['Baton Pass', 'Wobbuffet + Leftovers', 'Wynaut + Leftovers'],
 	},
+    {
+		name: "[Gen 1] Kantoification OU",
+		mod: 'gen1kantoification',
+		ruleset: ['Standard'],
+		banlist: ['Uber', 'Agility + Wrap', 'Agility + Fire Spin', 'Agility + Bind', 'Agility + Clamp'],
+	},
 	{
 		name: "[Gen 3] Tradebacks",
 		mod: 'gen3tradebacks',
