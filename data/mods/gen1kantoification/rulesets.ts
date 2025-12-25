@@ -1,4 +1,4 @@
-export const Formats: {[k: string]: ModdedFormatsData} = {
+export const Rulesets: import('../../../sim/dex-formats').ModdedFormatDataTable = {
 	standard: {
 		effectType: 'ValidatorRule',
 		name: 'Standard',
