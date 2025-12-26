@@ -25314,7 +25314,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 90
     },
     abilities: {
-      0: "Flash Fire",
+      0: "Shadow Tag",
       1: "Flame Body"
     },
     heightm: 2.5,
