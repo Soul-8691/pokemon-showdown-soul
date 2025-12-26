@@ -3,7 +3,7 @@ export const Scripts: ModdedBattleScriptsData = {
 	gen: 3,
 	teambuilderConfig: {
 		excludeStandardTiers: true,
-		customTiers: ['OU', 'UU', 'NFE', 'LC'],
+		customTiers: ['Uber', 'OU', 'UU', 'NFE', 'LC'],
 	},
 	init() {
 		const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
