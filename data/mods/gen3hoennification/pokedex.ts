@@ -4937,7 +4937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 110
     },
     abilities: {
-      0: "Illuminate"
+      0: "Levitate"
     },
     heightm: 1.5,
     weightkg: 40.5,
@@ -7293,7 +7293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 100
     },
     abilities: {
-      0: "Pressure",
+      0: "Volt Absorb",
       1: "Static"
     },
     heightm: 1.6,
@@ -11044,7 +11044,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     abilities: {
       0: "Pressure",
-      1: "Inner Focus"
+      1: "Volt Absorb"
     },
     heightm: 1.9,
     weightkg: 178,
@@ -11074,7 +11074,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     abilities: {
       0: "Pressure",
-      1: "Inner Focus"
+      1: "Flash Fire"
     },
     heightm: 2.1,
     weightkg: 198,
@@ -11104,7 +11104,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     abilities: {
       0: "Pressure",
-      1: "Inner Focus"
+      1: "Water Absorb"
     },
     heightm: 2,
     weightkg: 187,
@@ -15928,7 +15928,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 50
     },
     abilities: {
-      0: "Clear Body"
+      0: "Clear Body",
+      1: "Ice Body"
     },
     heightm: 1.8,
     weightkg: 175,
@@ -25213,7 +25214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 20
     },
     abilities: {
-      0: "Flash Fire",
+      0: "Shadow Tag",
       1: "Flame Body"
     },
     heightm: 0.3,
@@ -25243,7 +25244,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 55
     },
     abilities: {
-      0: "Flash Fire",
+      0: "Shadow Tag",
       1: "Flame Body"
     },
     heightm: 0.6,
@@ -25275,7 +25276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       spe: 80
     },
     abilities: {
-      0: "Flash Fire",
+      0: "Shadow Tag",
       1: "Flame Body"
     },
     heightm: 1,
