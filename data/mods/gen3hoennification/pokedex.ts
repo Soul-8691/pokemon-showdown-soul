@@ -32,7 +32,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "LC"
   },
   ivysaur: {
     num: 2,
@@ -69,7 +68,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "NFE"
   },
   venusaur: {
     num: 3,
@@ -111,7 +109,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Venusaur-Mega"
     ],
     canGigantamax: "G-Max Vine Lash",
-    tier: "ZU"
   },
   venusaurmega: {
     num: 3,
@@ -144,8 +141,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   venusaurgmax: {
     num: 3,
@@ -180,8 +175,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     changesFrom: "Venusaur",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   charmander: {
     num: 4,
@@ -214,7 +207,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "LC"
   },
   charmeleon: {
     num: 5,
@@ -249,7 +241,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "NFE"
   },
   charizard: {
     num: 6,
@@ -292,7 +283,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Charizard-Mega-Y"
     ],
     canGigantamax: "G-Max Wildfire",
-    tier: "ZU"
   },
   charizardmegax: {
     num: 6,
@@ -325,8 +315,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   charizardmegay: {
     num: 6,
@@ -359,8 +347,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   charizardgmax: {
     num: 6,
@@ -394,8 +380,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     changesFrom: "Charizard",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   squirtle: {
     num: 7,
@@ -429,7 +413,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "LC"
   },
   wartortle: {
     num: 8,
@@ -465,7 +448,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "NFE"
   },
   blastoise: {
     num: 9,
@@ -506,7 +488,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Blastoise-Mega"
     ],
     canGigantamax: "G-Max Cannonade",
-    tier: "RUBL"
   },
   blastoisemega: {
     num: 9,
@@ -538,8 +519,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   blastoisegmax: {
     num: 9,
@@ -573,8 +552,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     changesFrom: "Blastoise",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   caterpie: {
     num: 10,
@@ -603,8 +580,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   metapod: {
     num: 11,
@@ -634,8 +609,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   butterfree: {
     num: 12,
@@ -664,8 +637,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     canGigantamax: "G-Max Befuddle",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   butterfreegmax: {
     num: 12,
@@ -694,8 +665,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     changesFrom: "Butterfree",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   weedle: {
     num: 13,
@@ -725,8 +694,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kakuna: {
     num: 14,
@@ -757,8 +724,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   beedrill: {
     num: 15,
@@ -793,8 +758,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Beedrill",
       "Beedrill-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   beedrillmega: {
     num: 15,
@@ -822,8 +785,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pidgey: {
     num: 16,
@@ -852,8 +813,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pidgeotto: {
     num: 17,
@@ -884,8 +843,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pidgeot: {
     num: 18,
@@ -920,8 +877,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pidgeot",
       "Pidgeot-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pidgeotmega: {
     num: 18,
@@ -949,8 +904,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rattata: {
     num: 19,
@@ -986,8 +939,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rattata",
       "Rattata-Alola"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rattataalola: {
     num: 19,
@@ -1019,8 +970,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   raticate: {
     num: 20,
@@ -1057,8 +1006,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Raticate-Alola",
       "Raticate-Alola-Totem"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   raticatealola: {
     num: 20,
@@ -1090,8 +1037,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   raticatealolatotem: {
     num: 20,
@@ -1119,8 +1064,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   spearow: {
     num: 21,
@@ -1149,8 +1092,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   fearow: {
     num: 22,
@@ -1178,8 +1119,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ekans: {
     num: 23,
@@ -1209,7 +1148,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    tier: "LC"
   },
   arbok: {
     num: 24,
@@ -1238,7 +1176,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    tier: "ZU"
   },
   pikachu: {
     num: 25,
@@ -1307,7 +1244,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pikachu-Cosplay"
     ],
     canGigantamax: "G-Max Volt Crash",
-    tier: "ZU"
   },
   pikachucosplay: {
     num: 25,
@@ -1336,8 +1272,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachurockstar: {
     num: 25,
@@ -1367,8 +1301,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Pikachu-Cosplay",
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachubelle: {
     num: 25,
@@ -1398,8 +1330,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Pikachu-Cosplay",
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachupopstar: {
     num: 25,
@@ -1429,8 +1359,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Pikachu-Cosplay",
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachuphd: {
     num: 25,
@@ -1460,8 +1388,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Pikachu-Cosplay",
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachulibre: {
     num: 25,
@@ -1491,8 +1417,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Pikachu-Cosplay",
     gen: 6,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachuoriginal: {
     num: 25,
@@ -1522,7 +1446,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachuhoenn: {
     num: 25,
@@ -1552,7 +1475,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachusinnoh: {
     num: 25,
@@ -1582,7 +1504,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachuunova: {
     num: 25,
@@ -1612,7 +1533,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachukalos: {
     num: 25,
@@ -1642,7 +1562,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachualola: {
     num: 25,
@@ -1672,7 +1591,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachupartner: {
     num: 25,
@@ -1702,7 +1620,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 7,
-    tier: "ZU"
   },
   pikachustarter: {
     num: 25,
@@ -1730,8 +1647,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "LGPE"
   },
   pikachugmax: {
     num: 25,
@@ -1761,8 +1676,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     changesFrom: "Pikachu",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pikachuworld: {
     num: 25,
@@ -1792,7 +1705,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 8,
-    tier: "ZU"
   },
   raichu: {
     num: 26,
@@ -1833,7 +1745,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Raichu-Mega-X",
       "Raichu-Mega-Y"
     ],
-    tier: "ZU"
   },
   raichualola: {
     num: 26,
@@ -1866,7 +1777,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "ZU"
   },
   raichumegax: {
     num: 26,
@@ -1895,8 +1805,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   raichumegay: {
     num: 26,
@@ -1925,8 +1833,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   sandshrew: {
     num: 27,
@@ -1961,7 +1867,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sandshrew",
       "Sandshrew-Alola"
     ],
-    tier: "LC"
   },
   sandshrewalola: {
     num: 27,
@@ -1992,7 +1897,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   sandslash: {
     num: 28,
@@ -2026,7 +1930,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sandslash",
       "Sandslash-Alola"
     ],
-    tier: "ZU"
   },
   sandslashalola: {
     num: 28,
@@ -2057,7 +1960,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   nidoranf: {
     num: 29,
@@ -2088,8 +1990,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nidorina: {
     num: 30,
@@ -2121,8 +2021,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nidoqueen: {
     num: 31,
@@ -2152,8 +2050,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nidoranm: {
     num: 32,
@@ -2185,8 +2081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     mother: "nidoranf",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nidorino: {
     num: 33,
@@ -2219,8 +2113,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nidoking: {
     num: 34,
@@ -2251,8 +2143,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   clefairy: {
     num: 35,
@@ -2286,7 +2176,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "NFE"
   },
   clefable: {
     num: 36,
@@ -2325,7 +2214,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Clefable",
       "Clefable-Mega"
     ],
-    tier: "OU"
   },
   clefablemega: {
     num: 36,
@@ -2358,8 +2246,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   vulpix: {
     num: 37,
@@ -2399,7 +2285,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vulpix",
       "Vulpix-Alola"
     ],
-    tier: "NFE"
   },
   vulpixalola: {
     num: 37,
@@ -2433,7 +2318,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   ninetales: {
     num: 38,
@@ -2473,7 +2357,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ninetales",
       "Ninetales-Alola"
     ],
-    tier: "ZU"
   },
   ninetalesalola: {
     num: 38,
@@ -2508,7 +2391,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   jigglypuff: {
     num: 39,
@@ -2543,7 +2425,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "NFE"
   },
   wigglytuff: {
     num: 40,
@@ -2576,7 +2457,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "ZU"
   },
   zubat: {
     num: 41,
@@ -2605,8 +2485,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   golbat: {
     num: 42,
@@ -2637,8 +2515,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   oddish: {
     num: 43,
@@ -2668,7 +2544,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   gloom: {
     num: 44,
@@ -2701,7 +2576,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NFE"
   },
   vileplume: {
     num: 45,
@@ -2731,7 +2605,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NU"
   },
   paras: {
     num: 46,
@@ -2762,8 +2635,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   parasect: {
     num: 47,
@@ -2793,8 +2664,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   venonat: {
     num: 48,
@@ -2824,7 +2693,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   venomoth: {
     num: 49,
@@ -2852,7 +2720,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZUBL"
   },
   diglett: {
     num: 50,
@@ -2888,7 +2755,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Diglett",
       "Diglett-Alola"
     ],
-    tier: "NFE"
   },
   diglettalola: {
     num: 50,
@@ -2919,7 +2785,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   dugtrio: {
     num: 51,
@@ -2954,7 +2819,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dugtrio",
       "Dugtrio-Alola"
     ],
-    tier: "ZU"
   },
   dugtrioalola: {
     num: 51,
@@ -2984,7 +2848,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   meowth: {
     num: 52,
@@ -3022,7 +2885,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Meowth-Galar"
     ],
     canGigantamax: "G-Max Gold Rush",
-    tier: "LC"
   },
   meowthalola: {
     num: 52,
@@ -3052,7 +2914,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   meowthgalar: {
     num: 52,
@@ -3082,7 +2943,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   meowthgmax: {
     num: 52,
@@ -3110,8 +2970,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     changesFrom: "Meowth",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   persian: {
     num: 53,
@@ -3145,7 +3003,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Persian",
       "Persian-Alola"
     ],
-    tier: "ZU"
   },
   persianalola: {
     num: 53,
@@ -3174,7 +3031,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   psyduck: {
     num: 54,
@@ -3204,7 +3060,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   golduck: {
     num: 55,
@@ -3233,7 +3088,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "ZU"
   },
   mankey: {
     num: 56,
@@ -3261,7 +3115,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   primeape: {
     num: 57,
@@ -3291,7 +3144,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   growlithe: {
     num: 58,
@@ -3331,7 +3183,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Growlithe",
       "Growlithe-Hisui"
     ],
-    tier: "LC"
   },
   growlithehisui: {
     num: 58,
@@ -3367,7 +3218,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   arcanine: {
     num: 59,
@@ -3407,7 +3257,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Arcanine",
       "Arcanine-Hisui"
     ],
-    tier: "PU"
   },
   arcaninehisui: {
     num: 59,
@@ -3443,7 +3292,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "UU"
   },
   poliwag: {
     num: 60,
@@ -3472,7 +3320,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "LC"
   },
   poliwhirl: {
     num: 61,
@@ -3504,7 +3351,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "NFE"
   },
   poliwrath: {
     num: 62,
@@ -3534,7 +3380,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "ZU"
   },
   abra: {
     num: 63,
@@ -3567,8 +3412,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kadabra: {
     num: 64,
@@ -3603,8 +3446,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   alakazam: {
     num: 65,
@@ -3643,8 +3484,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Alakazam",
       "Alakazam-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   alakazammega: {
     num: 65,
@@ -3675,8 +3514,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   machop: {
     num: 66,
@@ -3708,8 +3545,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   machoke: {
     num: 67,
@@ -3743,8 +3578,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   machamp: {
     num: 68,
@@ -3776,8 +3609,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     canGigantamax: "G-Max Chi Strike",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   machampgmax: {
     num: 68,
@@ -3809,8 +3640,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     changesFrom: "Machamp",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bellsprout: {
     num: 69,
@@ -3839,7 +3668,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   weepinbell: {
     num: 70,
@@ -3870,7 +3698,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NFE"
   },
   victreebel: {
     num: 71,
@@ -3906,7 +3733,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Victreebel",
       "Victreebel-Mega"
     ],
-    tier: "ZU"
   },
   victreebelmega: {
     num: 71,
@@ -3935,8 +3761,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   tentacool: {
     num: 72,
@@ -3966,7 +3790,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "LC"
   },
   tentacruel: {
     num: 73,
@@ -3995,7 +3818,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "NU"
   },
   geodude: {
     num: 74,
@@ -4032,7 +3854,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Geodude",
       "Geodude-Alola"
     ],
-    tier: "LC"
   },
   geodudealola: {
     num: 74,
@@ -4064,7 +3885,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   graveler: {
     num: 75,
@@ -4103,7 +3923,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Graveler",
       "Graveler-Alola"
     ],
-    tier: "NFE"
   },
   graveleralola: {
     num: 75,
@@ -4137,7 +3956,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   golem: {
     num: 76,
@@ -4173,7 +3991,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Golem",
       "Golem-Alola"
     ],
-    tier: "ZU"
   },
   golemalola: {
     num: 76,
@@ -4204,7 +4021,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZU"
   },
   ponyta: {
     num: 77,
@@ -4240,8 +4056,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ponyta",
       "Ponyta-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ponytagalar: {
     num: 77,
@@ -4271,8 +4085,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rapidash: {
     num: 78,
@@ -4307,8 +4119,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rapidash",
       "Rapidash-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rapidashgalar: {
     num: 78,
@@ -4338,8 +4148,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   slowpoke: {
     num: 79,
@@ -4378,7 +4186,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Slowpoke",
       "Slowpoke-Galar"
     ],
-    tier: "LC"
   },
   slowpokegalar: {
     num: 79,
@@ -4410,7 +4217,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "LC"
   },
   slowbro: {
     num: 80,
@@ -4449,7 +4255,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Slowbro-Mega",
       "Slowbro-Galar"
     ],
-    tier: "RU"
   },
   slowbromega: {
     num: 80,
@@ -4478,8 +4283,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   slowbrogalar: {
     num: 80,
@@ -4511,7 +4314,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "NU"
   },
   magnemite: {
     num: 81,
@@ -4542,7 +4344,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   magneton: {
     num: 82,
@@ -4575,7 +4376,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZU"
   },
   farfetchd: {
     num: 83,
@@ -4610,8 +4410,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Farfetch’d",
       "Farfetch’d-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   farfetchdgalar: {
     num: 83,
@@ -4642,8 +4440,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   doduo: {
     num: 84,
@@ -4673,7 +4469,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   dodrio: {
     num: 85,
@@ -4702,7 +4497,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "ZU"
   },
   seel: {
     num: 86,
@@ -4731,7 +4525,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   dewgong: {
     num: 87,
@@ -4760,7 +4553,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "ZU"
   },
   grimer: {
     num: 88,
@@ -4796,7 +4588,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grimer",
       "Grimer-Alola"
     ],
-    tier: "LC"
   },
   grimeralola: {
     num: 88,
@@ -4827,7 +4618,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   muk: {
     num: 89,
@@ -4862,7 +4652,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Muk",
       "Muk-Alola"
     ],
-    tier: "ZU"
   },
   mukalola: {
     num: 89,
@@ -4892,7 +4681,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "RU"
   },
   shellder: {
     num: 90,
@@ -4920,7 +4708,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "LC"
   },
   cloyster: {
     num: 91,
@@ -4949,7 +4736,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "NUBL"
   },
   gastly: {
     num: 92,
@@ -4978,7 +4764,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   haunter: {
     num: 93,
@@ -5009,7 +4794,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   gengar: {
     num: 94,
@@ -5045,7 +4829,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gengar-Mega"
     ],
     canGigantamax: "G-Max Terror",
-    tier: "RU"
   },
   gengarmega: {
     num: 94,
@@ -5073,8 +4856,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gengargmax: {
     num: 94,
@@ -5103,8 +4884,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Gengar",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   onix: {
     num: 95,
@@ -5134,8 +4913,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   drowzee: {
     num: 96,
@@ -5164,7 +4941,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   hypno: {
     num: 97,
@@ -5192,7 +4968,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   krabby: {
     num: 98,
@@ -5221,8 +4996,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kingler: {
     num: 99,
@@ -5251,8 +5024,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     canGigantamax: "G-Max Foam Burst",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kinglergmax: {
     num: 99,
@@ -5281,8 +5052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     changesFrom: "Kingler",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   voltorb: {
     num: 100,
@@ -5319,7 +5088,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Voltorb",
       "Voltorb-Hisui"
     ],
-    tier: "LC"
   },
   voltorbhisui: {
     num: 100,
@@ -5352,7 +5120,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   electrode: {
     num: 101,
@@ -5388,7 +5155,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Electrode",
       "Electrode-Hisui"
     ],
-    tier: "ZU"
   },
   electrodehisui: {
     num: 101,
@@ -5421,7 +5187,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZUBL"
   },
   exeggcute: {
     num: 102,
@@ -5451,7 +5216,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   exeggutor: {
     num: 103,
@@ -5487,7 +5251,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Exeggutor",
       "Exeggutor-Alola"
     ],
-    tier: "ZU"
   },
   exeggutoralola: {
     num: 103,
@@ -5519,7 +5282,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "ZU"
   },
   cubone: {
     num: 104,
@@ -5549,8 +5311,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   marowak: {
     num: 105,
@@ -5587,8 +5347,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Marowak-Alola",
       "Marowak-Alola-Totem"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   marowakalola: {
     num: 105,
@@ -5621,8 +5379,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   marowakalolatotem: {
     num: 105,
@@ -5650,8 +5406,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   hitmonlee: {
     num: 106,
@@ -5680,7 +5434,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "PU"
   },
   hitmonchan: {
     num: 107,
@@ -5710,7 +5463,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   lickitung: {
     num: 108,
@@ -5739,8 +5491,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   koffing: {
     num: 109,
@@ -5770,7 +5520,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   weezing: {
     num: 110,
@@ -5805,7 +5554,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Weezing",
       "Weezing-Galar"
     ],
-    tier: "ZU"
   },
   weezinggalar: {
     num: 110,
@@ -5836,7 +5584,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "OU"
   },
   rhyhorn: {
     num: 111,
@@ -5867,7 +5614,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "LC"
   },
   rhydon: {
     num: 112,
@@ -5900,7 +5646,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "PU"
   },
   chansey: {
     num: 113,
@@ -5935,7 +5680,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     canHatch: true,
-    tier: "RU"
   },
   tangela: {
     num: 114,
@@ -5963,8 +5707,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kangaskhan: {
     num: 115,
@@ -5998,8 +5740,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Kangaskhan",
       "Kangaskhan-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kangaskhanmega: {
     num: 115,
@@ -6027,8 +5767,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   horsea: {
     num: 116,
@@ -6058,7 +5796,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "LC"
   },
   seadra: {
     num: 117,
@@ -6090,7 +5827,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "NFE"
   },
   goldeen: {
     num: 118,
@@ -6119,8 +5855,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   seaking: {
     num: 119,
@@ -6148,8 +5882,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   staryu: {
     num: 120,
@@ -6178,8 +5910,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   starmie: {
     num: 121,
@@ -6216,8 +5946,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Starmie",
       "Starmie-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   starmiemega: {
     num: 121,
@@ -6247,8 +5975,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   mrmime: {
     num: 122,
@@ -6285,8 +6011,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mr. Mime",
       "Mr. Mime-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mrmimegalar: {
     num: 122,
@@ -6322,8 +6046,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   scyther: {
     num: 123,
@@ -6353,7 +6075,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NU"
   },
   jynx: {
     num: 124,
@@ -6382,8 +6103,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   electabuzz: {
     num: 125,
@@ -6418,7 +6137,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "NFE"
   },
   magmar: {
     num: 126,
@@ -6453,7 +6171,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "NFE"
   },
   pinsir: {
     num: 127,
@@ -6485,8 +6202,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pinsir",
       "Pinsir-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pinsirmega: {
     num: 127,
@@ -6514,8 +6229,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tauros: {
     num: 128,
@@ -6552,7 +6265,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   taurospaldeacombat: {
     num: 128,
@@ -6580,7 +6292,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   taurospaldeablaze: {
     num: 128,
@@ -6609,7 +6320,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   taurospaldeaaqua: {
     num: 128,
@@ -6638,7 +6348,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   magikarp: {
     num: 129,
@@ -6667,7 +6376,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2",
       "Dragon"
     ],
-    tier: "LC"
   },
   gyarados: {
     num: 130,
@@ -6703,7 +6411,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gyarados",
       "Gyarados-Mega"
     ],
-    tier: "RUBL"
   },
   gyaradosmega: {
     num: 130,
@@ -6732,8 +6439,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lapras: {
     num: 131,
@@ -6762,7 +6467,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     canGigantamax: "G-Max Resonance",
-    tier: "ZU"
   },
   laprasgmax: {
     num: 131,
@@ -6793,8 +6497,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     changesFrom: "Lapras",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ditto: {
     num: 132,
@@ -6820,7 +6522,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Ditto"
     ],
-    tier: "ZU"
   },
   eevee: {
     num: 133,
@@ -6867,7 +6568,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eevee-Starter"
     ],
     canGigantamax: "G-Max Cuddle",
-    tier: "LC"
   },
   eeveestarter: {
     num: 133,
@@ -6898,8 +6598,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "LGPE"
   },
   eeveegmax: {
     num: 133,
@@ -6931,8 +6629,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     changesFrom: "Eevee",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   vaporeon: {
     num: 134,
@@ -6964,7 +6660,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   jolteon: {
     num: 135,
@@ -6996,7 +6691,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   flareon: {
     num: 136,
@@ -7029,7 +6723,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   porygon: {
     num: 137,
@@ -7058,7 +6751,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   omanyte: {
     num: 138,
@@ -7093,8 +6785,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   omastar: {
     num: 139,
@@ -7128,8 +6818,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kabuto: {
     num: 140,
@@ -7164,8 +6852,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kabutops: {
     num: 141,
@@ -7199,8 +6885,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aerodactyl: {
     num: 142,
@@ -7238,8 +6922,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Aerodactyl",
       "Aerodactyl-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aerodactylmega: {
     num: 142,
@@ -7271,8 +6953,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   snorlax: {
     num: 143,
@@ -7306,7 +6986,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     canHatch: true,
     canGigantamax: "G-Max Replenish",
-    tier: "ZU"
   },
   snorlaxgmax: {
     num: 143,
@@ -7339,8 +7018,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster"
     ],
     changesFrom: "Snorlax",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   articuno: {
     num: 144,
@@ -7377,7 +7054,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Articuno",
       "Articuno-Galar"
     ],
-    tier: "ZU"
   },
   articunogalar: {
     num: 144,
@@ -7406,7 +7082,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NU"
   },
   zapdos: {
     num: 145,
@@ -7444,7 +7119,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zapdos",
       "Zapdos-Galar"
     ],
-    tier: "OU"
   },
   zapdosgalar: {
     num: 145,
@@ -7473,7 +7147,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   moltres: {
     num: 146,
@@ -7511,7 +7184,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Moltres",
       "Moltres-Galar"
     ],
-    tier: "OU"
   },
   moltresgalar: {
     num: 146,
@@ -7540,7 +7212,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UUBL"
   },
   dratini: {
     num: 147,
@@ -7570,7 +7241,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "LC"
   },
   dragonair: {
     num: 148,
@@ -7602,7 +7272,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "NFE"
   },
   dragonite: {
     num: 149,
@@ -7638,7 +7307,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragonite",
       "Dragonite-Mega"
     ],
-    tier: "OU"
   },
   dragonitemega: {
     num: 149,
@@ -7668,8 +7336,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   mewtwo: {
     num: 150,
@@ -7707,7 +7373,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mewtwo-Mega-X",
       "Mewtwo-Mega-Y"
     ],
-    tier: "Uber"
   },
   mewtwomegax: {
     num: 150,
@@ -7736,8 +7401,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mewtwomegay: {
     num: 150,
@@ -7765,8 +7428,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mew: {
     num: 151,
@@ -7795,7 +7456,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RU"
   },
   chikorita: {
     num: 152,
@@ -7828,7 +7488,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "LC"
   },
   bayleef: {
     num: 153,
@@ -7863,7 +7522,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "NFE"
   },
   meganium: {
     num: 154,
@@ -7902,7 +7560,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Meganium",
       "Meganium-Mega"
     ],
-    tier: "ZU"
   },
   meganiummega: {
     num: 154,
@@ -7936,8 +7593,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   cyndaquil: {
     num: 155,
@@ -7970,7 +7625,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   quilava: {
     num: 156,
@@ -8006,7 +7660,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   typhlosion: {
     num: 157,
@@ -8045,7 +7698,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Typhlosion",
       "Typhlosion-Hisui"
     ],
-    tier: "ZU"
   },
   typhlosionhisui: {
     num: 157,
@@ -8079,7 +7731,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   totodile: {
     num: 158,
@@ -8112,7 +7763,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "LC"
   },
   croconaw: {
     num: 159,
@@ -8147,7 +7797,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "NFE"
   },
   feraligatr: {
     num: 160,
@@ -8186,7 +7835,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Feraligatr",
       "Feraligatr-Mega"
     ],
-    tier: "NUBL"
   },
   feraligatrmega: {
     num: 160,
@@ -8220,8 +7868,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   sentret: {
     num: 161,
@@ -8250,7 +7896,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   furret: {
     num: 162,
@@ -8278,7 +7923,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   hoothoot: {
     num: 163,
@@ -8308,7 +7952,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   noctowl: {
     num: 164,
@@ -8337,7 +7980,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "ZU"
   },
   ledyba: {
     num: 165,
@@ -8367,8 +8009,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ledian: {
     num: 166,
@@ -8397,8 +8037,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   spinarak: {
     num: 167,
@@ -8428,7 +8066,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   ariados: {
     num: 168,
@@ -8457,7 +8094,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   crobat: {
     num: 169,
@@ -8485,8 +8121,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   chinchou: {
     num: 170,
@@ -8516,7 +8150,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "LC"
   },
   lanturn: {
     num: 171,
@@ -8545,7 +8178,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "ZU"
   },
   pichu: {
     num: 172,
@@ -8582,7 +8214,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pichu",
       "Pichu-Spiky-eared"
     ],
-    tier: "LC"
   },
   pichuspikyeared: {
     num: 172,
@@ -8610,8 +8241,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 4,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cleffa: {
     num: 173,
@@ -8644,7 +8273,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   igglybuff: {
     num: 174,
@@ -8678,7 +8306,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   togepi: {
     num: 175,
@@ -8712,8 +8339,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   togetic: {
     num: 176,
@@ -8750,8 +8375,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   natu: {
     num: 177,
@@ -8781,8 +8404,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   xatu: {
     num: 178,
@@ -8811,8 +8432,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mareep: {
     num: 179,
@@ -8842,7 +8461,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "LC"
   },
   flaaffy: {
     num: 180,
@@ -8874,7 +8492,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "NFE"
   },
   ampharos: {
     num: 181,
@@ -8910,7 +8527,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ampharos",
       "Ampharos-Mega"
     ],
-    tier: "ZU"
   },
   ampharosmega: {
     num: 181,
@@ -8939,8 +8555,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bellossom: {
     num: 182,
@@ -8968,7 +8582,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "ZUBL"
   },
   marill: {
     num: 183,
@@ -9002,7 +8615,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     canHatch: true,
-    tier: "NFE"
   },
   azumarill: {
     num: 184,
@@ -9032,7 +8644,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Fairy"
     ],
-    tier: "UU"
   },
   sudowoodo: {
     num: 185,
@@ -9062,7 +8673,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     canHatch: true,
-    tier: "ZU"
   },
   politoed: {
     num: 186,
@@ -9091,7 +8701,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "NUBL"
   },
   hoppip: {
     num: 187,
@@ -9121,7 +8730,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "LC"
   },
   skiploom: {
     num: 188,
@@ -9153,7 +8761,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "NFE"
   },
   jumpluff: {
     num: 189,
@@ -9182,7 +8789,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "ZU"
   },
   aipom: {
     num: 190,
@@ -9211,7 +8817,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   sunkern: {
     num: 191,
@@ -9240,7 +8845,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   sunflora: {
     num: 192,
@@ -9269,7 +8873,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "ZU"
   },
   yanma: {
     num: 193,
@@ -9299,7 +8902,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NFE"
   },
   wooper: {
     num: 194,
@@ -9337,7 +8939,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Wooper",
       "Wooper-Paldea"
     ],
-    tier: "LC"
   },
   wooperpaldea: {
     num: 194,
@@ -9370,7 +8971,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   quagsire: {
     num: 195,
@@ -9400,7 +9000,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "RU"
   },
   espeon: {
     num: 196,
@@ -9432,7 +9031,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   umbreon: {
     num: 197,
@@ -9465,7 +9063,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RU"
   },
   murkrow: {
     num: 198,
@@ -9494,7 +9091,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   slowking: {
     num: 199,
@@ -9532,7 +9128,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Slowking",
       "Slowking-Galar"
     ],
-    tier: "UU"
   },
   slowkinggalar: {
     num: 199,
@@ -9564,7 +9159,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "OU"
   },
   misdreavus: {
     num: 200,
@@ -9592,7 +9186,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   unown: {
     num: 201,
@@ -9678,8 +9271,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Unown-Exclamation",
       "Unown-Question"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wobbuffet: {
     num: 202,
@@ -9707,8 +9298,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   girafarig: {
     num: 203,
@@ -9738,7 +9327,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   pineco: {
     num: 204,
@@ -9766,7 +9354,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   forretress: {
     num: 205,
@@ -9794,7 +9381,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "RU"
   },
   dunsparce: {
     num: 206,
@@ -9824,7 +9410,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   gligar: {
     num: 207,
@@ -9854,7 +9439,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NU"
   },
   steelix: {
     num: 208,
@@ -9891,8 +9475,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Steelix",
       "Steelix-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   steelixmega: {
     num: 208,
@@ -9920,8 +9502,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   snubbull: {
     num: 209,
@@ -9955,7 +9535,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "LC"
   },
   granbull: {
     num: 210,
@@ -9987,7 +9566,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "ZU"
   },
   qwilfish: {
     num: 211,
@@ -10021,7 +9599,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Qwilfish",
       "Qwilfish-Hisui"
     ],
-    tier: "PU"
   },
   qwilfishhisui: {
     num: 211,
@@ -10053,7 +9630,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "PU"
   },
   scizor: {
     num: 212,
@@ -10089,7 +9665,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scizor",
       "Scizor-Mega"
     ],
-    tier: "OU"
   },
   scizormega: {
     num: 212,
@@ -10117,8 +9692,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   shuckle: {
     num: 213,
@@ -10144,8 +9717,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   heracross: {
     num: 214,
@@ -10179,7 +9750,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Heracross",
       "Heracross-Mega"
     ],
-    tier: "PUBL"
   },
   heracrossmega: {
     num: 214,
@@ -10207,8 +9777,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sneasel: {
     num: 215,
@@ -10245,7 +9813,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sneasel",
       "Sneasel-Hisui"
     ],
-    tier: "NFE"
   },
   sneaselhisui: {
     num: 215,
@@ -10277,7 +9844,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   teddiursa: {
     num: 216,
@@ -10305,7 +9871,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   ursaring: {
     num: 217,
@@ -10335,7 +9900,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   slugma: {
     num: 218,
@@ -10364,7 +9928,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   magcargo: {
     num: 219,
@@ -10393,7 +9956,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "ZU"
   },
   swinub: {
     num: 220,
@@ -10423,7 +9985,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   piloswine: {
     num: 221,
@@ -10455,7 +10016,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   corsola: {
     num: 222,
@@ -10494,8 +10054,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Corsola",
       "Corsola-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   corsolagalar: {
     num: 222,
@@ -10530,8 +10088,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   remoraid: {
     num: 223,
@@ -10560,8 +10116,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   octillery: {
     num: 224,
@@ -10589,8 +10143,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   delibird: {
     num: 225,
@@ -10618,7 +10170,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "ZU"
   },
   mantine: {
     num: 226,
@@ -10649,8 +10200,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   skarmory: {
     num: 227,
@@ -10684,7 +10233,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Skarmory",
       "Skarmory-Mega"
     ],
-    tier: "UU"
   },
   skarmorymega: {
     num: 227,
@@ -10714,8 +10262,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   houndour: {
     num: 228,
@@ -10745,7 +10291,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   houndoom: {
     num: 229,
@@ -10781,7 +10326,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Houndoom",
       "Houndoom-Mega"
     ],
-    tier: "ZU"
   },
   houndoommega: {
     num: 229,
@@ -10809,8 +10353,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kingdra: {
     num: 230,
@@ -10841,7 +10383,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "ZUBL"
   },
   phanpy: {
     num: 231,
@@ -10870,7 +10411,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   donphan: {
     num: 232,
@@ -10898,7 +10438,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "UU"
   },
   porygon2: {
     num: 233,
@@ -10930,7 +10469,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZUBL"
   },
   stantler: {
     num: 234,
@@ -10958,7 +10496,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   smeargle: {
     num: 235,
@@ -10983,7 +10520,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   tyrogue: {
     num: 236,
@@ -11016,7 +10552,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   hitmontop: {
     num: 237,
@@ -11045,7 +10580,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   smoochum: {
     num: 238,
@@ -11076,8 +10610,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   elekid: {
     num: 239,
@@ -11111,7 +10643,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   magby: {
     num: 240,
@@ -11145,7 +10676,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "NFE"
   },
   miltank: {
     num: 241,
@@ -11171,8 +10701,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   blissey: {
     num: 242,
@@ -11201,7 +10729,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "RU"
   },
   raikou: {
     num: 243,
@@ -11231,7 +10758,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NU"
   },
   entei: {
     num: 244,
@@ -11261,7 +10787,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RU"
   },
   suicune: {
     num: 245,
@@ -11291,7 +10816,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   larvitar: {
     num: 246,
@@ -11321,7 +10845,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "LC"
   },
   pupitar: {
     num: 247,
@@ -11352,7 +10875,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "NFE"
   },
   tyranitar: {
     num: 248,
@@ -11387,7 +10909,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Tyranitar",
       "Tyranitar-Mega"
     ],
-    tier: "UU"
   },
   tyranitarmega: {
     num: 248,
@@ -11415,8 +10936,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lugia: {
     num: 249,
@@ -11446,7 +10965,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   hooh: {
     num: 250,
@@ -11476,7 +10994,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   celebi: {
     num: 251,
@@ -11506,8 +11023,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   treecko: {
     num: 252,
@@ -11540,7 +11055,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "LC"
   },
   grovyle: {
     num: 253,
@@ -11575,7 +11089,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "NFE"
   },
   sceptile: {
     num: 254,
@@ -11614,7 +11127,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sceptile",
       "Sceptile-Mega"
     ],
-    tier: "ZU"
   },
   sceptilemega: {
     num: 254,
@@ -11647,8 +11159,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   torchic: {
     num: 255,
@@ -11681,7 +11191,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   combusken: {
     num: 256,
@@ -11717,7 +11226,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   blaziken: {
     num: 257,
@@ -11757,7 +11265,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Blaziken",
       "Blaziken-Mega"
     ],
-    tier: "UUBL"
   },
   blazikenmega: {
     num: 257,
@@ -11789,8 +11296,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mudkip: {
     num: 258,
@@ -11824,7 +11329,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "LC"
   },
   marshtomp: {
     num: 259,
@@ -11861,7 +11365,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "NFE"
   },
   swampert: {
     num: 260,
@@ -11902,7 +11405,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Swampert",
       "Swampert-Mega"
     ],
-    tier: "NU"
   },
   swampertmega: {
     num: 260,
@@ -11935,8 +11437,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   poochyena: {
     num: 261,
@@ -11964,7 +11464,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   mightyena: {
     num: 262,
@@ -11991,7 +11490,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   zigzagoon: {
     num: 263,
@@ -12026,8 +11524,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zigzagoon",
       "Zigzagoon-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zigzagoongalar: {
     num: 263,
@@ -12058,8 +11554,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   linoone: {
     num: 264,
@@ -12093,8 +11587,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Linoone",
       "Linoone-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   linoonegalar: {
     num: 264,
@@ -12127,8 +11619,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wurmple: {
     num: 265,
@@ -12158,8 +11648,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silcoon: {
     num: 266,
@@ -12189,8 +11677,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   beautifly: {
     num: 267,
@@ -12218,8 +11704,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cascoon: {
     num: 268,
@@ -12249,8 +11733,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dustox: {
     num: 269,
@@ -12279,8 +11761,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lotad: {
     num: 270,
@@ -12311,7 +11791,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Grass"
     ],
-    tier: "LC"
   },
   lombre: {
     num: 271,
@@ -12344,7 +11823,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Grass"
     ],
-    tier: "NFE"
   },
   ludicolo: {
     num: 272,
@@ -12375,7 +11853,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Grass"
     ],
-    tier: "ZU"
   },
   seedot: {
     num: 273,
@@ -12405,7 +11882,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "LC"
   },
   nuzleaf: {
     num: 274,
@@ -12438,7 +11914,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "NFE"
   },
   shiftry: {
     num: 275,
@@ -12468,7 +11943,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "ZU"
   },
   taillow: {
     num: 276,
@@ -12497,8 +11971,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   swellow: {
     num: 277,
@@ -12526,8 +11998,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wingull: {
     num: 278,
@@ -12558,7 +12028,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "LC"
   },
   pelipper: {
     num: 279,
@@ -12588,7 +12057,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "UUBL"
   },
   ralts: {
     num: 280,
@@ -12619,7 +12087,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like",
       "Amorphous"
     ],
-    tier: "LC"
   },
   kirlia: {
     num: 281,
@@ -12653,7 +12120,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like",
       "Amorphous"
     ],
-    tier: "NFE"
   },
   gardevoir: {
     num: 282,
@@ -12690,7 +12156,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gardevoir",
       "Gardevoir-Mega"
     ],
-    tier: "RU"
   },
   gardevoirmega: {
     num: 282,
@@ -12718,8 +12183,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   surskit: {
     num: 283,
@@ -12750,7 +12213,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Bug"
     ],
-    tier: "LC"
   },
   masquerain: {
     num: 284,
@@ -12779,7 +12241,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Bug"
     ],
-    tier: "ZU"
   },
   shroomish: {
     num: 285,
@@ -12808,7 +12269,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "LC"
   },
   breloom: {
     num: 286,
@@ -12837,7 +12297,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "NU"
   },
   slakoth: {
     num: 287,
@@ -12865,7 +12324,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   vigoroth: {
     num: 288,
@@ -12895,7 +12353,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   slaking: {
     num: 289,
@@ -12922,7 +12379,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   nincada: {
     num: 290,
@@ -12953,8 +12409,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ninjask: {
     num: 291,
@@ -12982,8 +12436,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   shedinja: {
     num: 292,
@@ -13013,8 +12465,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   whismur: {
     num: 293,
@@ -13043,8 +12493,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   loudred: {
     num: 294,
@@ -13075,8 +12523,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   exploud: {
     num: 295,
@@ -13104,8 +12550,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   makuhita: {
     num: 296,
@@ -13138,7 +12582,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   hariyama: {
     num: 297,
@@ -13170,7 +12613,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "PU"
   },
   azurill: {
     num: 298,
@@ -13205,7 +12647,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   nosepass: {
     num: 299,
@@ -13234,7 +12675,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   skitty: {
     num: 300,
@@ -13267,8 +12707,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   delcatty: {
     num: 301,
@@ -13301,8 +12739,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sableye: {
     num: 302,
@@ -13335,7 +12771,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sableye",
       "Sableye-Mega"
     ],
-    tier: "ZU"
   },
   sableyemega: {
     num: 302,
@@ -13363,8 +12798,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mawile: {
     num: 303,
@@ -13399,8 +12832,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mawile",
       "Mawile-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mawilemega: {
     num: 303,
@@ -13429,8 +12860,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aron: {
     num: 304,
@@ -13460,8 +12889,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lairon: {
     num: 305,
@@ -13493,8 +12920,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aggron: {
     num: 306,
@@ -13530,8 +12955,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Aggron",
       "Aggron-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aggronmega: {
     num: 306,
@@ -13558,8 +12981,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   meditite: {
     num: 307,
@@ -13588,7 +13009,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "NFE"
   },
   medicham: {
     num: 308,
@@ -13623,7 +13043,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Medicham",
       "Medicham-Mega"
     ],
-    tier: "ZU"
   },
   medichammega: {
     num: 308,
@@ -13651,8 +13070,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   electrike: {
     num: 309,
@@ -13681,8 +13098,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   manectric: {
     num: 310,
@@ -13717,8 +13132,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Manectric",
       "Manectric-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   manectricmega: {
     num: 310,
@@ -13745,8 +13158,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   plusle: {
     num: 311,
@@ -13772,7 +13183,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "ZU"
   },
   minun: {
     num: 312,
@@ -13798,7 +13208,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "ZU"
   },
   volbeat: {
     num: 313,
@@ -13826,7 +13235,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     mother: "illumise",
-    tier: "ZU"
   },
   illumise: {
     num: 314,
@@ -13853,7 +13261,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Human-Like"
     ],
-    tier: "ZU"
   },
   roselia: {
     num: 315,
@@ -13888,8 +13295,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gulpin: {
     num: 316,
@@ -13918,7 +13323,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   swalot: {
     num: 317,
@@ -13946,7 +13350,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "ZU"
   },
   carvanha: {
     num: 318,
@@ -13976,8 +13379,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sharpedo: {
     num: 319,
@@ -14013,8 +13414,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sharpedo",
       "Sharpedo-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sharpedomega: {
     num: 319,
@@ -14042,8 +13441,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wailmer: {
     num: 320,
@@ -14073,8 +13470,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wailord: {
     num: 321,
@@ -14103,8 +13498,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   numel: {
     num: 322,
@@ -14134,7 +13527,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   camerupt: {
     num: 323,
@@ -14169,7 +13561,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Camerupt",
       "Camerupt-Mega"
     ],
-    tier: "ZU"
   },
   cameruptmega: {
     num: 323,
@@ -14197,8 +13588,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   torkoal: {
     num: 324,
@@ -14224,7 +13613,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   spoink: {
     num: 325,
@@ -14253,7 +13641,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   grumpig: {
     num: 326,
@@ -14281,7 +13668,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   spinda: {
     num: 327,
@@ -14307,8 +13693,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   trapinch: {
     num: 328,
@@ -14338,7 +13722,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Dragon"
     ],
-    tier: "LC"
   },
   vibrava: {
     num: 329,
@@ -14370,7 +13753,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Dragon"
     ],
-    tier: "NFE"
   },
   flygon: {
     num: 330,
@@ -14399,7 +13781,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Dragon"
     ],
-    tier: "NU"
   },
   cacnea: {
     num: 331,
@@ -14429,7 +13810,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Human-Like"
     ],
-    tier: "LC"
   },
   cacturne: {
     num: 332,
@@ -14459,7 +13839,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Human-Like"
     ],
-    tier: "ZU"
   },
   swablu: {
     num: 333,
@@ -14490,7 +13869,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Dragon"
     ],
-    tier: "LC"
   },
   altaria: {
     num: 334,
@@ -14527,7 +13905,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Altaria",
       "Altaria-Mega"
     ],
-    tier: "NU"
   },
   altariamega: {
     num: 334,
@@ -14556,8 +13933,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zangoose: {
     num: 335,
@@ -14582,7 +13957,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   seviper: {
     num: 336,
@@ -14608,7 +13982,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    tier: "ZU"
   },
   lunatone: {
     num: 337,
@@ -14635,8 +14008,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   solrock: {
     num: 338,
@@ -14663,8 +14034,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   barboach: {
     num: 339,
@@ -14693,7 +14062,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "LC"
   },
   whiscash: {
     num: 340,
@@ -14721,7 +14089,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "ZU"
   },
   corphish: {
     num: 341,
@@ -14751,7 +14118,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "LC"
   },
   crawdaunt: {
     num: 342,
@@ -14781,7 +14147,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "RU"
   },
   baltoy: {
     num: 343,
@@ -14811,8 +14176,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   claydol: {
     num: 344,
@@ -14841,8 +14204,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lileep: {
     num: 345,
@@ -14875,8 +14236,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cradily: {
     num: 346,
@@ -14908,8 +14267,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   anorith: {
     num: 347,
@@ -14943,8 +14300,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   armaldo: {
     num: 348,
@@ -14977,8 +14332,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   feebas: {
     num: 349,
@@ -15008,7 +14361,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "LC"
   },
   milotic: {
     num: 350,
@@ -15038,7 +14390,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "PU"
   },
   castform: {
     num: 351,
@@ -15075,8 +14426,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Castform-Rainy",
       "Castform-Snowy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   castformsunny: {
     num: 351,
@@ -15106,7 +14455,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Forecast",
     battleOnly: "Castform",
-    isNonstandard: "Past"
   },
   castformrainy: {
     num: 351,
@@ -15136,7 +14484,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Forecast",
     battleOnly: "Castform",
-    isNonstandard: "Past"
   },
   castformsnowy: {
     num: 351,
@@ -15166,7 +14513,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Forecast",
     battleOnly: "Castform",
-    isNonstandard: "Past"
   },
   kecleon: {
     num: 352,
@@ -15191,8 +14537,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   shuppet: {
     num: 353,
@@ -15220,7 +14564,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   banette: {
     num: 354,
@@ -15254,7 +14597,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Banette",
       "Banette-Mega"
     ],
-    tier: "ZU"
   },
   banettemega: {
     num: 354,
@@ -15281,8 +14623,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   duskull: {
     num: 355,
@@ -15310,7 +14650,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   dusclops: {
     num: 356,
@@ -15340,7 +14679,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   tropius: {
     num: 357,
@@ -15367,7 +14705,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "ZU"
   },
   chimecho: {
     num: 358,
@@ -15403,7 +14740,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Chimecho",
       "Chimecho-Mega"
     ],
-    tier: "ZU"
   },
   chimechomega: {
     num: 358,
@@ -15432,8 +14768,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   absol: {
     num: 359,
@@ -15467,8 +14801,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Absol-Mega",
       "Absol-Mega-Z"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   absolmega: {
     num: 359,
@@ -15495,8 +14827,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   absolmegaz: {
     num: 359,
@@ -15525,8 +14855,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   wynaut: {
     num: 360,
@@ -15555,8 +14883,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   snorunt: {
     num: 361,
@@ -15586,7 +14912,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Mineral"
     ],
-    tier: "LC"
   },
   glalie: {
     num: 362,
@@ -15621,7 +14946,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Glalie",
       "Glalie-Mega"
     ],
-    tier: "ZU"
   },
   glaliemega: {
     num: 362,
@@ -15649,8 +14973,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   spheal: {
     num: 363,
@@ -15681,8 +15003,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sealeo: {
     num: 364,
@@ -15715,8 +15035,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   walrein: {
     num: 365,
@@ -15746,8 +15064,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   clamperl: {
     num: 366,
@@ -15776,8 +15092,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   huntail: {
     num: 367,
@@ -15806,8 +15120,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gorebyss: {
     num: 368,
@@ -15835,8 +15147,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   relicanth: {
     num: 369,
@@ -15868,8 +15178,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   luvdisc: {
     num: 370,
@@ -15898,7 +15206,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "ZU"
   },
   bagon: {
     num: 371,
@@ -15926,7 +15233,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "LC"
   },
   shelgon: {
     num: 372,
@@ -15956,7 +15262,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "NFE"
   },
   salamence: {
     num: 373,
@@ -15991,7 +15296,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Salamence",
       "Salamence-Mega"
     ],
-    tier: "RUBL"
   },
   salamencemega: {
     num: 373,
@@ -16019,8 +15323,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   beldum: {
     num: 374,
@@ -16050,7 +15352,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   metang: {
     num: 375,
@@ -16082,7 +15383,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   metagross: {
     num: 376,
@@ -16118,7 +15418,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Metagross",
       "Metagross-Mega"
     ],
-    tier: "UU"
   },
   metagrossmega: {
     num: 376,
@@ -16147,8 +15446,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   regirock: {
     num: 377,
@@ -16178,7 +15475,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   regice: {
     num: 378,
@@ -16207,7 +15503,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   registeel: {
     num: 379,
@@ -16236,7 +15531,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RU"
   },
   latias: {
     num: 380,
@@ -16273,7 +15567,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Latias",
       "Latias-Mega"
     ],
-    tier: "UUBL"
   },
   latiasmega: {
     num: 380,
@@ -16302,8 +15595,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   latios: {
     num: 381,
@@ -16340,7 +15631,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Latios",
       "Latios-Mega"
     ],
-    tier: "UU"
   },
   latiosmega: {
     num: 381,
@@ -16369,8 +15659,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kyogre: {
     num: 382,
@@ -16406,7 +15694,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Kyogre",
       "Kyogre-Primal"
     ],
-    tier: "Uber"
   },
   kyogreprimal: {
     num: 382,
@@ -16434,8 +15721,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   groudon: {
     num: 383,
@@ -16471,7 +15756,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Groudon",
       "Groudon-Primal"
     ],
-    tier: "Uber"
   },
   groudonprimal: {
     num: 383,
@@ -16500,8 +15784,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rayquaza: {
     num: 384,
@@ -16538,7 +15820,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rayquaza",
       "Rayquaza-Mega"
     ],
-    tier: "Uber"
   },
   rayquazamega: {
     num: 384,
@@ -16567,8 +15848,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   jirachi: {
     num: 385,
@@ -16598,7 +15877,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RU"
   },
   deoxys: {
     num: 386,
@@ -16639,7 +15917,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Deoxys-Defense",
       "Deoxys-Speed"
     ],
-    tier: "Uber"
   },
   deoxysattack: {
     num: 386,
@@ -16668,7 +15945,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Deoxys",
-    tier: "Uber"
   },
   deoxysdefense: {
     num: 386,
@@ -16697,7 +15973,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Deoxys",
-    tier: "NUBL"
   },
   deoxysspeed: {
     num: 386,
@@ -16726,7 +16001,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Deoxys",
-    tier: "OU"
   },
   turtwig: {
     num: 387,
@@ -16760,7 +16034,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "LC"
   },
   grotle: {
     num: 388,
@@ -16796,7 +16069,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "NFE"
   },
   torterra: {
     num: 389,
@@ -16830,7 +16102,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "PUBL"
   },
   chimchar: {
     num: 390,
@@ -16863,7 +16134,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "LC"
   },
   monferno: {
     num: 391,
@@ -16899,7 +16169,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "NFE"
   },
   infernape: {
     num: 392,
@@ -16932,7 +16201,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "NU"
   },
   piplup: {
     num: 393,
@@ -16965,7 +16233,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   prinplup: {
     num: 394,
@@ -17000,7 +16267,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "NFE"
   },
   empoleon: {
     num: 395,
@@ -17033,7 +16299,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "RU"
   },
   starly: {
     num: 396,
@@ -17062,7 +16327,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   staravia: {
     num: 397,
@@ -17093,7 +16357,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   staraptor: {
     num: 398,
@@ -17128,7 +16391,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Staraptor",
       "Staraptor-Mega"
     ],
-    tier: "NU"
   },
   staraptormega: {
     num: 398,
@@ -17157,8 +16419,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   bidoof: {
     num: 399,
@@ -17187,8 +16447,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bibarel: {
     num: 400,
@@ -17217,8 +16475,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kricketot: {
     num: 401,
@@ -17247,7 +16503,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   kricketune: {
     num: 402,
@@ -17274,7 +16529,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   shinx: {
     num: 403,
@@ -17303,7 +16557,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   luxio: {
     num: 404,
@@ -17334,7 +16587,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   luxray: {
     num: 405,
@@ -17362,7 +16614,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   budew: {
     num: 406,
@@ -17393,8 +16644,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   roserade: {
     num: 407,
@@ -17425,8 +16674,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cranidos: {
     num: 408,
@@ -17458,7 +16705,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "LC"
   },
   rampardos: {
     num: 409,
@@ -17489,7 +16735,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "ZU"
   },
   shieldon: {
     num: 410,
@@ -17523,7 +16768,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "LC"
   },
   bastiodon: {
     num: 411,
@@ -17556,7 +16800,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "ZU"
   },
   burmy: {
     num: 412,
@@ -17597,8 +16840,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Burmy-Sandy",
       "Burmy-Trash"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   burmysandy: {
     isCosmeticForme: true,
@@ -17651,8 +16892,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Wormadam-Sandy",
       "Wormadam-Trash"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wormadamsandy: {
     num: 413,
@@ -17683,8 +16922,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wormadamtrash: {
     num: 413,
@@ -17715,8 +16952,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mothim: {
     num: 414,
@@ -17745,8 +16980,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   combee: {
     num: 415,
@@ -17779,7 +17012,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   vespiquen: {
     num: 416,
@@ -17808,7 +17040,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   pachirisu: {
     num: 417,
@@ -17835,7 +17066,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "ZU"
   },
   buizel: {
     num: 418,
@@ -17865,7 +17095,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   floatzel: {
     num: 419,
@@ -17894,7 +17123,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "ZUBL"
   },
   cherubi: {
     num: 420,
@@ -17923,8 +17151,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cherrim: {
     num: 421,
@@ -17960,8 +17186,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Cherrim",
       "Cherrim-Sunshine"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cherrimsunshine: {
     num: 421,
@@ -17991,7 +17215,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Flower Gift",
     battleOnly: "Cherrim",
-    isNonstandard: "Past"
   },
   shellos: {
     num: 422,
@@ -18028,7 +17251,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Shellos",
       "Shellos-East"
     ],
-    tier: "LC"
   },
   shelloseast: {
     isCosmeticForme: true,
@@ -18072,7 +17294,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gastrodon",
       "Gastrodon-East"
     ],
-    tier: "RU"
   },
   gastrodoneast: {
     isCosmeticForme: true,
@@ -18107,7 +17328,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   drifloon: {
     num: 425,
@@ -18136,7 +17356,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   drifblim: {
     num: 426,
@@ -18164,7 +17383,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "ZU"
   },
   buneary: {
     num: 427,
@@ -18194,8 +17412,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lopunny: {
     num: 428,
@@ -18231,8 +17447,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lopunny",
       "Lopunny-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lopunnymega: {
     num: 428,
@@ -18261,8 +17475,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mismagius: {
     num: 429,
@@ -18290,7 +17502,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "PU"
   },
   honchkrow: {
     num: 430,
@@ -18319,7 +17530,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "ZU"
   },
   glameow: {
     num: 431,
@@ -18352,8 +17562,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   purugly: {
     num: 432,
@@ -18385,8 +17593,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   chingling: {
     num: 433,
@@ -18415,7 +17621,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   stunky: {
     num: 434,
@@ -18445,7 +17650,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   skuntank: {
     num: 435,
@@ -18474,7 +17678,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   bronzor: {
     num: 436,
@@ -18504,7 +17707,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   bronzong: {
     num: 437,
@@ -18533,7 +17735,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NU"
   },
   bonsly: {
     num: 438,
@@ -18563,7 +17764,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   mimejr: {
     num: 439,
@@ -18594,8 +17794,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   happiny: {
     num: 440,
@@ -18626,7 +17824,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   chatot: {
     num: 441,
@@ -18652,8 +17849,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   spiritomb: {
     num: 442,
@@ -18679,7 +17874,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "ZU"
   },
   gible: {
     num: 443,
@@ -18710,7 +17904,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "LC"
   },
   gabite: {
     num: 444,
@@ -18743,7 +17936,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "NFE"
   },
   garchomp: {
     num: 445,
@@ -18782,7 +17974,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Garchomp-Mega",
       "Garchomp-Mega-Z"
     ],
-    tier: "UUBL"
   },
   garchompmega: {
     num: 445,
@@ -18811,8 +18002,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   garchompmegaz: {
     num: 445,
@@ -18841,8 +18030,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   munchlax: {
     num: 446,
@@ -18876,7 +18063,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   riolu: {
     num: 447,
@@ -18909,7 +18095,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   lucario: {
     num: 448,
@@ -18952,7 +18137,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lucario-Mega",
       "Lucario-Mega-Z"
     ],
-    tier: "NUBL"
   },
   lucariomega: {
     num: 448,
@@ -18985,8 +18169,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lucariomegaz: {
     num: 448,
@@ -19020,8 +18202,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   hippopotas: {
     num: 449,
@@ -19049,7 +18229,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   hippowdon: {
     num: 450,
@@ -19076,7 +18255,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RU"
   },
   skorupi: {
     num: 451,
@@ -19107,8 +18285,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   drapion: {
     num: 452,
@@ -19138,8 +18314,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   croagunk: {
     num: 453,
@@ -19168,7 +18342,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   toxicroak: {
     num: 454,
@@ -19196,7 +18369,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   carnivine: {
     num: 455,
@@ -19221,8 +18393,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   finneon: {
     num: 456,
@@ -19251,7 +18421,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "LC"
   },
   lumineon: {
     num: 457,
@@ -19279,7 +18448,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "ZU"
   },
   mantyke: {
     num: 458,
@@ -19310,8 +18478,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   snover: {
     num: 459,
@@ -19341,7 +18507,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "LC"
   },
   abomasnow: {
     num: 460,
@@ -19377,7 +18542,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Abomasnow",
       "Abomasnow-Mega"
     ],
-    tier: "ZU"
   },
   abomasnowmega: {
     num: 460,
@@ -19406,8 +18570,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   weavile: {
     num: 461,
@@ -19437,7 +18599,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "UU"
   },
   magnezone: {
     num: 462,
@@ -19468,7 +18629,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "RU"
   },
   lickilicky: {
     num: 463,
@@ -19497,8 +18657,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rhyperior: {
     num: 464,
@@ -19528,7 +18686,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    tier: "NU"
   },
   tangrowth: {
     num: 465,
@@ -19556,8 +18713,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   electivire: {
     num: 466,
@@ -19589,7 +18744,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   magmortar: {
     num: 467,
@@ -19622,7 +18776,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   togekiss: {
     num: 468,
@@ -19657,8 +18810,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   yanmega: {
     num: 469,
@@ -19687,7 +18838,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "RUBL"
   },
   leafeon: {
     num: 470,
@@ -19719,7 +18869,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   glaceon: {
     num: 471,
@@ -19751,7 +18900,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   gliscor: {
     num: 472,
@@ -19782,7 +18930,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "OU"
   },
   mamoswine: {
     num: 473,
@@ -19812,7 +18959,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RUBL"
   },
   porygonz: {
     num: 474,
@@ -19841,7 +18987,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NUBL"
   },
   gallade: {
     num: 475,
@@ -19879,7 +19024,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gallade",
       "Gallade-Mega"
     ],
-    tier: "RU"
   },
   gallademega: {
     num: 475,
@@ -19908,8 +19052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   probopass: {
     num: 476,
@@ -19939,7 +19081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZU"
   },
   dusknoir: {
     num: 477,
@@ -19967,7 +19108,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "ZU"
   },
   froslass: {
     num: 478,
@@ -20005,7 +19145,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Froslass",
       "Froslass-Mega"
     ],
-    tier: "ZU"
   },
   froslassmega: {
     num: 478,
@@ -20036,8 +19175,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   rotom: {
     num: 479,
@@ -20079,7 +19216,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rotom-Fan",
       "Rotom-Mow"
     ],
-    tier: "ZU"
   },
   rotomheat: {
     num: 479,
@@ -20109,7 +19245,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Rotom",
-    tier: "PU"
   },
   rotomwash: {
     num: 479,
@@ -20139,7 +19274,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Rotom",
-    tier: "UU"
   },
   rotomfrost: {
     num: 479,
@@ -20169,7 +19303,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Rotom",
-    tier: "ZU"
   },
   rotomfan: {
     num: 479,
@@ -20199,7 +19332,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Rotom",
-    tier: "ZU"
   },
   rotommow: {
     num: 479,
@@ -20229,7 +19361,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Rotom",
-    tier: "ZU"
   },
   uxie: {
     num: 480,
@@ -20258,7 +19389,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "PU"
   },
   mesprit: {
     num: 481,
@@ -20287,7 +19417,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   azelf: {
     num: 482,
@@ -20316,7 +19445,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   dialga: {
     num: 483,
@@ -20353,7 +19481,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dialga",
       "Dialga-Origin"
     ],
-    tier: "Uber"
   },
   dialgaorigin: {
     num: 483,
@@ -20384,7 +19511,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Dialga",
     gen: 8,
-    tier: "Uber"
   },
   palkia: {
     num: 484,
@@ -20421,7 +19547,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Palkia",
       "Palkia-Origin"
     ],
-    tier: "Uber"
   },
   palkiaorigin: {
     num: 484,
@@ -20452,7 +19577,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Palkia",
     gen: 8,
-    tier: "Uber"
   },
   heatran: {
     num: 485,
@@ -20489,7 +19613,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Heatran",
       "Heatran-Mega"
     ],
-    tier: "OU"
   },
   heatranmega: {
     num: 485,
@@ -20522,8 +19645,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   regigigas: {
     num: 486,
@@ -20552,7 +19673,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   giratina: {
     num: 487,
@@ -20590,7 +19710,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Giratina",
       "Giratina-Origin"
     ],
-    tier: "Uber"
   },
   giratinaorigin: {
     num: 487,
@@ -20620,7 +19739,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Giratina",
-    tier: "Uber"
   },
   cresselia: {
     num: 488,
@@ -20649,7 +19767,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   phione: {
     num: 489,
@@ -20679,7 +19796,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Fairy"
     ],
-    tier: "ZU"
   },
   manaphy: {
     num: 490,
@@ -20709,7 +19825,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Fairy"
     ],
-    tier: "UU"
   },
   darkrai: {
     num: 491,
@@ -20745,7 +19860,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Darkrai",
       "Darkrai-Mega"
     ],
-    tier: "OU"
   },
   darkraimega: {
     num: 491,
@@ -20777,8 +19891,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   shaymin: {
     num: 492,
@@ -20815,7 +19927,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Shaymin",
       "Shaymin-Sky"
     ],
-    tier: "ZU"
   },
   shayminsky: {
     num: 492,
@@ -20845,7 +19956,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Shaymin",
-    tier: "Uber"
   },
   arceus: {
     num: 493,
@@ -20914,7 +20024,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Arceus-Dark",
       "Arceus-Fairy"
     ],
-    tier: "Uber"
   },
   arceusbug: {
     num: 493,
@@ -21489,8 +20598,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   snivy: {
     num: 495,
@@ -21523,7 +20630,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "NFE"
   },
   servine: {
     num: 496,
@@ -21558,7 +20664,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "NFE"
   },
   serperior: {
     num: 497,
@@ -21590,7 +20695,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "RUBL"
   },
   tepig: {
     num: 498,
@@ -21623,7 +20727,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   pignite: {
     num: 499,
@@ -21659,7 +20762,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   emboar: {
     num: 500,
@@ -21698,7 +20800,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Emboar",
       "Emboar-Mega"
     ],
-    tier: "ZUBL"
   },
   emboarmega: {
     num: 500,
@@ -21731,8 +20832,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   oshawott: {
     num: 501,
@@ -21765,7 +20864,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   dewott: {
     num: 502,
@@ -21801,7 +20899,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   samurott: {
     num: 503,
@@ -21840,7 +20937,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Samurott",
       "Samurott-Hisui"
     ],
-    tier: "ZU"
   },
   samurotthisui: {
     num: 503,
@@ -21874,7 +20970,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "OU"
   },
   patrat: {
     num: 504,
@@ -21903,8 +20998,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   watchog: {
     num: 505,
@@ -21931,8 +21024,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   lillipup: {
     num: 506,
@@ -21961,8 +21052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   herdier: {
     num: 507,
@@ -21992,8 +21081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   stoutland: {
     num: 508,
@@ -22020,8 +21107,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   purrloin: {
     num: 509,
@@ -22049,8 +21134,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   liepard: {
     num: 510,
@@ -22077,8 +21160,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pansage: {
     num: 511,
@@ -22110,8 +21191,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   simisage: {
     num: 512,
@@ -22143,8 +21222,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pansear: {
     num: 513,
@@ -22176,8 +21253,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   simisear: {
     num: 514,
@@ -22209,8 +21284,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   panpour: {
     num: 515,
@@ -22242,8 +21315,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   simipour: {
     num: 516,
@@ -22275,8 +21346,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   munna: {
     num: 517,
@@ -22304,8 +21373,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   musharna: {
     num: 518,
@@ -22333,8 +21400,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pidove: {
     num: 519,
@@ -22363,8 +21428,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tranquill: {
     num: 520,
@@ -22395,8 +21458,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   unfezant: {
     num: 521,
@@ -22424,8 +21485,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   blitzle: {
     num: 522,
@@ -22453,7 +21512,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   zebstrika: {
     num: 523,
@@ -22480,7 +21538,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   roggenrola: {
     num: 524,
@@ -22508,8 +21565,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   boldore: {
     num: 525,
@@ -22539,8 +21594,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gigalith: {
     num: 526,
@@ -22568,8 +21621,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   woobat: {
     num: 527,
@@ -22599,8 +21650,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   swoobat: {
     num: 528,
@@ -22629,8 +21678,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   drilbur: {
     num: 529,
@@ -22658,7 +21705,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   excadrill: {
     num: 530,
@@ -22693,7 +21739,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Excadrill",
       "Excadrill-Mega"
     ],
-    tier: "UU"
   },
   excadrillmega: {
     num: 530,
@@ -22722,8 +21767,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   audino: {
     num: 531,
@@ -22755,8 +21798,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Audino",
       "Audino-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   audinomega: {
     num: 531,
@@ -22784,8 +21825,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   timburr: {
     num: 532,
@@ -22817,7 +21856,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   gurdurr: {
     num: 533,
@@ -22851,7 +21889,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "NFE"
   },
   conkeldurr: {
     num: 534,
@@ -22882,7 +21919,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "UU"
   },
   tympole: {
     num: 535,
@@ -22911,8 +21947,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   palpitoad: {
     num: 536,
@@ -22944,8 +21978,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   seismitoad: {
     num: 537,
@@ -22974,8 +22006,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   throh: {
     num: 538,
@@ -23002,8 +22032,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sawk: {
     num: 539,
@@ -23030,8 +22058,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sewaddle: {
     num: 540,
@@ -23061,7 +22087,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   swadloon: {
     num: 541,
@@ -23092,7 +22117,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NFE"
   },
   leavanny: {
     num: 542,
@@ -23121,7 +22145,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   venipede: {
     num: 543,
@@ -23151,8 +22174,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   whirlipede: {
     num: 544,
@@ -23184,8 +22205,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   scolipede: {
     num: 545,
@@ -23221,8 +22240,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scolipede",
       "Scolipede-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   scolipedemega: {
     num: 545,
@@ -23252,8 +22269,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   cottonee: {
     num: 546,
@@ -23283,7 +22298,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "LC"
   },
   whimsicott: {
     num: 547,
@@ -23313,7 +22327,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    tier: "ZU"
   },
   petilil: {
     num: 548,
@@ -23344,7 +22357,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   lilligant: {
     num: 549,
@@ -23381,7 +22393,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lilligant",
       "Lilligant-Hisui"
     ],
-    tier: "ZU"
   },
   lilliganthisui: {
     num: 549,
@@ -23414,7 +22425,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "RUBL"
   },
   basculin: {
     num: 550,
@@ -23449,7 +22459,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Basculin-Blue-Striped",
       "Basculin-White-Striped"
     ],
-    tier: "ZU"
   },
   basculinbluestriped: {
     num: 550,
@@ -23535,7 +22544,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   krokorok: {
     num: 552,
@@ -23566,7 +22574,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   krookodile: {
     num: 553,
@@ -23594,7 +22601,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RU"
   },
   darumaka: {
     num: 554,
@@ -23630,8 +22636,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Darumaka",
       "Darumaka-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   darumakagalar: {
     num: 554,
@@ -23662,8 +22666,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   darmanitan: {
     num: 555,
@@ -23702,8 +22704,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Darmanitan-Galar",
       "Darmanitan-Galar-Zen"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   darmanitanzen: {
     num: 555,
@@ -23733,7 +22733,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Zen Mode",
     battleOnly: "Darmanitan",
-    isNonstandard: "Past"
   },
   darmanitangalar: {
     num: 555,
@@ -23763,8 +22762,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   darmanitangalarzen: {
     num: 555,
@@ -23794,7 +22791,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Zen Mode",
     battleOnly: "Darmanitan-Galar",
-    isNonstandard: "Past"
   },
   maractus: {
     num: 556,
@@ -23820,8 +22816,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dwebble: {
     num: 557,
@@ -23852,8 +22846,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   crustle: {
     num: 558,
@@ -23883,8 +22875,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   scraggy: {
     num: 559,
@@ -23915,7 +22905,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    tier: "NFE"
   },
   scrafty: {
     num: 560,
@@ -23952,7 +22941,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scrafty",
       "Scrafty-Mega"
     ],
-    tier: "NU"
   },
   scraftymega: {
     num: 560,
@@ -23983,8 +22971,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   sigilyph: {
     num: 561,
@@ -24010,8 +22996,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   yamask: {
     num: 562,
@@ -24047,8 +23031,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Yamask",
       "Yamask-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   yamaskgalar: {
     num: 562,
@@ -24080,8 +23062,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral",
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cofagrigus: {
     num: 563,
@@ -24109,8 +23089,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral",
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tirtouga: {
     num: 564,
@@ -24145,8 +23123,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   carracosta: {
     num: 565,
@@ -24180,8 +23156,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   archen: {
     num: 566,
@@ -24215,8 +23189,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   archeops: {
     num: 567,
@@ -24249,8 +23221,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   trubbish: {
     num: 568,
@@ -24279,8 +23249,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   garbodor: {
     num: 569,
@@ -24308,8 +23276,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     canGigantamax: "G-Max Malodor",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   garbodorgmax: {
     num: 569,
@@ -24337,8 +23303,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     changesFrom: "Garbodor",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zorua: {
     num: 570,
@@ -24377,7 +23341,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zorua",
       "Zorua-Hisui"
     ],
-    tier: "LC"
   },
   zoruahisui: {
     num: 570,
@@ -24412,7 +23375,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   zoroark: {
     num: 571,
@@ -24450,7 +23412,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zoroark",
       "Zoroark-Hisui"
     ],
-    tier: "PU"
   },
   zoroarkhisui: {
     num: 571,
@@ -24484,7 +23445,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RUBL"
   },
   minccino: {
     num: 572,
@@ -24516,7 +23476,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   cinccino: {
     num: 573,
@@ -24548,7 +23507,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   gothita: {
     num: 574,
@@ -24580,7 +23538,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   gothorita: {
     num: 575,
@@ -24614,7 +23571,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "NFE"
   },
   gothitelle: {
     num: 576,
@@ -24645,7 +23601,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "ZU"
   },
   solosis: {
     num: 577,
@@ -24673,7 +23628,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   duosion: {
     num: 578,
@@ -24703,7 +23657,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   reuniclus: {
     num: 579,
@@ -24730,7 +23683,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "RU"
   },
   ducklett: {
     num: 580,
@@ -24760,7 +23712,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "LC"
   },
   swanna: {
     num: 581,
@@ -24789,7 +23740,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "ZU"
   },
   vanillite: {
     num: 582,
@@ -24817,8 +23767,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   vanillish: {
     num: 583,
@@ -24848,8 +23796,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   vanilluxe: {
     num: 584,
@@ -24876,8 +23822,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   deerling: {
     num: 585,
@@ -24919,7 +23863,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Deerling-Autumn",
       "Deerling-Winter"
     ],
-    tier: "LC"
   },
   deerlingsummer: {
     isCosmeticForme: true,
@@ -24981,7 +23924,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sawsbuck-Autumn",
       "Sawsbuck-Winter"
     ],
-    tier: "ZU"
   },
   emolga: {
     num: 587,
@@ -25007,8 +23949,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   karrablast: {
     num: 588,
@@ -25037,8 +23977,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   escavalier: {
     num: 589,
@@ -25068,8 +24006,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   foongus: {
     num: 590,
@@ -25098,7 +24034,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   amoonguss: {
     num: 591,
@@ -25126,7 +24061,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "PU"
   },
   frillish: {
     num: 592,
@@ -25156,8 +24090,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   jellicent: {
     num: 593,
@@ -25186,8 +24118,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   alomomola: {
     num: 594,
@@ -25213,7 +24143,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    tier: "OU"
   },
   joltik: {
     num: 595,
@@ -25243,7 +24172,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   galvantula: {
     num: 596,
@@ -25272,7 +24200,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NU"
   },
   ferroseed: {
     num: 597,
@@ -25302,8 +24229,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   ferrothorn: {
     num: 598,
@@ -25332,8 +24257,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   klink: {
     num: 599,
@@ -25363,8 +24286,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   klang: {
     num: 600,
@@ -25396,8 +24317,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   klinklang: {
     num: 601,
@@ -25426,8 +24345,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tynamo: {
     num: 602,
@@ -25455,7 +24372,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   eelektrik: {
     num: 603,
@@ -25485,7 +24401,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   eelektross: {
     num: 604,
@@ -25520,7 +24435,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eelektross",
       "Eelektross-Mega"
     ],
-    tier: "ZU"
   },
   eelektrossmega: {
     num: 604,
@@ -25548,8 +24462,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   elgyem: {
     num: 605,
@@ -25577,8 +24489,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   beheeyem: {
     num: 606,
@@ -25605,8 +24515,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   litwick: {
     num: 607,
@@ -25636,7 +24544,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   lampent: {
     num: 608,
@@ -25668,7 +24575,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "NFE"
   },
   chandelure: {
     num: 609,
@@ -25705,7 +24611,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Chandelure",
       "Chandelure-Mega"
     ],
-    tier: "NU"
   },
   chandeluremega: {
     num: 609,
@@ -25735,8 +24640,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   axew: {
     num: 610,
@@ -25765,7 +24668,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "LC"
   },
   fraxure: {
     num: 611,
@@ -25796,7 +24698,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "NFE"
   },
   haxorus: {
     num: 612,
@@ -25824,7 +24725,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "RUBL"
   },
   cubchoo: {
     num: 613,
@@ -25852,7 +24752,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   beartic: {
     num: 614,
@@ -25879,7 +24778,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   cryogonal: {
     num: 615,
@@ -25905,7 +24803,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZU"
   },
   shelmet: {
     num: 616,
@@ -25933,8 +24830,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   accelgor: {
     num: 617,
@@ -25962,8 +24857,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   stunfisk: {
     num: 618,
@@ -25998,8 +24891,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Stunfisk",
       "Stunfisk-Galar"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   stunfiskgalar: {
     num: 618,
@@ -26028,8 +24919,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mienfoo: {
     num: 619,
@@ -26058,7 +24947,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "LC"
   },
   mienshao: {
     num: 620,
@@ -26086,7 +24974,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "NUBL"
   },
   druddigon: {
     num: 621,
@@ -26112,8 +24999,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   golett: {
     num: 622,
@@ -26143,7 +25028,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   golurk: {
     num: 623,
@@ -26179,7 +25063,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Golurk",
       "Golurk-Mega"
     ],
-    tier: "PU"
   },
   golurkmega: {
     num: 623,
@@ -26209,8 +25092,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   pawniard: {
     num: 624,
@@ -26240,7 +25121,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   bisharp: {
     num: 625,
@@ -26272,7 +25152,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "RU"
   },
   bouffalant: {
     num: 626,
@@ -26297,8 +25176,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rufflet: {
     num: 627,
@@ -26330,7 +25207,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   braviary: {
     num: 628,
@@ -26366,7 +25242,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Braviary",
       "Braviary-Hisui"
     ],
-    tier: "ZU"
   },
   braviaryhisui: {
     num: 628,
@@ -26397,7 +25272,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "PU"
   },
   vullaby: {
     num: 629,
@@ -26427,7 +25301,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   mandibuzz: {
     num: 630,
@@ -26456,7 +25329,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "UU"
   },
   heatmor: {
     num: 631,
@@ -26482,8 +25354,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   durant: {
     num: 632,
@@ -26510,8 +25380,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   deino: {
     num: 633,
@@ -26540,7 +25408,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "LC"
   },
   zweilous: {
     num: 634,
@@ -26571,7 +25438,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "NFE"
   },
   hydreigon: {
     num: 635,
@@ -26599,7 +25465,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "RUBL"
   },
   larvesta: {
     num: 636,
@@ -26629,7 +25494,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   volcarona: {
     num: 637,
@@ -26658,7 +25522,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Uber"
   },
   cobalion: {
     num: 638,
@@ -26688,7 +25551,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   terrakion: {
     num: 639,
@@ -26718,7 +25580,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   virizion: {
     num: 640,
@@ -26748,7 +25609,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   tornadus: {
     num: 641,
@@ -26785,7 +25645,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Tornadus",
       "Tornadus-Therian"
     ],
-    tier: "NU"
   },
   tornadustherian: {
     num: 641,
@@ -26814,7 +25673,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Tornadus",
-    tier: "OU"
   },
   thundurus: {
     num: 642,
@@ -26852,7 +25710,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Thundurus",
       "Thundurus-Therian"
     ],
-    tier: "RUBL"
   },
   thundurustherian: {
     num: 642,
@@ -26882,7 +25739,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Thundurus",
-    tier: "UU"
   },
   reshiram: {
     num: 643,
@@ -26912,7 +25768,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   zekrom: {
     num: 644,
@@ -26942,7 +25797,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   landorus: {
     num: 645,
@@ -26980,7 +25834,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Landorus",
       "Landorus-Therian"
     ],
-    tier: "Uber"
   },
   landorustherian: {
     num: 645,
@@ -27010,7 +25863,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Landorus",
-    tier: "OU"
   },
   kyurem: {
     num: 646,
@@ -27049,7 +25901,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Kyurem-White",
       "Kyurem-Black"
     ],
-    tier: "OU"
   },
   kyuremblack: {
     num: 646,
@@ -27079,7 +25930,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Kyurem",
-    tier: "Uber"
   },
   kyuremwhite: {
     num: 646,
@@ -27109,7 +25959,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Kyurem",
-    tier: "Uber"
   },
   keldeo: {
     num: 647,
@@ -27147,7 +25996,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Keldeo",
       "Keldeo-Resolute"
     ],
-    tier: "UU"
   },
   keldeoresolute: {
     num: 647,
@@ -27214,7 +26062,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Meloetta",
       "Meloetta-Pirouette"
     ],
-    tier: "NU"
   },
   meloettapirouette: {
     num: 648,
@@ -27286,8 +26133,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Genesect-Burn",
       "Genesect-Chill"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   genesectdouse: {
     num: 649,
@@ -27317,8 +26162,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Genesect",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   genesectshock: {
     num: 649,
@@ -27348,8 +26191,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Genesect",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   genesectburn: {
     num: 649,
@@ -27379,8 +26220,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Genesect",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   genesectchill: {
     num: 649,
@@ -27410,8 +26249,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Genesect",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   chespin: {
     num: 650,
@@ -27443,7 +26280,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   quilladin: {
     num: 651,
@@ -27477,7 +26313,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   chesnaught: {
     num: 652,
@@ -27516,7 +26351,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Chesnaught",
       "Chesnaught-Mega"
     ],
-    tier: "RU"
   },
   chesnaughtmega: {
     num: 652,
@@ -27549,8 +26383,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   fennekin: {
     num: 653,
@@ -27582,7 +26414,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   braixen: {
     num: 654,
@@ -27616,7 +26447,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   delphox: {
     num: 655,
@@ -27655,7 +26485,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Delphox",
       "Delphox-Mega"
     ],
-    tier: "PU"
   },
   delphoxmega: {
     num: 655,
@@ -27688,8 +26517,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   froakie: {
     num: 656,
@@ -27721,7 +26548,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "LC"
   },
   frogadier: {
     num: 657,
@@ -27755,7 +26581,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "NFE"
   },
   greninja: {
     num: 658,
@@ -27798,7 +26623,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Greninja-Ash",
       "Greninja-Mega"
     ],
-    tier: "UU"
   },
   greninjabond: {
     num: 658,
@@ -27859,8 +26683,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     requiredAbility: "Battle Bond",
     battleOnly: "Greninja-Bond",
     gen: 7,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   greninjamega: {
     num: 658,
@@ -27893,8 +26715,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   bunnelby: {
     num: 659,
@@ -27923,8 +26743,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   diggersby: {
     num: 660,
@@ -27953,8 +26771,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   fletchling: {
     num: 661,
@@ -27983,7 +26799,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   fletchinder: {
     num: 662,
@@ -28014,7 +26829,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   talonflame: {
     num: 663,
@@ -28042,7 +26856,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "RU"
   },
   scatterbug: {
     num: 664,
@@ -28071,7 +26884,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   spewpa: {
     num: 665,
@@ -28102,7 +26914,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NFE"
   },
   vivillon: {
     num: 666,
@@ -28177,7 +26988,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vivillon-Fancy",
       "Vivillon-Pokeball"
     ],
-    tier: "ZU"
   },
   vivillonicysnow: {
     isCosmeticForme: true,
@@ -28387,7 +27197,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   pyroar: {
     num: 668,
@@ -28426,7 +27235,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pyroar",
       "Pyroar-Mega"
     ],
-    tier: "ZU"
   },
   pyroarmega: {
     num: 668,
@@ -28459,8 +27267,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   flabebe: {
     num: 669,
@@ -28503,7 +27309,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flabébé-Blue",
       "Flabébé-White"
     ],
-    tier: "LC"
   },
   floette: {
     num: 670,
@@ -28554,7 +27359,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Floette-Eternal",
       "Floette-Mega"
     ],
-    tier: "NFE"
   },
   floetteeternal: {
     num: 670,
@@ -28582,8 +27386,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   floettemega: {
     num: 670,
@@ -28613,8 +27415,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Floette-Eternal",
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   florges: {
     num: 671,
@@ -28657,7 +27457,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Florges-Blue",
       "Florges-White"
     ],
-    tier: "PU"
   },
   skiddo: {
     num: 672,
@@ -28685,7 +27484,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   gogoat: {
     num: 673,
@@ -28712,7 +27510,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   pancham: {
     num: 674,
@@ -28741,8 +27538,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pangoro: {
     num: 675,
@@ -28772,8 +27567,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   furfrou: {
     num: 676,
@@ -28822,8 +27615,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Furfrou-Kabuki",
       "Furfrou-Pharaoh"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   espurr: {
     num: 677,
@@ -28853,7 +27644,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   meowstic: {
     num: 678,
@@ -28893,7 +27683,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Meowstic-M-Mega",
       "Meowstic-F-Mega"
     ],
-    tier: "ZU"
   },
   meowsticf: {
     num: 678,
@@ -28952,8 +27741,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Meowstic",
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   meowsticfmega: {
     num: 678,
@@ -28983,8 +27770,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Meowstic-F",
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   honedge: {
     num: 679,
@@ -29013,8 +27798,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   doublade: {
     num: 680,
@@ -29045,8 +27828,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aegislash: {
     num: 681,
@@ -29083,8 +27864,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Aegislash",
       "Aegislash-Blade"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aegislashblade: {
     num: 681,
@@ -29114,7 +27893,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Stance Change",
     battleOnly: "Aegislash",
-    isNonstandard: "Past"
   },
   spritzee: {
     num: 682,
@@ -29142,8 +27920,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aromatisse: {
     num: 683,
@@ -29171,8 +27947,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   swirlix: {
     num: 684,
@@ -29200,8 +27974,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   slurpuff: {
     num: 685,
@@ -29229,8 +28001,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   inkay: {
     num: 686,
@@ -29260,7 +28030,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    tier: "LC"
   },
   malamar: {
     num: 687,
@@ -29297,7 +28066,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Malamar",
       "Malamar-Mega"
     ],
-    tier: "ZU"
   },
   malamarmega: {
     num: 687,
@@ -29327,8 +28095,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   binacle: {
     num: 688,
@@ -29357,8 +28123,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   barbaracle: {
     num: 689,
@@ -29393,8 +28157,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Barbaracle",
       "Barbaracle-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   barbaraclemega: {
     num: 689,
@@ -29423,8 +28185,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   skrelp: {
     num: 690,
@@ -29454,7 +28214,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    tier: "LC"
   },
   dragalge: {
     num: 691,
@@ -29490,7 +28249,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragalge",
       "Dragalge-Mega"
     ],
-    tier: "PUBL"
   },
   dragalgemega: {
     num: 691,
@@ -29520,8 +28278,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   clauncher: {
     num: 692,
@@ -29550,7 +28306,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "LC"
   },
   clawitzer: {
     num: 693,
@@ -29578,7 +28333,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "ZU"
   },
   helioptile: {
     num: 694,
@@ -29608,8 +28362,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   heliolisk: {
     num: 695,
@@ -29639,8 +28391,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tyrunt: {
     num: 696,
@@ -29674,8 +28424,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tyrantrum: {
     num: 697,
@@ -29709,8 +28457,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   amaura: {
     num: 698,
@@ -29743,8 +28489,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   aurorus: {
     num: 699,
@@ -29777,8 +28521,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Monster"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sylveon: {
     num: 700,
@@ -29810,7 +28552,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   hawlucha: {
     num: 701,
@@ -29844,7 +28585,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Hawlucha",
       "Hawlucha-Mega"
     ],
-    tier: "RUBL"
   },
   hawluchamega: {
     num: 701,
@@ -29874,8 +28614,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   dedenne: {
     num: 702,
@@ -29903,7 +28641,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "ZU"
   },
   carbink: {
     num: 703,
@@ -29932,7 +28669,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Mineral"
     ],
-    tier: "ZU"
   },
   goomy: {
     num: 704,
@@ -29961,7 +28697,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "LC"
   },
   sliggoo: {
     num: 705,
@@ -29998,7 +28733,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sliggoo",
       "Sliggoo-Hisui"
     ],
-    tier: "NFE"
   },
   sliggoohisui: {
     num: 705,
@@ -30031,7 +28765,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "NFE"
   },
   goodra: {
     num: 706,
@@ -30066,7 +28799,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Goodra",
       "Goodra-Hisui"
     ],
-    tier: "PU"
   },
   goodrahisui: {
     num: 706,
@@ -30097,7 +28829,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "RU"
   },
   klefki: {
     num: 707,
@@ -30123,7 +28854,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NU"
   },
   phantump: {
     num: 708,
@@ -30153,7 +28883,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Amorphous"
     ],
-    tier: "LC"
   },
   trevenant: {
     num: 709,
@@ -30182,7 +28911,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Amorphous"
     ],
-    tier: "ZU"
   },
   pumpkaboo: {
     num: 710,
@@ -30224,8 +28952,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Pumpkaboo-Large",
       "Pumpkaboo-Super"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pumpkaboosmall: {
     num: 710,
@@ -30257,7 +28983,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   pumpkaboolarge: {
     num: 710,
@@ -30289,7 +29014,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   pumpkaboosuper: {
     num: 710,
@@ -30321,7 +29045,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   gourgeist: {
     num: 711,
@@ -30362,8 +29085,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gourgeist-Large",
       "Gourgeist-Super"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gourgeistsmall: {
     num: 711,
@@ -30394,7 +29115,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   gourgeistlarge: {
     num: 711,
@@ -30425,7 +29145,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   gourgeistsuper: {
     num: 711,
@@ -30456,7 +29175,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    isNonstandard: "Past"
   },
   bergmite: {
     num: 712,
@@ -30487,7 +29205,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Mineral"
     ],
-    tier: "LC"
   },
   avalugg: {
     num: 713,
@@ -30523,7 +29240,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Avalugg",
       "Avalugg-Hisui"
     ],
-    tier: "NU"
   },
   avalugghisui: {
     num: 713,
@@ -30554,7 +29270,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Mineral"
     ],
-    tier: "PU"
   },
   noibat: {
     num: 714,
@@ -30584,7 +29299,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Dragon"
     ],
-    tier: "LC"
   },
   noivern: {
     num: 715,
@@ -30613,7 +29327,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Dragon"
     ],
-    tier: "RU"
   },
   xerneas: {
     num: 716,
@@ -30650,8 +29363,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Xerneas-Neutral",
       "Xerneas"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   xerneasneutral: {
     num: 716,
@@ -30679,8 +29390,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Custom"
   },
   yveltal: {
     num: 717,
@@ -30710,8 +29419,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zygarde: {
     num: 718,
@@ -30755,8 +29462,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde-Complete",
       "Zygarde-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zygarde10: {
     num: 718,
@@ -30787,8 +29492,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Zygarde",
     gen: 7,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zygardecomplete: {
     num: 718,
@@ -30823,8 +29526,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde-10%"
     ],
     gen: 7,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zygardemega: {
     num: 718,
@@ -30858,8 +29559,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde-10%"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   diancie: {
     num: 719,
@@ -30896,7 +29595,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Diancie",
       "Diancie-Mega"
     ],
-    tier: "RU"
   },
   dianciemega: {
     num: 719,
@@ -30925,8 +29623,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   hoopa: {
     num: 720,
@@ -30964,7 +29660,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Hoopa",
       "Hoopa-Unbound"
     ],
-    tier: "PU"
   },
   hoopaunbound: {
     num: 720,
@@ -30994,7 +29689,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Hoopa",
-    tier: "UUBL"
   },
   volcanion: {
     num: 721,
@@ -31024,7 +29718,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RUBL"
   },
   rowlet: {
     num: 722,
@@ -31057,7 +29750,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   dartrix: {
     num: 723,
@@ -31093,7 +29785,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   decidueye: {
     num: 724,
@@ -31132,7 +29823,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Decidueye",
       "Decidueye-Hisui"
     ],
-    tier: "NU"
   },
   decidueyehisui: {
     num: 724,
@@ -31166,7 +29856,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "PU"
   },
   litten: {
     num: 725,
@@ -31199,7 +29888,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   torracat: {
     num: 726,
@@ -31234,7 +29922,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   incineroar: {
     num: 727,
@@ -31267,7 +29954,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   popplio: {
     num: 728,
@@ -31300,7 +29986,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   brionne: {
     num: 729,
@@ -31335,7 +30020,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "NFE"
   },
   primarina: {
     num: 730,
@@ -31368,7 +30052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "OU"
   },
   pikipek: {
     num: 731,
@@ -31398,7 +30081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   trumbeak: {
     num: 732,
@@ -31430,7 +30112,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   toucannon: {
     num: 733,
@@ -31458,7 +30139,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "ZU"
   },
   yungoos: {
     num: 734,
@@ -31486,7 +30166,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   gumshoos: {
     num: 735,
@@ -31521,7 +30200,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gumshoos",
       "Gumshoos-Totem"
     ],
-    tier: "ZU"
   },
   gumshoostotem: {
     num: 735,
@@ -31548,8 +30226,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   grubbin: {
     num: 736,
@@ -31577,7 +30253,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   charjabug: {
     num: 737,
@@ -31608,7 +30283,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "NFE"
   },
   vikavolt: {
     num: 738,
@@ -31644,7 +30318,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vikavolt",
       "Vikavolt-Totem"
     ],
-    tier: "ZU"
   },
   vikavolttotem: {
     num: 738,
@@ -31672,8 +30345,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   crabrawler: {
     num: 739,
@@ -31701,7 +30372,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "LC"
   },
   crabominable: {
     num: 740,
@@ -31737,7 +30407,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Crabominable",
       "Crabominable-Mega"
     ],
-    tier: "ZU"
   },
   crabominablemega: {
     num: 740,
@@ -31766,8 +30435,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   oricorio: {
     num: 741,
@@ -31809,7 +30476,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Oricorio-Pa'u",
       "Oricorio-Sensu"
     ],
-    tier: "ZU"
   },
   oricoriopompom: {
     num: 741,
@@ -31842,7 +30508,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     changesFrom: "Oricorio",
-    tier: "RUBL"
   },
   oricoriopau: {
     num: 741,
@@ -31875,7 +30540,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     changesFrom: "Oricorio",
-    tier: "ZU"
   },
   oricoriosensu: {
     num: 741,
@@ -31908,7 +30572,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     changesFrom: "Oricorio",
-    tier: "NUBL"
   },
   cutiefly: {
     num: 742,
@@ -31938,7 +30601,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Fairy"
     ],
-    tier: "NFE"
   },
   ribombee: {
     num: 743,
@@ -31974,7 +30636,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ribombee",
       "Ribombee-Totem"
     ],
-    tier: "NU"
   },
   ribombeetotem: {
     num: 743,
@@ -32003,8 +30664,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rockruff: {
     num: 744,
@@ -32042,7 +30701,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rockruff",
       "Rockruff-Dusk"
     ],
-    tier: "LC"
   },
   rockruffdusk: {
     num: 744,
@@ -32072,7 +30730,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   lycanroc: {
     num: 745,
@@ -32110,7 +30767,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lycanroc-Midnight",
       "Lycanroc-Dusk"
     ],
-    tier: "ZU"
   },
   lycanrocmidnight: {
     num: 745,
@@ -32141,7 +30797,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   lycanrocdusk: {
     num: 745,
@@ -32171,7 +30826,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RU"
   },
   wishiwashi: {
     num: 746,
@@ -32204,8 +30858,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Wishiwashi",
       "Wishiwashi-School"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wishiwashischool: {
     num: 746,
@@ -32234,7 +30886,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Schooling",
     battleOnly: "Wishiwashi",
-    isNonstandard: "Past"
   },
   mareanie: {
     num: 747,
@@ -32263,7 +30914,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "LC"
   },
   toxapex: {
     num: 748,
@@ -32291,7 +30941,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "UU"
   },
   mudbray: {
     num: 749,
@@ -32320,7 +30969,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   mudsdale: {
     num: 750,
@@ -32348,7 +30996,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   dewpider: {
     num: 751,
@@ -32378,7 +31025,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Bug"
     ],
-    tier: "LC"
   },
   araquanid: {
     num: 752,
@@ -32414,7 +31060,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Araquanid",
       "Araquanid-Totem"
     ],
-    tier: "NU"
   },
   araquanidtotem: {
     num: 752,
@@ -32443,8 +31088,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   fomantis: {
     num: 753,
@@ -32472,7 +31115,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   lurantis: {
     num: 754,
@@ -32507,7 +31149,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lurantis",
       "Lurantis-Totem"
     ],
-    tier: "ZU"
   },
   lurantistotem: {
     num: 754,
@@ -32534,8 +31175,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   morelull: {
     num: 755,
@@ -32565,8 +31204,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   shiinotic: {
     num: 756,
@@ -32595,8 +31232,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   salandit: {
     num: 757,
@@ -32630,7 +31265,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "LC"
   },
   salazzle: {
     num: 758,
@@ -32667,7 +31301,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Salazzle",
       "Salazzle-Totem"
     ],
-    tier: "PU"
   },
   salazzletotem: {
     num: 758,
@@ -32697,8 +31330,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   stufful: {
     num: 759,
@@ -32727,8 +31358,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bewear: {
     num: 760,
@@ -32756,8 +31385,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bounsweet: {
     num: 761,
@@ -32786,7 +31413,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   steenee: {
     num: 762,
@@ -32817,7 +31443,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NFE"
   },
   tsareena: {
     num: 763,
@@ -32846,7 +31471,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NU"
   },
   comfey: {
     num: 764,
@@ -32875,7 +31499,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "RUBL"
   },
   oranguru: {
     num: 765,
@@ -32901,7 +31524,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   passimian: {
     num: 766,
@@ -32926,7 +31548,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   wimpod: {
     num: 767,
@@ -32956,8 +31577,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   golisopod: {
     num: 768,
@@ -32993,8 +31612,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Golisopod",
       "Golisopod-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   golisopodmega: {
     num: 768,
@@ -33024,8 +31641,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 3"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   sandygast: {
     num: 769,
@@ -33054,7 +31669,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "LC"
   },
   palossand: {
     num: 770,
@@ -33082,7 +31696,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "PU"
   },
   pyukumuku: {
     num: 771,
@@ -33107,8 +31720,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   typenull: {
     num: 772,
@@ -33140,8 +31751,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvally: {
     num: 773,
@@ -33212,8 +31821,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Silvally-Dark",
       "Silvally-Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallybug: {
     num: 773,
@@ -33242,8 +31849,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallydark: {
     num: 773,
@@ -33272,8 +31877,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallydragon: {
     num: 773,
@@ -33302,8 +31905,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyelectric: {
     num: 773,
@@ -33332,8 +31933,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyfairy: {
     num: 773,
@@ -33362,8 +31961,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyfighting: {
     num: 773,
@@ -33392,8 +31989,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyfire: {
     num: 773,
@@ -33422,8 +32017,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyflying: {
     num: 773,
@@ -33452,8 +32045,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyghost: {
     num: 773,
@@ -33482,8 +32073,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallygrass: {
     num: 773,
@@ -33512,8 +32101,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyground: {
     num: 773,
@@ -33542,8 +32129,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyice: {
     num: 773,
@@ -33572,8 +32157,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallypoison: {
     num: 773,
@@ -33602,8 +32185,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallypsychic: {
     num: 773,
@@ -33632,8 +32213,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallyrock: {
     num: 773,
@@ -33662,8 +32241,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallysteel: {
     num: 773,
@@ -33692,8 +32269,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silvallywater: {
     num: 773,
@@ -33722,8 +32297,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Silvally",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   minior: {
     num: 774,
@@ -33778,7 +32351,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Minior-Indigo",
       "Minior-Violet"
     ],
-    tier: "ZU"
   },
   miniororange: {
     isCosmeticForme: true,
@@ -33875,7 +32447,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   turtonator: {
     num: 776,
@@ -33902,8 +32473,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   togedemaru: {
     num: 777,
@@ -33938,8 +32507,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Togedemaru",
       "Togedemaru-Totem"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   togedemarutotem: {
     num: 777,
@@ -33968,8 +32535,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mimikyu: {
     num: 778,
@@ -34007,7 +32572,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mimikyu-Totem",
       "Mimikyu-Busted-Totem"
     ],
-    tier: "RU"
   },
   mimikyubusted: {
     num: 778,
@@ -34064,8 +32628,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mimikyubustedtotem: {
     num: 778,
@@ -34095,8 +32657,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Disguise",
     battleOnly: "Mimikyu-Totem",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   bruxish: {
     num: 779,
@@ -34122,7 +32682,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "PU"
   },
   drampa: {
     num: 780,
@@ -34156,8 +32715,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Drampa",
       "Drampa-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   drampamega: {
     num: 780,
@@ -34187,8 +32744,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   dhelmise: {
     num: 781,
@@ -34215,8 +32770,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   jangmoo: {
     num: 782,
@@ -34244,7 +32797,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "LC"
   },
   hakamoo: {
     num: 783,
@@ -34275,7 +32827,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "NFE"
   },
   kommoo: {
     num: 784,
@@ -34310,7 +32861,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Kommo-o",
       "Kommo-o-Totem"
     ],
-    tier: "UUBL"
   },
   kommoototem: {
     num: 784,
@@ -34338,8 +32888,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Dragon"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tapukoko: {
     num: 785,
@@ -34369,8 +32917,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tapulele: {
     num: 786,
@@ -34400,8 +32946,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tapubulu: {
     num: 787,
@@ -34431,8 +32975,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   tapufini: {
     num: 788,
@@ -34462,8 +33004,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cosmog: {
     num: 789,
@@ -34495,7 +33035,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "LC"
   },
   cosmoem: {
     num: 790,
@@ -34530,7 +33069,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NFE"
   },
   solgaleo: {
     num: 791,
@@ -34562,7 +33100,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   lunala: {
     num: 792,
@@ -34594,7 +33131,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   nihilego: {
     num: 793,
@@ -34624,8 +33160,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   buzzwole: {
     num: 794,
@@ -34655,8 +33189,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   pheromosa: {
     num: 795,
@@ -34686,8 +33218,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   xurkitree: {
     num: 796,
@@ -34716,8 +33246,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   celesteela: {
     num: 797,
@@ -34747,8 +33275,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kartana: {
     num: 798,
@@ -34778,8 +33304,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   guzzlord: {
     num: 799,
@@ -34809,8 +33333,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   necrozma: {
     num: 800,
@@ -34850,7 +33372,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Necrozma-Dawn-Wings",
       "Necrozma-Ultra"
     ],
-    tier: "NUBL"
   },
   necrozmaduskmane: {
     num: 800,
@@ -34880,7 +33401,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Necrozma",
-    tier: "Uber"
   },
   necrozmadawnwings: {
     num: 800,
@@ -34910,7 +33430,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Necrozma",
-    tier: "Uber"
   },
   necrozmaultra: {
     num: 800,
@@ -34943,8 +33462,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Necrozma-Dawn-Wings",
       "Necrozma-Dusk-Mane"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   magearna: {
     num: 801,
@@ -34985,7 +33502,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Magearna-Mega",
       "Magearna-Original-Mega"
     ],
-    tier: "Uber"
   },
   magearnaoriginal: {
     num: 801,
@@ -35043,8 +33559,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   magearnaoriginalmega: {
     num: 801,
@@ -35075,8 +33589,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Magearna-Original",
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   marshadow: {
     num: 802,
@@ -35106,8 +33618,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   poipole: {
     num: 803,
@@ -35139,8 +33649,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   naganadel: {
     num: 804,
@@ -35173,8 +33681,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   stakataka: {
     num: 805,
@@ -35204,8 +33710,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   blacephalon: {
     num: 806,
@@ -35235,8 +33739,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zeraora: {
     num: 807,
@@ -35272,8 +33774,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zeraora",
       "Zeraora-Mega"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zeraoramega: {
     num: 807,
@@ -35305,8 +33805,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   meltan: {
     num: 808,
@@ -35335,8 +33833,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   melmetal: {
     num: 809,
@@ -35366,8 +33862,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canGigantamax: "G-Max Meltdown",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   melmetalgmax: {
     num: 809,
@@ -35396,8 +33890,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Melmetal",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   grookey: {
     num: 810,
@@ -35430,7 +33922,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "LC"
   },
   thwackey: {
     num: 811,
@@ -35465,7 +33956,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "NFE"
   },
   rillaboom: {
     num: 812,
@@ -35498,7 +33988,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     canGigantamax: "G-Max Drum Solo",
-    tier: "OU"
   },
   rillaboomgmax: {
     num: 812,
@@ -35531,8 +34020,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     changesFrom: "Rillaboom",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   scorbunny: {
     num: 813,
@@ -35565,7 +34052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "LC"
   },
   raboot: {
     num: 814,
@@ -35600,7 +34086,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    tier: "NFE"
   },
   cinderace: {
     num: 815,
@@ -35633,7 +34118,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     canGigantamax: "G-Max Fireball",
-    tier: "OU"
   },
   cinderacegmax: {
     num: 815,
@@ -35666,8 +34150,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     changesFrom: "Cinderace",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sobble: {
     num: 816,
@@ -35700,7 +34182,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "LC"
   },
   drizzile: {
     num: 817,
@@ -35735,7 +34216,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "NFE"
   },
   inteleon: {
     num: 818,
@@ -35768,7 +34248,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     canGigantamax: "G-Max Hydrosnipe",
-    tier: "PUBL"
   },
   inteleongmax: {
     num: 818,
@@ -35801,8 +34280,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     changesFrom: "Inteleon",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   skwovet: {
     num: 819,
@@ -35830,7 +34307,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   greedent: {
     num: 820,
@@ -35857,7 +34333,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   rookidee: {
     num: 821,
@@ -35885,7 +34360,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "LC"
   },
   corvisquire: {
     num: 822,
@@ -35915,7 +34389,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   corviknight: {
     num: 823,
@@ -35944,7 +34417,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     canGigantamax: "G-Max Wind Rage",
-    tier: "OU"
   },
   corviknightgmax: {
     num: 823,
@@ -35973,8 +34445,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     changesFrom: "Corviknight",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   blipbug: {
     num: 824,
@@ -36003,8 +34473,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dottler: {
     num: 825,
@@ -36036,8 +34504,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   orbeetle: {
     num: 826,
@@ -36066,8 +34532,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     canGigantamax: "G-Max Gravitas",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   orbeetlegmax: {
     num: 826,
@@ -36096,8 +34560,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     changesFrom: "Orbeetle",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   nickit: {
     num: 827,
@@ -36125,8 +34587,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   thievul: {
     num: 828,
@@ -36153,8 +34613,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   gossifleur: {
     num: 829,
@@ -36182,8 +34640,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   eldegoss: {
     num: 830,
@@ -36210,8 +34666,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   wooloo: {
     num: 831,
@@ -36239,8 +34693,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dubwool: {
     num: 832,
@@ -36267,8 +34719,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   chewtle: {
     num: 833,
@@ -36298,7 +34748,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    tier: "LC"
   },
   drednaw: {
     num: 834,
@@ -36329,7 +34778,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     canGigantamax: "G-Max Stonesurge",
-    tier: "PUBL"
   },
   drednawgmax: {
     num: 834,
@@ -36360,8 +34808,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     changesFrom: "Drednaw",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   yamper: {
     num: 835,
@@ -36389,8 +34835,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   boltund: {
     num: 836,
@@ -36417,8 +34861,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   rolycoly: {
     num: 837,
@@ -36446,7 +34888,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   carkol: {
     num: 838,
@@ -36478,7 +34919,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   coalossal: {
     num: 839,
@@ -36508,7 +34948,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     canGigantamax: "G-Max Volcalith",
-    tier: "PU"
   },
   coalossalgmax: {
     num: 839,
@@ -36538,8 +34977,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     changesFrom: "Coalossal",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   applin: {
     num: 840,
@@ -36571,7 +35008,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Dragon"
     ],
-    tier: "LC"
   },
   flapple: {
     num: 841,
@@ -36602,7 +35038,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     canGigantamax: "G-Max Tartness",
-    tier: "ZU"
   },
   flapplegmax: {
     num: 841,
@@ -36632,8 +35067,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     changesFrom: "Flapple",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   appletun: {
     num: 842,
@@ -36664,7 +35097,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     canGigantamax: "G-Max Sweetness",
-    tier: "ZU"
   },
   appletungmax: {
     num: 842,
@@ -36694,8 +35126,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     changesFrom: "Appletun",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   silicobra: {
     num: 843,
@@ -36725,7 +35155,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    tier: "LC"
   },
   sandaconda: {
     num: 844,
@@ -36755,7 +35184,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     canGigantamax: "G-Max Sandblast",
-    tier: "ZU"
   },
   sandacondagmax: {
     num: 844,
@@ -36785,8 +35213,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     changesFrom: "Sandaconda",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   cramorant: {
     num: 845,
@@ -36822,7 +35248,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Cramorant-Gulping",
       "Cramorant-Gorging"
     ],
-    tier: "PU"
   },
   cramorantgulping: {
     num: 845,
@@ -36910,7 +35335,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "LC"
   },
   barraskewda: {
     num: 847,
@@ -36937,7 +35361,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "NU"
   },
   toxel: {
     num: 848,
@@ -36968,7 +35391,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canHatch: true,
-    tier: "LC"
   },
   toxtricity: {
     num: 849,
@@ -37005,7 +35427,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Toxtricity-Low-Key"
     ],
     canGigantamax: "G-Max Stun Shock",
-    tier: "NU"
   },
   toxtricitylowkey: {
     num: 849,
@@ -37064,8 +35485,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     changesFrom: "Toxtricity",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   toxtricitylowkeygmax: {
     num: 849,
@@ -37095,8 +35514,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Toxtricity-Low-Key",
     changesFrom: "Toxtricity-Low-Key",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sizzlipede: {
     num: 850,
@@ -37126,8 +35543,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   centiskorch: {
     num: 851,
@@ -37157,8 +35572,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     canGigantamax: "G-Max Centiferno",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   centiskorchgmax: {
     num: 851,
@@ -37188,8 +35601,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug"
     ],
     changesFrom: "Centiskorch",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   clobbopus: {
     num: 852,
@@ -37218,8 +35629,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   grapploct: {
     num: 853,
@@ -37248,8 +35657,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sinistea: {
     num: 854,
@@ -37287,7 +35694,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sinistea",
       "Sinistea-Antique"
     ],
-    tier: "LC"
   },
   sinisteaantique: {
     num: 854,
@@ -37355,7 +35761,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Polteageist",
       "Polteageist-Antique"
     ],
-    tier: "UUBL"
   },
   polteageistantique: {
     num: 855,
@@ -37414,7 +35819,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "LC"
   },
   hattrem: {
     num: 857,
@@ -37445,7 +35849,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "NFE"
   },
   hatterene: {
     num: 858,
@@ -37475,7 +35878,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     canGigantamax: "G-Max Smite",
-    tier: "OU"
   },
   hatterenegmax: {
     num: 858,
@@ -37505,8 +35907,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     changesFrom: "Hatterene",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   impidimp: {
     num: 859,
@@ -37537,7 +35937,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Human-Like"
     ],
-    tier: "LC"
   },
   morgrem: {
     num: 860,
@@ -37570,7 +35969,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Human-Like"
     ],
-    tier: "NFE"
   },
   grimmsnarl: {
     num: 861,
@@ -37601,7 +35999,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     canGigantamax: "G-Max Snooze",
-    tier: "PU"
   },
   grimmsnarlgmax: {
     num: 861,
@@ -37632,8 +36029,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     changesFrom: "Grimmsnarl",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   obstagoon: {
     num: 862,
@@ -37662,8 +36057,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   perrserker: {
     num: 863,
@@ -37690,7 +36083,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   cursola: {
     num: 864,
@@ -37722,8 +36114,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   sirfetchd: {
     num: 865,
@@ -37752,8 +36142,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Field"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   mrrime: {
     num: 866,
@@ -37781,8 +36169,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   runerigus: {
     num: 867,
@@ -37812,8 +36198,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral",
       "Amorphous"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   milcery: {
     num: 868,
@@ -37843,7 +36227,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Amorphous"
     ],
-    tier: "LC"
   },
   alcremie: {
     num: 869,
@@ -37896,7 +36279,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Alcremie-Rainbow-Swirl"
     ],
     canGigantamax: "G-Max Finale",
-    tier: "ZUBL"
   },
   alcremierubycream: {
     isCosmeticForme: true,
@@ -37975,8 +36357,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     changesFrom: "Alcremie",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   falinks: {
     num: 870,
@@ -38010,7 +36390,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Falinks",
       "Falinks-Mega"
     ],
-    tier: "ZU"
   },
   falinksmega: {
     num: 870,
@@ -38040,8 +36419,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     gen: 9,
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   pincurchin: {
     num: 871,
@@ -38067,7 +36444,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Amorphous"
     ],
-    tier: "ZU"
   },
   snom: {
     num: 872,
@@ -38096,7 +36472,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   frosmoth: {
     num: 873,
@@ -38125,7 +36500,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "PUBL"
   },
   stonjourner: {
     num: 874,
@@ -38150,7 +36524,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "ZU"
   },
   eiscue: {
     num: 875,
@@ -38184,7 +36557,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eiscue",
       "Eiscue-Noice"
     ],
-    tier: "ZU"
   },
   eiscuenoice: {
     num: 875,
@@ -38250,7 +36622,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Indeedee-F"
     ],
     mother: "indeedeef",
-    tier: "PUBL"
   },
   indeedeef: {
     num: 876,
@@ -38280,7 +36651,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "ZU"
   },
   morpeko: {
     num: 877,
@@ -38315,7 +36685,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Morpeko",
       "Morpeko-Hangry"
     ],
-    tier: "ZU"
   },
   morpekohangry: {
     num: 877,
@@ -38374,7 +36743,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Mineral"
     ],
-    tier: "LC"
   },
   copperajah: {
     num: 879,
@@ -38403,7 +36771,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     canGigantamax: "G-Max Steelsurge",
-    tier: "NU"
   },
   copperajahgmax: {
     num: 879,
@@ -38432,8 +36799,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     changesFrom: "Copperajah",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dracozolt: {
     num: 880,
@@ -38461,8 +36826,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   arctozolt: {
     num: 881,
@@ -38490,8 +36853,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dracovish: {
     num: 882,
@@ -38518,8 +36879,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   arctovish: {
     num: 883,
@@ -38546,8 +36905,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   duraludon: {
     num: 884,
@@ -38578,7 +36935,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     canGigantamax: "G-Max Depletion",
-    tier: "NU"
   },
   duraludongmax: {
     num: 884,
@@ -38608,8 +36964,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     changesFrom: "Duraludon",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   dreepy: {
     num: 885,
@@ -38639,7 +36993,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous",
       "Dragon"
     ],
-    tier: "LC"
   },
   drakloak: {
     num: 886,
@@ -38671,7 +37024,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous",
       "Dragon"
     ],
-    tier: "NFE"
   },
   dragapult: {
     num: 887,
@@ -38700,7 +37052,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous",
       "Dragon"
     ],
-    tier: "OU"
   },
   zacian: {
     num: 888,
@@ -38738,7 +37089,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zacian-Crowned"
     ],
     cannotDynamax: true,
-    tier: "Uber"
   },
   zaciancrowned: {
     num: 888,
@@ -38769,7 +37119,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Zacian",
     cannotDynamax: true,
-    tier: "Uber"
   },
   zamazenta: {
     num: 889,
@@ -38807,7 +37156,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zamazenta-Crowned"
     ],
     cannotDynamax: true,
-    tier: "OU"
   },
   zamazentacrowned: {
     num: 889,
@@ -38838,7 +37186,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Zamazenta",
     cannotDynamax: true,
-    tier: "Uber"
   },
   eternatus: {
     num: 890,
@@ -38876,7 +37223,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eternatus-Eternamax"
     ],
     cannotDynamax: true,
-    tier: "Uber"
   },
   eternatuseternamax: {
     num: 890,
@@ -38906,8 +37252,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     cannotDynamax: true,
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   kubfu: {
     num: 891,
@@ -38943,7 +37287,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NFE"
   },
   urshifu: {
     num: 892,
@@ -38988,7 +37331,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Urshifu-Rapid-Strike"
     ],
     canGigantamax: "G-Max One Blow",
-    tier: "Uber"
   },
   urshifurapidstrike: {
     num: 892,
@@ -39024,7 +37366,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     canGigantamax: "G-Max Rapid Flow",
-    tier: "Uber"
   },
   urshifugmax: {
     num: 892,
@@ -39057,8 +37398,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Urshifu",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   urshifurapidstrikegmax: {
     num: 892,
@@ -39092,8 +37431,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Urshifu-Rapid-Strike",
     changesFrom: "Urshifu-Rapid-Strike",
-    tier: "Illegal",
-    isNonstandard: "Past"
   },
   zarude: {
     num: 893,
@@ -39130,7 +37467,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zarude",
       "Zarude-Dada"
     ],
-    tier: "UUBL"
   },
   zarudedada: {
     num: 893,
@@ -39187,7 +37523,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   regidrago: {
     num: 895,
@@ -39216,7 +37551,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   glastrier: {
     num: 896,
@@ -39245,7 +37579,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "ZU"
   },
   spectrier: {
     num: 897,
@@ -39274,7 +37607,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   calyrex: {
     num: 898,
@@ -39313,7 +37645,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Calyrex-Ice",
       "Calyrex-Shadow"
     ],
-    tier: "ZU"
   },
   calyrexice: {
     num: 898,
@@ -39343,7 +37674,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Calyrex",
-    tier: "Uber"
   },
   calyrexshadow: {
     num: 898,
@@ -39373,7 +37703,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Calyrex",
-    tier: "AG"
   },
   wyrdeer: {
     num: 899,
@@ -39402,7 +37731,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   kleavor: {
     num: 900,
@@ -39431,7 +37759,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "RU"
   },
   ursaluna: {
     num: 901,
@@ -39467,7 +37794,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ursaluna",
       "Ursaluna-Bloodmoon"
     ],
-    tier: "UUBL"
   },
   ursalunabloodmoon: {
     num: 901,
@@ -39497,7 +37823,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     gen: 9,
-    tier: "Uber"
   },
   basculegion: {
     num: 902,
@@ -39535,7 +37860,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Basculegion",
       "Basculegion-F"
     ],
-    tier: "NU"
   },
   basculegionf: {
     num: 902,
@@ -39567,7 +37891,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "RU"
   },
   sneasler: {
     num: 903,
@@ -39597,7 +37920,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Uber"
   },
   overqwil: {
     num: 904,
@@ -39627,7 +37949,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "NU"
   },
   enamorus: {
     num: 905,
@@ -39665,7 +37986,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Enamorus",
       "Enamorus-Therian"
     ],
-    tier: "OU"
   },
   enamorustherian: {
     num: 905,
@@ -39695,7 +38015,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Enamorus",
-    tier: "RUBL"
   },
   sprigatito: {
     num: 906,
@@ -39728,7 +38047,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "LC"
   },
   floragato: {
     num: 907,
@@ -39763,7 +38081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "NFE"
   },
   meowscarada: {
     num: 908,
@@ -39796,7 +38113,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Grass"
     ],
-    tier: "UUBL"
   },
   fuecoco: {
     num: 909,
@@ -39828,7 +38144,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   crocalor: {
     num: 910,
@@ -39862,7 +38177,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   skeledirge: {
     num: 911,
@@ -39894,7 +38208,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "UU"
   },
   quaxly: {
     num: 912,
@@ -39927,7 +38240,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 1"
     ],
-    tier: "LC"
   },
   quaxwell: {
     num: 913,
@@ -39962,7 +38274,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 1"
     ],
-    tier: "NFE"
   },
   quaquaval: {
     num: 914,
@@ -39995,7 +38306,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 1"
     ],
-    tier: "UUBL"
   },
   lechonk: {
     num: 915,
@@ -40024,7 +38334,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   oinkologne: {
     num: 916,
@@ -40060,7 +38369,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   oinkolognef: {
     num: 916,
@@ -40090,7 +38398,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   tarountula: {
     num: 917,
@@ -40118,7 +38425,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   spidops: {
     num: 918,
@@ -40145,7 +38451,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   nymble: {
     num: 919,
@@ -40173,7 +38478,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   lokix: {
     num: 920,
@@ -40201,7 +38505,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "UU"
   },
   pawmi: {
     num: 921,
@@ -40230,7 +38533,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   pawmo: {
     num: 922,
@@ -40262,7 +38564,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NFE"
   },
   pawmot: {
     num: 923,
@@ -40292,7 +38593,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   tandemaus: {
     num: 924,
@@ -40324,7 +38624,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "LC"
   },
   maushold: {
     num: 925,
@@ -40361,7 +38660,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    tier: "RU"
   },
   mausholdfour: {
     num: 925,
@@ -40420,7 +38718,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Mineral"
     ],
-    tier: "LC"
   },
   dachsbun: {
     num: 927,
@@ -40448,7 +38745,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Mineral"
     ],
-    tier: "ZU"
   },
   smoliv: {
     num: 928,
@@ -40477,7 +38773,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   dolliv: {
     num: 929,
@@ -40508,7 +38803,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NFE"
   },
   arboliva: {
     num: 930,
@@ -40536,7 +38830,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "ZU"
   },
   squawkabilly: {
     num: 931,
@@ -40575,7 +38868,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "ZU"
   },
   squawkabillyblue: {
     num: 931,
@@ -40688,7 +38980,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   naclstack: {
     num: 933,
@@ -40719,7 +39010,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "NFE"
   },
   garganacl: {
     num: 934,
@@ -40747,7 +39037,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "OU"
   },
   charcadet: {
     num: 935,
@@ -40777,7 +39066,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "LC"
   },
   armarouge: {
     num: 936,
@@ -40806,7 +39094,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "RU"
   },
   ceruledge: {
     num: 937,
@@ -40835,7 +39122,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "OU"
   },
   tadbulb: {
     num: 938,
@@ -40864,7 +39150,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "LC"
   },
   bellibolt: {
     num: 939,
@@ -40893,7 +39178,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    tier: "NU"
   },
   wattrel: {
     num: 940,
@@ -40923,7 +39207,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "LC"
   },
   kilowattrel: {
     num: 941,
@@ -40952,7 +39235,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    tier: "NU"
   },
   maschiff: {
     num: 942,
@@ -40981,7 +39263,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   mabosstiff: {
     num: 943,
@@ -41008,7 +39289,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   shroodle: {
     num: 944,
@@ -41037,7 +39317,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   grafaiai: {
     num: 945,
@@ -41065,7 +39344,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   bramblin: {
     num: 946,
@@ -41094,7 +39372,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   brambleghast: {
     num: 947,
@@ -41123,7 +39400,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "NU"
   },
   toedscool: {
     num: 948,
@@ -41152,7 +39428,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   toedscruel: {
     num: 949,
@@ -41180,7 +39455,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   klawf: {
     num: 950,
@@ -41205,7 +39479,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "ZU"
   },
   capsakid: {
     num: 951,
@@ -41234,7 +39507,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "LC"
   },
   scovillain: {
     num: 952,
@@ -41271,7 +39543,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scovillain",
       "Scovillain-Mega"
     ],
-    tier: "ZU"
   },
   scovillainmega: {
     num: 952,
@@ -41300,8 +39571,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   rellor: {
     num: 953,
@@ -41330,7 +39599,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "LC"
   },
   rabsca: {
     num: 954,
@@ -41359,7 +39627,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    tier: "ZU"
   },
   flittle: {
     num: 955,
@@ -41387,7 +39654,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NFE"
   },
   espathra: {
     num: 956,
@@ -41414,7 +39680,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "Uber"
   },
   tinkatink: {
     num: 957,
@@ -41444,7 +39709,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "LC"
   },
   tinkatuff: {
     num: 958,
@@ -41476,7 +39740,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "NFE"
   },
   tinkaton: {
     num: 959,
@@ -41505,7 +39768,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Fairy"
     ],
-    tier: "UU"
   },
   wiglett: {
     num: 960,
@@ -41533,7 +39795,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "LC"
   },
   wugtrio: {
     num: 961,
@@ -41560,7 +39821,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    tier: "ZU"
   },
   bombirdier: {
     num: 962,
@@ -41586,7 +39846,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "PU"
   },
   finizen: {
     num: 963,
@@ -41615,7 +39874,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Water 2"
     ],
-    tier: "LC"
   },
   palafin: {
     num: 964,
@@ -41651,7 +39909,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Water 2"
     ],
-    tier: "Uber"
   },
   palafinhero: {
     num: 964,
@@ -41709,7 +39966,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   revavroom: {
     num: 966,
@@ -41737,7 +39993,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "UU"
   },
   cyclizar: {
     num: 967,
@@ -41763,7 +40018,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "RU"
   },
   orthworm: {
     num: 968,
@@ -41788,7 +40042,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   glimmet: {
     num: 969,
@@ -41817,7 +40070,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "LC"
   },
   glimmora: {
     num: 970,
@@ -41852,7 +40104,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Glimmora",
       "Glimmora-Mega"
     ],
-    tier: "OU"
   },
   glimmoramega: {
     num: 970,
@@ -41880,8 +40131,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   greavard: {
     num: 971,
@@ -41909,7 +40158,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   houndstone: {
     num: 972,
@@ -41937,7 +40185,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NU"
   },
   flamigo: {
     num: 973,
@@ -41963,7 +40210,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    tier: "NU"
   },
   cetoddle: {
     num: 974,
@@ -41991,7 +40237,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "LC"
   },
   cetitan: {
     num: 975,
@@ -42019,7 +40264,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "NUBL"
   },
   veluza: {
     num: 976,
@@ -42045,7 +40289,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "ZU"
   },
   dondozo: {
     num: 977,
@@ -42071,7 +40314,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    tier: "OU"
   },
   tatsugiri: {
     num: 978,
@@ -42113,7 +40355,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Tatsugiri-Droopy-Mega",
       "Tatsugiri-Stretchy-Mega"
     ],
-    tier: "PU"
   },
   tatsugiridroopy: {
     num: 978,
@@ -42196,8 +40437,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2"
     ],
     battleOnly: "Tatsugiri",
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   tatsugiridroopymega: {
     num: 978,
@@ -42226,8 +40465,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2"
     ],
     battleOnly: "Tatsugiri-Droopy",
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   tatsugiristretchymega: {
     num: 978,
@@ -42256,8 +40493,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 2"
     ],
     battleOnly: "Tatsugiri-Stretchy",
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   annihilape: {
     num: 979,
@@ -42287,7 +40522,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "Uber"
   },
   clodsire: {
     num: 980,
@@ -42317,7 +40551,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    tier: "UU"
   },
   farigiraf: {
     num: 981,
@@ -42346,7 +40579,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "ZU"
   },
   dudunsparce: {
     num: 982,
@@ -42383,7 +40615,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    tier: "PU"
   },
   dudunsparcethreesegment: {
     num: 982,
@@ -42442,7 +40673,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Human-Like"
     ],
-    tier: "OU"
   },
   greattusk: {
     num: 984,
@@ -42472,7 +40702,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   screamtail: {
     num: 985,
@@ -42502,7 +40731,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NU"
   },
   brutebonnet: {
     num: 986,
@@ -42532,7 +40760,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "PU"
   },
   fluttermane: {
     num: 987,
@@ -42562,7 +40789,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   slitherwing: {
     num: 988,
@@ -42592,7 +40818,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   sandyshocks: {
     num: 989,
@@ -42622,7 +40847,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   irontreads: {
     num: 990,
@@ -42652,7 +40876,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   ironbundle: {
     num: 991,
@@ -42682,7 +40905,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   ironhands: {
     num: 992,
@@ -42712,7 +40934,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UUBL"
   },
   ironjugulis: {
     num: 993,
@@ -42742,7 +40963,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   ironmoth: {
     num: 994,
@@ -42772,7 +40992,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   ironthorns: {
     num: 995,
@@ -42802,7 +41021,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NUBL"
   },
   frigibax: {
     num: 996,
@@ -42832,7 +41050,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon",
       "Mineral"
     ],
-    tier: "LC"
   },
   arctibax: {
     num: 997,
@@ -42864,7 +41081,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon",
       "Mineral"
     ],
-    tier: "NFE"
   },
   baxcalibur: {
     num: 998,
@@ -42900,7 +41116,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Baxcalibur",
       "Baxcalibur-Mega"
     ],
-    tier: "Uber"
   },
   baxcaliburmega: {
     num: 998,
@@ -42929,8 +41144,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon",
       "Mineral"
     ],
-    tier: "Illegal",
-    isNonstandard: "Future"
   },
   gimmighoul: {
     num: 999,
@@ -42967,7 +41180,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "LC"
   },
   gimmighoulroaming: {
     num: 999,
@@ -42998,7 +41210,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "LC"
   },
   gholdengo: {
     num: 1000,
@@ -43028,7 +41239,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   wochien: {
     num: 1001,
@@ -43058,7 +41268,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NU"
   },
   chienpao: {
     num: 1002,
@@ -43088,7 +41297,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   tinglu: {
     num: 1003,
@@ -43118,7 +41326,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   chiyu: {
     num: 1004,
@@ -43148,7 +41355,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   roaringmoon: {
     num: 1005,
@@ -43178,7 +41384,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   ironvaliant: {
     num: 1006,
@@ -43208,7 +41413,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   koraidon: {
     num: 1007,
@@ -43238,7 +41442,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   miraidon: {
     num: 1008,
@@ -43268,7 +41471,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "AG"
   },
   walkingwake: {
     num: 1009,
@@ -43298,7 +41500,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   ironleaves: {
     num: 1010,
@@ -43328,7 +41529,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "RUBL"
   },
   dipplin: {
     num: 1011,
@@ -43361,7 +41561,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Dragon"
     ],
-    tier: "NFE"
   },
   poltchageist: {
     num: 1012,
@@ -43400,7 +41599,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Poltchageist",
       "Poltchageist-Artisan"
     ],
-    tier: "LC"
   },
   poltchageistartisan: {
     num: 1012,
@@ -43470,7 +41668,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sinistcha",
       "Sinistcha-Masterpiece"
     ],
-    tier: "UU"
   },
   sinistchamasterpiece: {
     num: 1013,
@@ -43531,7 +41728,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UUBL"
   },
   munkidori: {
     num: 1015,
@@ -43561,7 +41757,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "NU"
   },
   fezandipiti: {
     num: 1016,
@@ -43591,7 +41786,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UU"
   },
   ogerpon: {
     num: 1017,
@@ -43641,7 +41835,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ogerpon-Cornerstone-Tera"
     ],
     requiredTeraType: "Grass",
-    tier: "UU"
   },
   ogerponwellspring: {
     num: 1017,
@@ -43672,7 +41865,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Ogerpon",
     requiredTeraType: "Water",
-    tier: "OU"
   },
   ogerponhearthflame: {
     num: 1017,
@@ -43703,7 +41895,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Ogerpon",
     requiredTeraType: "Fire",
-    tier: "Uber"
   },
   ogerponcornerstone: {
     num: 1017,
@@ -43734,7 +41925,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     changesFrom: "Ogerpon",
     requiredTeraType: "Rock",
-    tier: "UUBL"
   },
   ogerpontealtera: {
     num: 1017,
@@ -43883,7 +42073,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral",
       "Dragon"
     ],
-    tier: "Uber"
   },
   hydrapple: {
     num: 1019,
@@ -43913,7 +42102,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Dragon"
     ],
-    tier: "UU"
   },
   gougingfire: {
     num: 1020,
@@ -43940,7 +42128,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "Uber"
   },
   ragingbolt: {
     num: 1021,
@@ -43967,7 +42154,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   ironboulder: {
     num: 1022,
@@ -43994,7 +42180,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "UUBL"
   },
   ironcrown: {
     num: 1023,
@@ -44021,7 +42206,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   },
   terapagos: {
     num: 1024,
@@ -44059,7 +42243,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Terapagos-Stellar"
     ],
     requiredTeraType: "Stellar",
-    tier: "Uber"
   },
   terapagosterastal: {
     num: 1024,
@@ -44116,7 +42299,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     battleOnly: "Terapagos",
     requiredTeraType: "Stellar",
-    tier: "Uber"
   },
   pecharunt: {
     num: 1025,
@@ -44146,6 +42328,5 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    tier: "OU"
   }
 };
