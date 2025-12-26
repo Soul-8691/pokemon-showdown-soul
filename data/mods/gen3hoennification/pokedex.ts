@@ -1271,7 +1271,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 6,
   },
   pikachurockstar: {
     num: 25,
@@ -1300,7 +1299,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Pikachu-Cosplay",
-    gen: 6,
   },
   pikachubelle: {
     num: 25,
@@ -1329,7 +1327,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Pikachu-Cosplay",
-    gen: 6,
   },
   pikachupopstar: {
     num: 25,
@@ -1358,7 +1355,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Pikachu-Cosplay",
-    gen: 6,
   },
   pikachuphd: {
     num: 25,
@@ -1387,7 +1383,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Pikachu-Cosplay",
-    gen: 6,
   },
   pikachulibre: {
     num: 25,
@@ -1416,7 +1411,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Pikachu-Cosplay",
-    gen: 6,
   },
   pikachuoriginal: {
     num: 25,
@@ -1445,7 +1439,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachuhoenn: {
     num: 25,
@@ -1474,7 +1467,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachusinnoh: {
     num: 25,
@@ -1503,7 +1495,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachuunova: {
     num: 25,
@@ -1532,7 +1523,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachukalos: {
     num: 25,
@@ -1561,7 +1551,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachualola: {
     num: 25,
@@ -1590,7 +1579,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachupartner: {
     num: 25,
@@ -1619,7 +1607,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7,
   },
   pikachustarter: {
     num: 25,
@@ -1704,7 +1691,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 8,
   },
   raichu: {
     num: 26,
@@ -1804,7 +1790,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    gen: 9,
   },
   raichumegay: {
     num: 26,
@@ -1832,7 +1817,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    gen: 9,
   },
   sandshrew: {
     num: 27,
@@ -2245,7 +2229,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   vulpix: {
     num: 37,
@@ -3760,7 +3743,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Grass"
     ],
-    gen: 9,
   },
   tentacool: {
     num: 72,
@@ -5974,7 +5956,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    gen: 9,
   },
   mrmime: {
     num: 122,
@@ -7335,7 +7316,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    gen: 9,
   },
   mewtwo: {
     num: 150,
@@ -7592,7 +7572,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Grass"
     ],
-    gen: 9,
   },
   cyndaquil: {
     num: 155,
@@ -7867,7 +7846,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Water 1"
     ],
-    gen: 9,
   },
   sentret: {
     num: 161,
@@ -8240,7 +8218,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 4,
   },
   cleffa: {
     num: 173,
@@ -10261,7 +10238,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    gen: 9,
   },
   houndour: {
     num: 228,
@@ -14767,7 +14743,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    gen: 9,
   },
   absol: {
     num: 359,
@@ -14854,7 +14829,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   wynaut: {
     num: 360,
@@ -16418,7 +16392,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Flying"
     ],
-    gen: 9,
   },
   bidoof: {
     num: 399,
@@ -18029,7 +18002,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    gen: 9,
   },
   munchlax: {
     num: 446,
@@ -18201,7 +18173,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Human-Like"
     ],
-    gen: 9,
   },
   hippopotas: {
     num: 449,
@@ -19174,7 +19145,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Mineral"
     ],
-    gen: 9,
   },
   rotom: {
     num: 479,
@@ -19510,7 +19480,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Dialga",
-    gen: 8,
   },
   palkia: {
     num: 484,
@@ -19576,7 +19545,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Palkia",
-    gen: 8,
   },
   heatran: {
     num: 485,
@@ -19644,7 +19612,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 9,
   },
   regigigas: {
     num: 486,
@@ -19890,7 +19857,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 9,
   },
   shaymin: {
     num: 492,
@@ -20184,7 +20150,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairium Z"
     ],
     changesFrom: "Arceus",
-    gen: 6
   },
   arceusfighting: {
     num: 493,
@@ -20831,7 +20796,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   oshawott: {
     num: 501,
@@ -21766,7 +21730,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   audino: {
     num: 531,
@@ -22268,7 +22231,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Bug"
     ],
-    gen: 9,
   },
   cottonee: {
     num: 546,
@@ -22515,7 +22477,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 2"
     ],
-    gen: 8
   },
   sandile: {
     num: 551,
@@ -22970,7 +22931,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    gen: 9,
   },
   sigilyph: {
     num: 561,
@@ -24461,7 +24421,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    gen: 9,
   },
   elgyem: {
     num: 605,
@@ -24639,7 +24598,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Amorphous"
     ],
-    gen: 9,
   },
   axew: {
     num: 610,
@@ -25091,7 +25049,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Mineral"
     ],
-    gen: 9,
   },
   pawniard: {
     num: 624,
@@ -26382,7 +26339,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   fennekin: {
     num: 653,
@@ -26516,7 +26472,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   froakie: {
     num: 656,
@@ -26651,7 +26606,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 7
   },
   greninjaash: {
     num: 658,
@@ -26682,7 +26636,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     requiredAbility: "Battle Bond",
     battleOnly: "Greninja-Bond",
-    gen: 7,
   },
   greninjamega: {
     num: 658,
@@ -26714,7 +26667,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 1"
     ],
-    gen: 9,
   },
   bunnelby: {
     num: 659,
@@ -27266,7 +27218,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   flabebe: {
     num: 669,
@@ -27414,7 +27365,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     battleOnly: "Floette-Eternal",
-    gen: 9,
   },
   florges: {
     num: 671,
@@ -27740,7 +27690,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     battleOnly: "Meowstic",
-    gen: 9,
   },
   meowsticfmega: {
     num: 678,
@@ -27769,7 +27718,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     battleOnly: "Meowstic-F",
-    gen: 9,
   },
   honedge: {
     num: 679,
@@ -28094,7 +28042,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 2"
     ],
-    gen: 9,
   },
   binacle: {
     num: 688,
@@ -28184,7 +28131,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    gen: 9,
   },
   skrelp: {
     num: 690,
@@ -28277,7 +28223,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    gen: 9,
   },
   clauncher: {
     num: 692,
@@ -28613,7 +28558,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Human-Like"
     ],
-    gen: 9,
   },
   dedenne: {
     num: 702,
@@ -29491,7 +29435,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     changesFrom: "Zygarde",
-    gen: 7,
   },
   zygardecomplete: {
     num: 718,
@@ -29525,7 +29468,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde",
       "Zygarde-10%"
     ],
-    gen: 7,
   },
   zygardemega: {
     num: 718,
@@ -29558,7 +29500,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde",
       "Zygarde-10%"
     ],
-    gen: 9,
   },
   diancie: {
     num: 719,
@@ -30434,7 +30375,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Water 3"
     ],
-    gen: 9,
   },
   oricorio: {
     num: 741,
@@ -31640,7 +31580,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Water 3"
     ],
-    gen: 9,
   },
   sandygast: {
     num: 769,
@@ -32743,7 +32682,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    gen: 9,
   },
   dhelmise: {
     num: 781,
@@ -33558,7 +33496,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 9,
   },
   magearnaoriginalmega: {
     num: 801,
@@ -33588,7 +33525,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     battleOnly: "Magearna-Original",
-    gen: 9,
   },
   marshadow: {
     num: 802,
@@ -33804,7 +33740,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Undiscovered"
     ],
-    gen: 9,
   },
   meltan: {
     num: 808,
@@ -36418,7 +36353,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Mineral"
     ],
-    gen: 9,
   },
   pincurchin: {
     num: 871,
@@ -37822,7 +37756,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     eggGroups: [
       "Field"
     ],
-    gen: 9,
   },
   basculegion: {
     num: 902,
