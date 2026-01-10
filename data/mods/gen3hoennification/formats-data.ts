@@ -4248,6 +4248,6 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   baxcaliburmega: {
-    tier: "OU"
+    tier: "Uber"
   }
 }
