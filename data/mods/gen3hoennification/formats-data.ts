@@ -1851,7 +1851,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   manaphy: {
-    tier: "OU"
+    tier: "Uber"
   },
   darkrai: {
     tier: "Uber"
@@ -2127,7 +2127,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   darmanitangalarzen: {
-    tier: "OU"
+    tier: "Uber"
   },
   maractus: {
     tier: "OU"
