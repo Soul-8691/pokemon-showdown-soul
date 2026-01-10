@@ -2427,7 +2427,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   kyuremblack: {
-    tier: "Uber"
+    tier: "OU"
   },
   kyuremwhite: {
     tier: "Uber"
@@ -3054,7 +3054,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "NFE"
   },
   solgaleo: {
-    tier: "Uber"
+    tier: "OU"
   },
   lunala: {
     tier: "Uber"
