@@ -2860,7 +2860,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     baseStats: {
       hp: 35,
-      atk: 100,
+      atk: 80,
       def: 50,
       spa: 50,
       spd: 70,

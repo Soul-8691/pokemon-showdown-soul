@@ -240,7 +240,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "LC"
   },
   dugtrio: {
-    tier: "Uber"
+    tier: "OU"
   },
   dugtrioalola: {
     tier: "OU"
@@ -2427,7 +2427,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   kyuremblack: {
-    tier: "OU"
+    tier: "Uber"
   },
   kyuremwhite: {
     tier: "Uber"
@@ -3054,7 +3054,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "NFE"
   },
   solgaleo: {
-    tier: "OU"
+    tier: "Uber"
   },
   lunala: {
     tier: "Uber"
@@ -3396,7 +3396,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   eternatus: {
-    tier: "OU"
+    tier: "Uber"
   },
   eternatuseternamax: {
     tier: "Uber"
@@ -3927,7 +3927,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   starmiemega: {
-    tier: "OU"
+    tier: "Uber"
   },
   laprasgmax: {
     tier: "Illegal"
@@ -4143,7 +4143,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   zeraoramega: {
-    tier: "OU"
+    tier: "Uber"
   },
   melmetalgmax: {
     tier: "Illegal"
