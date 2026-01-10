@@ -3396,7 +3396,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   eternatus: {
-    tier: "Uber"
+    tier: "OU"
   },
   eternatuseternamax: {
     tier: "Uber"
@@ -3939,7 +3939,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   dragonitemega: {
-    tier: "OU"
+    tier: "Uber"
   },
   meganiummega: {
     tier: "OU"
@@ -3972,7 +3972,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   garchompmegaz: {
-    tier: "OU"
+    tier: "Uber"
   },
   lucariomegaz: {
     tier: "Uber"
@@ -3981,10 +3981,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   heatranmega: {
-    tier: "OU"
+    tier: "Uber"
   },
   darkraimega: {
-    tier: "OU"
+    tier: "Uber"
   },
   emboarmega: {
     tier: "OU"
@@ -4104,7 +4104,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   zygardemega: {
-    tier: "OU"
+    tier: "Uber"
   },
   crabominablemega: {
     tier: "OU"
@@ -4137,10 +4137,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   magearnamega: {
-    tier: "OU"
+    tier: "Uber"
   },
   magearnaoriginalmega: {
-    tier: "OU"
+    tier: "Uber"
   },
   zeraoramega: {
     tier: "OU"
