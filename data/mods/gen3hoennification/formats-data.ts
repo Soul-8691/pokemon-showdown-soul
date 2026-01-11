@@ -2715,7 +2715,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   zygarde: {
-    tier: "Uber"
+    tier: "OU"
   },
   zygarde10: {
     tier: "OU"
