@@ -648,7 +648,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   mewtwo: {
-    tier: "OU"
+    tier: "Uber"
   },
   mewtwomegax: {
     tier: "Illegal"
@@ -657,7 +657,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   mew: {
-    tier: "OU"
+    tier: "Uber"
   },
   chikorita: {
     tier: "LC"
@@ -825,7 +825,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   wobbuffet: {
-    tier: "OU"
+    tier: "Uber"
   },
   girafarig: {
     tier: "LC"
@@ -990,10 +990,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   lugia: {
-    tier: "OU"
+    tier: "Uber"
   },
   hooh: {
-    tier: "OU"
+    tier: "Uber"
   },
   celebi: {
     tier: "OU"
@@ -1380,7 +1380,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   wynaut: {
-    tier: "LC"
+    tier: "Uber"
   },
   snorunt: {
     tier: "LC"
@@ -1461,19 +1461,19 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   kyogre: {
-    tier: "OU"
+    tier: "Uber"
   },
   kyogreprimal: {
     tier: "Illegal"
   },
   groudon: {
-    tier: "OU"
+    tier: "Uber"
   },
   groudonprimal: {
     tier: "Illegal"
   },
   rayquaza: {
-    tier: "OU"
+    tier: "Uber"
   },
   rayquazamega: {
     tier: "Illegal"
@@ -1482,10 +1482,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   deoxys: {
-    tier: "OU"
+    tier: "Uber"
   },
   deoxysattack: {
-    tier: "OU"
+    tier: "Uber"
   },
   deoxysdefense: {
     tier: "OU"
