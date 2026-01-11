@@ -3054,7 +3054,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Illegal"
   },
   solgaleo: {
-    tier: "OU"
+    tier: "Illegal"
   },
   lunala: {
     tier: "Illegal"
