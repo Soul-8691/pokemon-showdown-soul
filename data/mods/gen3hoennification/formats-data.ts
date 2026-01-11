@@ -3978,7 +3978,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   froslassmega: {
-    tier: "OU"
+    tier: "Uber"
   },
   heatranmega: {
     tier: "Uber"
@@ -3993,7 +3993,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "Uber"
   },
   scolipedemega: {
-    tier: "OU"
+    tier: "Uber"
   },
   scraftymega: {
     tier: "OU"
