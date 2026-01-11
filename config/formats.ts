@@ -83,6 +83,24 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Uber', 'Agility + Wrap', 'Agility + Fire Spin', 'Agility + Bind', 'Agility + Clamp'],
 	},
 	{
+		name: "[Gen 3] Revamp",
+		mod: 'gen3advrevamp',
+		ruleset: ['Standard', 'Baton Pass Mod', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Smeargle + Ingrain', 'Drizzle', 'Drought', 'Starf Berry', 'Speed Boost + Blaziken', 'Soul Dew'],
+	},
+    {
+		name: "[Gen 3] Revamp - BP",
+		mod: 'gen3advrevamp',
+		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Smeargle + Ingrain', 'Drizzle', 'Drought', 'Starf Berry', 'Speed Boost + Blaziken', 'Jolteon + Calm Mind + Baton Pass', 'Soul Dew'],
+	},
+    {
+		name: "[Gen 3] Revamp - No BP",
+		mod: 'gen3advrevamp',
+		ruleset: ['Standard', 'Baton Pass Mod', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass', 'Smeargle + Ingrain', 'Drizzle', 'Drought', 'Starf Berry', 'Speed Boost + Blaziken', 'Soul Dew'],
+	},
+	{
 		name: "[Gen 3] Tradebacks",
 		mod: 'gen3tradebacks',
 		ruleset: ['Standard', /*'Baton Pass Mod',*/ 'One Boost Passer Clause', 'Freeze Clause Mod', 'Data Mod'],
