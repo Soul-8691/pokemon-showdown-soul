@@ -20748,7 +20748,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairium Z"
     ],
     changesFrom: "Arceus",
-    gen: 1,
   },
   arceusfighting: {
     num: 493,
