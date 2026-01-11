@@ -9,7 +9,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   venusaurmega: {
-    tier: "Uber"
+    tier: "OU"
   },
   charmander: {
     tier: "LC"
@@ -3447,7 +3447,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
     tier: "OU"
   },
   ursaluna: {
-    tier: "Uber"
+    tier: "OU"
   },
   ursalunabloodmoon: {
     tier: "OU"
